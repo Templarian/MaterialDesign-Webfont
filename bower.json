@@ -13,7 +13,8 @@
     "license": ["OFL-1.1", "MIT"],
     "ignore": [
         "*.md",
-        "*.json"
+        "*.json",
+        "*.html"
     ],
     "keywords": [
         "material",
