@@ -1,6 +1,6 @@
 {
     "name": "mdi",
-    "version": "0.5.18-alpha",
+    "version": "0.6.83-alpha",
     "main": [ 
         "materialdesignicons.css",
         "fonts/*"
