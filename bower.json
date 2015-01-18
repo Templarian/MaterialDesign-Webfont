@@ -1,6 +1,6 @@
 {
     "name": "mdi",
-    "version": "0.7.22-alpha",
+    "version": "0.7.33-alpha",
     "main": [ 
         "materialdesignicons.css",
         "fonts/*"
@@ -13,8 +13,7 @@
     "license": ["OFL-1.1", "MIT"],
     "ignore": [
         "*.md",
-        "*.json",
-        "*.html"
+        "*.json"
     ],
     "keywords": [
         "material",
