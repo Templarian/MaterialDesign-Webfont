@@ -1,9 +1,12 @@
 {
     "name": "mdi",
-    "version": "0.8.82-alpha",
+    "version": "0.9.21-alpha",
     "main": [ 
         "materialdesignicons.css",
-        "fonts/*"
+        "fonts/*",
+        "css/*",
+        "scss/*",
+        "preview.html"
     ],
     "homepage": "http://materialdesignicons.com",
     "authors": [
