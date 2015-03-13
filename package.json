@@ -1,6 +1,6 @@
 {
   "name": "mdi",
-  "version": "0.9.22-alpha",
+  "version": "0.9.72-alpha",
   "description": "Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont collection.",
   "main": "preview.html",
   "scripts": {
