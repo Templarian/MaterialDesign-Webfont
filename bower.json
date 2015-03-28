@@ -2,6 +2,7 @@
     "name": "mdi",
     "version": "1.0.8-beta",
     "main": [
+        "css/materialdesignicons.css",
         "fonts/*",
         "css/*",
         "scss/*",
