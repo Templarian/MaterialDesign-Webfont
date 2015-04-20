@@ -1,6 +1,6 @@
 {
     "name": "mdi",
-    "version": "1.0.8-beta",
+    "version": "1.0.62-beta",
     "main": [
         "fonts/*",
         "css/*",
