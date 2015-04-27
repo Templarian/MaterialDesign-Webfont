@@ -1,3 +1,4 @@
+@import "variables";
 .#{$mdi-css-prefix} {
   display: inline-block;
   font: normal normal normal #{$mdi-font-size-base}/1 MaterialDesignIcons; // shortening font declaration
