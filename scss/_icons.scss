@@ -13,7 +13,7 @@ $names: 'account' 'account-alert' 'account-box' 'account-box-outline' 'account-c
 }
 
 @for $i from 1 through length($hexes) {
-    .mdi-#{nth($names, $i)}::before {
+    .#{$mdi-css-prefix}-#{nth($names, $i)}::before {
         content: char(nth($hexes, $i));
     }
 }
