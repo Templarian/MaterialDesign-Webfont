@@ -1,0 +1,14 @@
+@function char($character-code) {
+    @if function-exists("selector-append") {
+        @return unquote("\"\\#{$character-code}\"");
+    }
+    @if "\\#{'x'}" == "\\x" {
+        @return str-slice("\x", 1, 1) + $character-code;
+    } @else {
+        @return #{"\"\\"}#{$character-code + "\""};
+    }
+}
+
+@function mdi($name) {
+    @return char(nth($hexes, index($names, $name)));
+}
