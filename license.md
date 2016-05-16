@@ -1,5 +1,6 @@
 Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),
 with Reserved Font Name Material Design Icons.
+
 Copyright (c) 2014, Google (http://www.google.com/design/)
 uses the license at https://github.com/google/material-design-icons/blob/master/LICENSE
 
