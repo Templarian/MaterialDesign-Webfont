@@ -5,6 +5,7 @@
         "css/materialdesignicons.css",
         "fonts/*",
         "css/*",
+        "scss/_variables.scss",
         "scss/*",
         "package.json",
         "preview.html"
