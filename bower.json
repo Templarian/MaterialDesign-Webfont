@@ -33,9 +33,5 @@
     "design",
     "icons",
     "webfont"
-  ],
-  "description": "",
-  "dependencies": {
-    "mdi": "mdi-scss#^1.6.52"
-  }
+  ]
 }
