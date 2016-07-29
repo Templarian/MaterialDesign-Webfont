@@ -1,28 +1,37 @@
 {
-    "name": "mdi",
-    "version": "1.6.50",
-    "main": [
-        "css/materialdesignicons.css",
-        "fonts/*",
-        "css/*",
-        "scss/*",
-        "package.json",
-        "preview.html"
-    ],
-    "homepage": "http://materialdesignicons.com",
-    "authors": [
-        { "name": "Austin Andrews", "homepage": "http://templarian.com" },
-        { "name": "Google", "homepage": "http://www.google.com/design" }
-    ],
-    "license": ["OFL-1.1", "MIT"],
-    "ignore": [
-        "*.md",
-        "*.json"
-    ],
-    "keywords": [
-        "material",
-        "design",
-        "icons",
-        "webfont"
-    ]
+  "name": "mdi-scss",
+  "version": "1.6.52",
+  "main": [
+    "scss/materialdesignicons.scss"
+  ],
+  "homepage": "http://materialdesignicons.com",
+  "authors": [
+    {
+      "name": "Austin Andrews",
+      "homepage": "http://templarian.com"
+    },
+    {
+      "name": "Google",
+      "homepage": "http://www.google.com/design"
+    }
+  ],
+  "license": [
+    "OFL-1.1",
+    "MIT"
+  ],
+  "ignore": [
+    "*.md",
+    "*.json",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "webfont"
+  ]
 }
