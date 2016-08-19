@@ -1,13 +1,8 @@
 {
     "name": "mdi",
-    "version": "1.6.50",
+    "version": "1.7.12",
     "main": [
-        "css/materialdesignicons.css",
-        "fonts/*",
-        "css/*",
-        "scss/*",
-        "package.json",
-        "preview.html"
+        "scss/materialdesignicons.scss"
     ],
     "homepage": "http://materialdesignicons.com",
     "authors": [
