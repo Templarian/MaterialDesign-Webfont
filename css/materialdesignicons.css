@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=1.7.12");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=1.7.12") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=1.7.12") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=1.7.12") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=1.7.12") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=1.7.12#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=1.7.22");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=1.7.22") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=1.7.22") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=1.7.22") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=1.7.22") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=1.7.22#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -10,6 +10,7 @@
 .mdi-set {
   display: inline-block;
   font: normal normal normal 24px/1 "Material Design Icons";
+  font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -254,6 +255,10 @@
 
 .mdi-android-studio:before {
   content: "\F034";
+}
+
+.mdi-angular:before {
+  content: "\F6B1";
 }
 
 .mdi-animation:before {
@@ -2204,6 +2209,10 @@
   content: "\F698";
 }
 
+.mdi-dolby:before {
+  content: "\F6B2";
+}
+
 .mdi-domain:before {
   content: "\F1D7";
 }
@@ -2322,6 +2331,10 @@
 
 .mdi-email-variant:before {
   content: "\F5F0";
+}
+
+.mdi-emby:before {
+  content: "\F6B3";
 }
 
 .mdi-emoticon:before {
@@ -3716,6 +3729,10 @@
   content: "\F627";
 }
 
+.mdi-lamp:before {
+  content: "\F6B4";
+}
+
 .mdi-lan:before {
   content: "\F317";
 }
@@ -4040,6 +4057,10 @@
   content: "\F35D";
 }
 
+.mdi-menu-down-outline:before {
+  content: "\F6B5";
+}
+
 .mdi-menu-left:before {
   content: "\F35E";
 }
@@ -4050,6 +4071,10 @@
 
 .mdi-menu-up:before {
   content: "\F360";
+}
+
+.mdi-menu-up-outline:before {
+  content: "\F6B6";
 }
 
 .mdi-message:before {
@@ -4326,6 +4351,14 @@
 
 .mdi-note:before {
   content: "\F39A";
+}
+
+.mdi-note-multiple:before {
+  content: "\F6B7";
+}
+
+.mdi-note-multiple-outline:before {
+  content: "\F6B8";
 }
 
 .mdi-note-outline:before {
@@ -4808,6 +4841,10 @@
   content: "\F409";
 }
 
+.mdi-plane-shield:before {
+  content: "\F6BA";
+}
+
 .mdi-play:before {
   content: "\F40A";
 }
@@ -4854,6 +4891,10 @@
 
 .mdi-playstation:before {
   content: "\F414";
+}
+
+.mdi-plex:before {
+  content: "\F6B9";
 }
 
 .mdi-plus:before {

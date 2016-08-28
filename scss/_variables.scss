@@ -5,7 +5,7 @@ $mdi-font-weight:      "regular";
 $mdi-font-path:        "../fonts" !default;
 $mdi-font-size-base:   24px !default;
 $mdi-css-prefix:       mdi !default;
-$mdi-version:          "1.7.12" !default;
+$mdi-version:          "1.7.22" !default;
 
 $mdi-icons: (
     "access-point": F002,
@@ -68,6 +68,7 @@ $mdi-icons: (
     "android": F032,
     "android-debug-bridge": F033,
     "android-studio": F034,
+    "angular": F6B1,
     "animation": F5D8,
     "apple": F035,
     "apple-finder": F036,
@@ -555,6 +556,7 @@ $mdi-icons: (
     "dns": F1D6,
     "do-not-disturb": F697,
     "do-not-disturb-off": F698,
+    "dolby": F6B2,
     "domain": F1D7,
     "dots-horizontal": F1D8,
     "dots-vertical": F1D9,
@@ -585,6 +587,7 @@ $mdi-icons: (
     "email-outline": F1F0,
     "email-secure": F1F1,
     "email-variant": F5F0,
+    "emby": F6B3,
     "emoticon": F1F2,
     "emoticon-cool": F1F3,
     "emoticon-dead": F69A,
@@ -933,6 +936,7 @@ $mdi-icons: (
     "label": F315,
     "label-outline": F316,
     "lambda": F627,
+    "lamp": F6B4,
     "lan": F317,
     "lan-connect": F318,
     "lan-disconnect": F319,
@@ -1014,9 +1018,11 @@ $mdi-icons: (
     "memory": F35B,
     "menu": F35C,
     "menu-down": F35D,
+    "menu-down-outline": F6B5,
     "menu-left": F35E,
     "menu-right": F35F,
     "menu-up": F360,
+    "menu-up-outline": F6B6,
     "message": F361,
     "message-alert": F362,
     "message-bulleted": F6A1,
@@ -1086,6 +1092,8 @@ $mdi-icons: (
     "nfc-variant": F398,
     "nodejs": F399,
     "note": F39A,
+    "note-multiple": F6B7,
+    "note-multiple-outline": F6B8,
     "note-outline": F39B,
     "note-plus": F39C,
     "note-plus-outline": F39D,
@@ -1206,6 +1214,7 @@ $mdi-icons: (
     "pinterest": F407,
     "pinterest-box": F408,
     "pizza": F409,
+    "plane-shield": F6BA,
     "play": F40A,
     "play-box-outline": F40B,
     "play-circle": F40C,
@@ -1218,6 +1227,7 @@ $mdi-icons: (
     "playlist-plus": F412,
     "playlist-remove": F413,
     "playstation": F414,
+    "plex": F6B9,
     "plus": F415,
     "plus-box": F416,
     "plus-circle": F417,
