@@ -12,5 +12,8 @@
 }
 
 @function mdi($name) {
+    @if map-has-key($mdi-icons, $name) == false {
+      @return "";
+    }
     @return char(map-get($mdi-icons, $name));
 }
