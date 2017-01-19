@@ -1,4 +1,3 @@
-// material design recommended icon sizes
 $sizes: 18 24 36 48;
 @each $size in $sizes {
     .#{$mdi-css-prefix}-#{$size}px {
@@ -9,7 +8,6 @@ $sizes: 18 24 36 48;
     }
 }
 
-// material design recommended icon opacity
 .#{$mdi-css-prefix}-dark {
     color: rgba(0, 0, 0, 0.54);
     &.mdi-inactive {
@@ -23,7 +21,6 @@ $sizes: 18 24 36 48;
     }
 }
 
-// rotation
 $degrees: 45 90 135 180 225 270 315;
 @each $degree in $degrees {
     .#{$mdi-css-prefix}-rotate-#{$degree} {

@@ -3,7 +3,3 @@
         content: char($value);
     }
 }
-.#{$mdi-css-prefix}-blank:before {
-    content: "\F68C";
-    visibility: hidden;
-}
