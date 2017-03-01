@@ -1,16 +1,20 @@
-// [1] shortening font declaration
-// [2] can't have font-size inherit on line above, so need to override
-// [3] optimizelegibility throws things off #1094
-// [4] ensures no half-pixel rendering in firefox
+// [1] Material icons should be 24px by default
+// [2] Protect against inherited line-heights
+// [3] Optimizelegibility throws things off #1094
+// [4] Ensures no half-pixel rendering in firefox
+// [5] Protect against inherited text-transforms
+// [6] Material icons are designed to be vertically aligned center, not baseline
 
 .#{$mdi-css-prefix}:before,
 .#{$mdi-css-prefix}-set {
   display: inline-block;
-  font: normal normal normal #{$mdi-font-size-base}/1 '#{$mdi-font-name}'; // [1]
-  font-size: inherit; // [2]
+  font: normal normal normal #{$mdi-font-size-base}/1 '#{$mdi-font-name}';
+  font-size: #{$mdi-font-size-base}; // [1]
+  line-height: 1; // [2]
   text-rendering: auto; // [3]
-  line-height: inherit;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   transform: translate(0, 0); // [4]
+  text-transform: none; // [5]
+  vertical-align: middle; // [6]
 }
