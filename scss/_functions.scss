@@ -1,4 +1,4 @@
-﻿@function char($character-code) {
+﻿@function mdi-char($character-code) {
   @if function-exists("selector-append") {
     @return unquote("\"\\#{$character-code}\"");
   }
@@ -17,6 +17,6 @@
     @warn "Icon #{$name} not found.";
     @return "";
   }
-  
-  @return char(map-get($mdi-icons, $name));
+
+  @return mdi-char(map-get($mdi-icons, $name));
 }

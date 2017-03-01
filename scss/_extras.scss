@@ -1,6 +1,6 @@
-$sizes: 18 24 36 48;
+$mdi-sizes: 18 24 36 48;
 
-@each $size in $sizes {
+@each $size in $mdi-sizes {
   .#{$mdi-css-prefix}-#{$size}px {
     &.#{$mdi-css-prefix}-set,
     &.#{$mdi-css-prefix}:before {
@@ -25,9 +25,9 @@ $sizes: 18 24 36 48;
   }
 }
 
-$degrees: 45 90 135 180 225 270 315;
+$mdi-degrees: 45 90 135 180 225 270 315;
 
-@each $degree in $degrees {
+@each $degree in $mdi-degrees {
   .#{$mdi-css-prefix}-rotate-#{$degree} {
     -webkit-transform: rotate(#{$degree}deg);
     -ms-transform: rotate(#{$degree}deg);
