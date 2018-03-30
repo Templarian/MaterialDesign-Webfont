@@ -9,7 +9,7 @@ npm install @mdi/font
 bower install mdi
 ```
 
-# Related Packages
+## Related Packages
 
 [NPM @MDI Organization](https://npmjs.com/org/mdi)
 
