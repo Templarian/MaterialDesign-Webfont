@@ -17,4 +17,5 @@ bower install mdi
 
 ## Learn More
 
-https://github.com/Templarian/MaterialDesign
+- [MaterialDesignIcons.com](https://materialdesignicons.com)
+- https://github.com/Templarian/MaterialDesign
