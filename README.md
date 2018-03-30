@@ -2,7 +2,7 @@
 
 # MaterialDesign
 
-NPM/Bower Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont collection.
+Webfont distribution for the [Material Design Icons](https://materialdesignicons.com).
 
 ```
 npm install @mdi/font
