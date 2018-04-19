@@ -5,7 +5,7 @@ $mdi-font-weight:      "regular";
 $mdi-font-path:        "../fonts" !default;
 $mdi-font-size-base:   24px !default;
 $mdi-css-prefix:       mdi !default;
-$mdi-version:          "2.3.50" !default;
+$mdi-version:          "2.3.54" !default;
 
 $mdi-icons: (
     "access-point": F002,
@@ -1625,6 +1625,8 @@ $mdi-icons: (
     "pillar": F701,
     "pin": F403,
     "pin-off": F404,
+    "pin-off-outline": F92F,
+    "pin-outline": F930,
     "pine-tree": F405,
     "pine-tree-box": F406,
     "pinterest": F407,
@@ -1853,6 +1855,7 @@ $mdi-icons: (
     "shape-rectangle-plus": F65F,
     "shape-square-plus": F660,
     "share": F496,
+    "share-outline": F931,
     "share-variant": F497,
     "shield": F498,
     "shield-half-full": F77F,
@@ -2105,6 +2108,7 @@ $mdi-icons: (
     "towing": F83B,
     "track-light": F913,
     "trackpad": F7F7,
+    "trackpad-lock": F932,
     "tractor": F891,
     "traffic-light": F52B,
     "train": F52C,
