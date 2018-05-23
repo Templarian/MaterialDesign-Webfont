@@ -1,6 +1,5 @@
 {
     "name": "mdi",
-    "version": "2.3.54",
     "main": [
         "scss/materialdesignicons.scss"
     ],

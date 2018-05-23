@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=2.3.54");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=2.3.54") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=2.3.54") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=2.3.54") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=2.3.54") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=2.3.54#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=2.4.85");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=2.4.85") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=2.4.85") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=2.4.85") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=2.4.85") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=2.4.85#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -35,6 +35,10 @@
 
 .mdi-account-box:before {
   content: "\F006";
+}
+
+.mdi-account-box-multiple:before {
+  content: "\F933";
 }
 
 .mdi-account-box-outline:before {
@@ -133,6 +137,10 @@
   content: "\F016";
 }
 
+.mdi-account-search-outline:before {
+  content: "\F934";
+}
+
 .mdi-account-settings:before {
   content: "\F630";
 }
@@ -155,6 +163,10 @@
 
 .mdi-adjust:before {
   content: "\F01A";
+}
+
+.mdi-adobe:before {
+  content: "\F935";
 }
 
 .mdi-air-conditioner:before {
@@ -317,6 +329,18 @@
   content: "\F034";
 }
 
+.mdi-angle-acute:before {
+  content: "\F936";
+}
+
+.mdi-angle-obtuse:before {
+  content: "\F937";
+}
+
+.mdi-angle-right:before {
+  content: "\F938";
+}
+
 .mdi-angular:before {
   content: "\F6B1";
 }
@@ -327,6 +351,10 @@
 
 .mdi-animation:before {
   content: "\F5D8";
+}
+
+.mdi-animation-play:before {
+  content: "\F939";
 }
 
 .mdi-anvil:before {
@@ -617,6 +645,14 @@
   content: "\F055";
 }
 
+.mdi-arrow-split-horizontal:before {
+  content: "\F93A";
+}
+
+.mdi-arrow-split-vertical:before {
+  content: "\F93B";
+}
+
 .mdi-arrow-top-left:before {
   content: "\F05B";
 }
@@ -695,6 +731,10 @@
 
 .mdi-attachment:before {
   content: "\F066";
+}
+
+.mdi-audio-video:before {
+  content: "\F93C";
 }
 
 .mdi-audiobook:before {
@@ -813,40 +853,88 @@
   content: "\F07A";
 }
 
+.mdi-battery-10-bluetooth:before {
+  content: "\F93D";
+}
+
 .mdi-battery-20:before {
   content: "\F07B";
+}
+
+.mdi-battery-20-bluetooth:before {
+  content: "\F93E";
 }
 
 .mdi-battery-30:before {
   content: "\F07C";
 }
 
+.mdi-battery-30-bluetooth:before {
+  content: "\F93F";
+}
+
 .mdi-battery-40:before {
   content: "\F07D";
+}
+
+.mdi-battery-40-bluetooth:before {
+  content: "\F940";
 }
 
 .mdi-battery-50:before {
   content: "\F07E";
 }
 
+.mdi-battery-50-bluetooth:before {
+  content: "\F941";
+}
+
 .mdi-battery-60:before {
   content: "\F07F";
+}
+
+.mdi-battery-60-bluetooth:before {
+  content: "\F942";
 }
 
 .mdi-battery-70:before {
   content: "\F080";
 }
 
+.mdi-battery-70-bluetooth:before {
+  content: "\F943";
+}
+
 .mdi-battery-80:before {
   content: "\F081";
+}
+
+.mdi-battery-80-bluetooth:before {
+  content: "\F944";
 }
 
 .mdi-battery-90:before {
   content: "\F082";
 }
 
+.mdi-battery-90-bluetooth:before {
+  content: "\F945";
+}
+
 .mdi-battery-alert:before {
   content: "\F083";
+}
+
+.mdi-battery-alert-bluetooth:before {
+  content: "\F946";
+}
+
+.mdi-battery-bluetooth:before {
+  content: "\F947";
+}
+
+.mdi-battery-bluetooth-variant:before {
+  content: "\F948";
 }
 
 .mdi-battery-charging:before {
@@ -967,6 +1055,10 @@
 
 .mdi-battery-unknown:before {
   content: "\F091";
+}
+
+.mdi-battery-unknown-bluetooth:before {
+  content: "\F949";
 }
 
 .mdi-beach:before {
@@ -1377,6 +1469,10 @@
   content: "\F0E3";
 }
 
+.mdi-buddhism:before {
+  content: "\F94A";
+}
+
 .mdi-buffer:before {
   content: "\F619";
 }
@@ -1491,6 +1587,10 @@
 
 .mdi-calendar-remove:before {
   content: "\F0F4";
+}
+
+.mdi-calendar-search:before {
+  content: "\F94B";
 }
 
 .mdi-calendar-text:before {
@@ -1793,8 +1893,16 @@
   content: "\F11F";
 }
 
+.mdi-cellphone-erase:before {
+  content: "\F94C";
+}
+
 .mdi-cellphone-iphone:before {
   content: "\F120";
+}
+
+.mdi-cellphone-key:before {
+  content: "\F94D";
 }
 
 .mdi-cellphone-link:before {
@@ -1805,12 +1913,28 @@
   content: "\F122";
 }
 
+.mdi-cellphone-lock:before {
+  content: "\F94E";
+}
+
 .mdi-cellphone-message:before {
   content: "\F8D2";
 }
 
+.mdi-cellphone-off:before {
+  content: "\F94F";
+}
+
 .mdi-cellphone-settings:before {
   content: "\F123";
+}
+
+.mdi-cellphone-settings-variant:before {
+  content: "\F950";
+}
+
+.mdi-cellphone-sound:before {
+  content: "\F951";
 }
 
 .mdi-cellphone-text:before {
@@ -2061,6 +2185,10 @@
   content: "\F61A";
 }
 
+.mdi-christiantiy:before {
+  content: "\F952";
+}
+
 .mdi-church:before {
   content: "\F144";
 }
@@ -2142,10 +2270,14 @@
 }
 
 .mdi-clock:before {
-  content: "\F150";
+  content: "\F953";
 }
 
 .mdi-clock-alert:before {
+  content: "\F954";
+}
+
+.mdi-clock-alert-outline:before {
   content: "\F5CE";
 }
 
@@ -2163,6 +2295,10 @@
 
 .mdi-clock-out:before {
   content: "\F154";
+}
+
+.mdi-clock-outline:before {
+  content: "\F150";
 }
 
 .mdi-clock-start:before {
@@ -2243,6 +2379,14 @@
 
 .mdi-cloud-print-outline:before {
   content: "\F166";
+}
+
+.mdi-cloud-search:before {
+  content: "\F955";
+}
+
+.mdi-cloud-search-outline:before {
+  content: "\F956";
 }
 
 .mdi-cloud-sync:before {
@@ -2521,6 +2665,10 @@
   content: "\F5E6";
 }
 
+.mdi-cordova:before {
+  content: "\F957";
+}
+
 .mdi-corn:before {
   content: "\F7B7";
 }
@@ -2601,6 +2749,10 @@
   content: "\F1A5";
 }
 
+.mdi-cryengine:before {
+  content: "\F958";
+}
+
 .mdi-cube:before {
   content: "\F1A6";
 }
@@ -2627,6 +2779,10 @@
 
 .mdi-cup-water:before {
   content: "\F1AB";
+}
+
+.mdi-cupcake:before {
+  content: "\F959";
 }
 
 .mdi-curling:before {
@@ -2705,6 +2861,14 @@
   content: "\F679";
 }
 
+.mdi-current-ac:before {
+  content: "\F95A";
+}
+
+.mdi-current-dc:before {
+  content: "\F95B";
+}
+
 .mdi-cursor-default:before {
   content: "\F1B4";
 }
@@ -2727,6 +2891,14 @@
 
 .mdi-database:before {
   content: "\F1B8";
+}
+
+.mdi-database-export:before {
+  content: "\F95D";
+}
+
+.mdi-database-import:before {
+  content: "\F95C";
 }
 
 .mdi-database-minus:before {
@@ -2811,6 +2983,10 @@
 
 .mdi-delta:before {
   content: "\F1C2";
+}
+
+.mdi-desk-lamp:before {
+  content: "\F95E";
 }
 
 .mdi-deskphone:before {
@@ -2927,6 +3103,10 @@
 
 .mdi-disk-alert:before {
   content: "\F1D1";
+}
+
+.mdi-disk-player:before {
+  content: "\F95F";
 }
 
 .mdi-disqus:before {
@@ -3133,6 +3313,14 @@
   content: "\F1F0";
 }
 
+.mdi-email-search:before {
+  content: "\F960";
+}
+
+.mdi-email-search-outline:before {
+  content: "\F961";
+}
+
 .mdi-email-secure:before {
   content: "\F1F1";
 }
@@ -3251,6 +3439,14 @@
 
 .mdi-exit-to-app:before {
   content: "\F206";
+}
+
+.mdi-exponent:before {
+  content: "\F962";
+}
+
+.mdi-exponent-box:before {
+  content: "\F963";
 }
 
 .mdi-export:before {
@@ -3387,6 +3583,14 @@
 
 .mdi-file-document-box:before {
   content: "\F21A";
+}
+
+.mdi-file-download:before {
+  content: "\F964";
+}
+
+.mdi-file-download-outline:before {
+  content: "\F965";
 }
 
 .mdi-file-excel:before {
@@ -3547,6 +3751,10 @@
 
 .mdi-fire-truck:before {
   content: "\F8AA";
+}
+
+.mdi-firebase:before {
+  content: "\F966";
 }
 
 .mdi-firefox:before {
@@ -3731,6 +3939,14 @@
 
 .mdi-folder-remove:before {
   content: "\F258";
+}
+
+.mdi-folder-search:before {
+  content: "\F967";
+}
+
+.mdi-folder-search-outline:before {
+  content: "\F968";
 }
 
 .mdi-folder-star:before {
@@ -3941,6 +4157,10 @@
   content: "\F27A";
 }
 
+.mdi-format-list-checkbox:before {
+  content: "\F969";
+}
+
 .mdi-format-list-checks:before {
   content: "\F755";
 }
@@ -4059,6 +4279,10 @@
 
 .mdi-forward:before {
   content: "\F28D";
+}
+
+.mdi-fountain:before {
+  content: "\F96A";
 }
 
 .mdi-foursquare:before {
@@ -4373,6 +4597,10 @@
   content: "\F2B7";
 }
 
+.mdi-google-fit:before {
+  content: "\F96B";
+}
+
 .mdi-google-glass:before {
   content: "\F2B8";
 }
@@ -4445,6 +4673,14 @@
   content: "\F648";
 }
 
+.mdi-greater-than:before {
+  content: "\F96C";
+}
+
+.mdi-greater-than-or-equal:before {
+  content: "\F96D";
+}
+
 .mdi-grid:before {
   content: "\F2C1";
 }
@@ -4501,12 +4737,20 @@
   content: "\F2C8";
 }
 
+.mdi-hard-hat:before {
+  content: "\F96E";
+}
+
 .mdi-harddisk:before {
   content: "\F2CA";
 }
 
 .mdi-headphones:before {
   content: "\F2CB";
+}
+
+.mdi-headphones-bluetooth:before {
+  content: "\F96F";
 }
 
 .mdi-headphones-box:before {
@@ -4547,6 +4791,14 @@
 
 .mdi-heart-broken:before {
   content: "\F2D4";
+}
+
+.mdi-heart-circle:before {
+  content: "\F970";
+}
+
+.mdi-heart-circle-outline:before {
+  content: "\F971";
 }
 
 .mdi-heart-half:before {
@@ -4617,6 +4869,10 @@
   content: "\F5F7";
 }
 
+.mdi-hinduism:before {
+  content: "\F972";
+}
+
 .mdi-history:before {
   content: "\F2DA";
 }
@@ -4677,12 +4933,20 @@
   content: "\F5F8";
 }
 
+.mdi-home-minus:before {
+  content: "\F973";
+}
+
 .mdi-home-modern:before {
   content: "\F2DD";
 }
 
 .mdi-home-outline:before {
   content: "\F6A0";
+}
+
+.mdi-home-plus:before {
+  content: "\F974";
 }
 
 .mdi-home-variant:before {
@@ -4849,8 +5113,20 @@
   content: "\F82A";
 }
 
+.mdi-image-outline:before {
+  content: "\F975";
+}
+
 .mdi-image-plus:before {
   content: "\F87B";
+}
+
+.mdi-image-search:before {
+  content: "\F976";
+}
+
+.mdi-image-search-outline:before {
+  content: "\F977";
 }
 
 .mdi-import:before {
@@ -4909,6 +5185,10 @@
   content: "\F301";
 }
 
+.mdi-islam:before {
+  content: "\F978";
+}
+
 .mdi-itunes:before {
   content: "\F676";
 }
@@ -4931,6 +5211,10 @@
 
 .mdi-json:before {
   content: "\F626";
+}
+
+.mdi-judaism:before {
+  content: "\F979";
 }
 
 .mdi-karate:before {
@@ -4987,6 +5271,10 @@
 
 .mdi-keyboard-off:before {
   content: "\F310";
+}
+
+.mdi-keyboard-outline:before {
+  content: "\F97A";
 }
 
 .mdi-keyboard-return:before {
@@ -5181,6 +5469,14 @@
   content: "\F330";
 }
 
+.mdi-less-than:before {
+  content: "\F97B";
+}
+
+.mdi-less-than-or-equal:before {
+  content: "\F97C";
+}
+
 .mdi-library:before {
   content: "\F331";
 }
@@ -5199,6 +5495,10 @@
 
 .mdi-lifebuoy:before {
   content: "\F87D";
+}
+
+.mdi-light-switch:before {
+  content: "\F97D";
 }
 
 .mdi-lightbulb:before {
@@ -5259,6 +5559,10 @@
 
 .mdi-lock-alert:before {
   content: "\F8ED";
+}
+
+.mdi-lock-clock:before {
+  content: "\F97E";
 }
 
 .mdi-lock-open:before {
@@ -5345,6 +5649,10 @@
   content: "\F349";
 }
 
+.mdi-magnify-close:before {
+  content: "\F97F";
+}
+
 .mdi-magnify-minus:before {
   content: "\F34A";
 }
@@ -5409,6 +5717,26 @@
   content: "\F352";
 }
 
+.mdi-map-minus:before {
+  content: "\F980";
+}
+
+.mdi-map-outline:before {
+  content: "\F981";
+}
+
+.mdi-map-plus:before {
+  content: "\F982";
+}
+
+.mdi-map-search:before {
+  content: "\F983";
+}
+
+.mdi-map-search-outline:before {
+  content: "\F984";
+}
+
 .mdi-margin:before {
   content: "\F353";
 }
@@ -5425,6 +5753,10 @@
   content: "\F355";
 }
 
+.mdi-material-design:before {
+  content: "\F985";
+}
+
 .mdi-material-ui:before {
   content: "\F357";
 }
@@ -5439,6 +5771,10 @@
 
 .mdi-maxcdn:before {
   content: "\F359";
+}
+
+.mdi-medal:before {
+  content: "\F986";
 }
 
 .mdi-medical-bag:before {
@@ -5601,6 +5937,10 @@
   content: "\F372";
 }
 
+.mdi-microsoft-dynamics:before {
+  content: "\F987";
+}
+
 .mdi-midi:before {
   content: "\F8F0";
 }
@@ -5653,6 +5993,14 @@
   content: "\F379";
 }
 
+.mdi-monitor-cellphone:before {
+  content: "\F988";
+}
+
+.mdi-monitor-cellphone-star:before {
+  content: "\F989";
+}
+
 .mdi-monitor-multiple:before {
   content: "\F37A";
 }
@@ -5667,6 +6015,10 @@
 
 .mdi-mouse:before {
   content: "\F37D";
+}
+
+.mdi-mouse-bluetooth:before {
+  content: "\F98A";
 }
 
 .mdi-mouse-off:before {
@@ -5695,6 +6047,10 @@
 
 .mdi-movie-roll:before {
   content: "\F7DD";
+}
+
+.mdi-muffin:before {
+  content: "\F98B";
 }
 
 .mdi-multiplication:before {
@@ -5881,6 +6237,14 @@
   content: "\F399";
 }
 
+.mdi-not-equal:before {
+  content: "\F98C";
+}
+
+.mdi-not-equal-variant:before {
+  content: "\F98D";
+}
+
 .mdi-note:before {
   content: "\F39A";
 }
@@ -5919,6 +6283,14 @@
 
 .mdi-npm:before {
   content: "\F6F6";
+}
+
+.mdi-npm-variant:before {
+  content: "\F98E";
+}
+
+.mdi-npm-variant-outline:before {
+  content: "\F98F";
 }
 
 .mdi-nuke:before {
@@ -6099,6 +6471,10 @@
 
 .mdi-office:before {
   content: "\F3C6";
+}
+
+.mdi-office-building:before {
+  content: "\F990";
 }
 
 .mdi-oil:before {
@@ -6625,6 +7001,14 @@
   content: "\F419";
 }
 
+.mdi-plus-minus:before {
+  content: "\F991";
+}
+
+.mdi-plus-minus-box:before {
+  content: "\F992";
+}
+
 .mdi-plus-network:before {
   content: "\F41A";
 }
@@ -6639,6 +7023,10 @@
 
 .mdi-pocket:before {
   content: "\F41C";
+}
+
+.mdi-podcast:before {
+  content: "\F993";
 }
 
 .mdi-pokeball:before {
@@ -6785,6 +7173,22 @@
   content: "\F42D";
 }
 
+.mdi-progress-check:before {
+  content: "\F994";
+}
+
+.mdi-progress-clock:before {
+  content: "\F995";
+}
+
+.mdi-progress-download:before {
+  content: "\F996";
+}
+
+.mdi-progress-upload:before {
+  content: "\F997";
+}
+
 .mdi-projector:before {
   content: "\F42E";
 }
@@ -6803,6 +7207,10 @@
 
 .mdi-puzzle:before {
   content: "\F431";
+}
+
+.mdi-qi:before {
+  content: "\F998";
 }
 
 .mdi-qqchat:before {
@@ -6913,6 +7321,10 @@
   content: "\F44A";
 }
 
+.mdi-record-player:before {
+  content: "\F999";
+}
+
 .mdi-record-rec:before {
   content: "\F44B";
 }
@@ -7014,6 +7426,10 @@
 }
 
 .mdi-restore:before {
+  content: "\F99A";
+}
+
+.mdi-restore-clock:before {
   content: "\F6A7";
 }
 
@@ -7253,12 +7669,24 @@
   content: "\F88E";
 }
 
+.mdi-security-close:before {
+  content: "\F99B";
+}
+
 .mdi-security-home:before {
   content: "\F689";
 }
 
+.mdi-security-lock:before {
+  content: "\F99C";
+}
+
 .mdi-security-network:before {
   content: "\F484";
+}
+
+.mdi-security-off:before {
+  content: "\F99D";
 }
 
 .mdi-select:before {
@@ -7361,6 +7789,10 @@
   content: "\F77E";
 }
 
+.mdi-set-top-box:before {
+  content: "\F99E";
+}
+
 .mdi-settings:before {
   content: "\F493";
 }
@@ -7443,6 +7875,14 @@
 
 .mdi-shovel-off:before {
   content: "\F710";
+}
+
+.mdi-shower:before {
+  content: "\F99F";
+}
+
+.mdi-shower-head:before {
+  content: "\F9A0";
 }
 
 .mdi-shredder:before {
@@ -7741,6 +8181,10 @@
   content: "\F4C3";
 }
 
+.mdi-speaker-bluetooth:before {
+  content: "\F9A1";
+}
+
 .mdi-speaker-off:before {
   content: "\F4C4";
 }
@@ -7797,6 +8241,10 @@
   content: "\F783";
 }
 
+.mdi-square-root-box:before {
+  content: "\F9A2";
+}
+
 .mdi-ssh:before {
   content: "\F8BF";
 }
@@ -7827,6 +8275,14 @@
 
 .mdi-star-circle:before {
   content: "\F4CF";
+}
+
+.mdi-star-circle-outline:before {
+  content: "\F9A3";
+}
+
+.mdi-star-face:before {
+  content: "\F9A4";
 }
 
 .mdi-star-half:before {
@@ -8049,6 +8505,10 @@
   content: "\F4F1";
 }
 
+.mdi-table-merge-cells:before {
+  content: "\F9A5";
+}
+
 .mdi-table-of-contents:before {
   content: "\F835";
 }
@@ -8087,6 +8547,10 @@
 
 .mdi-tablet-android:before {
   content: "\F4F7";
+}
+
+.mdi-tablet-cellphone:before {
+  content: "\F9A6";
 }
 
 .mdi-tablet-ipad:before {
@@ -8213,8 +8677,20 @@
   content: "\F911";
 }
 
+.mdi-text:before {
+  content: "\F9A7";
+}
+
 .mdi-text-shadow:before {
   content: "\F669";
+}
+
+.mdi-text-short:before {
+  content: "\F9A8";
+}
+
+.mdi-text-subject:before {
+  content: "\F9A9";
 }
 
 .mdi-text-to-speech:before {
@@ -8361,6 +8837,18 @@
   content: "\F522";
 }
 
+.mdi-toilet:before {
+  content: "\F9AA";
+}
+
+.mdi-toolbox:before {
+  content: "\F9AB";
+}
+
+.mdi-toolbox-outline:before {
+  content: "\F9AC";
+}
+
 .mdi-tooltip:before {
   content: "\F523";
 }
@@ -8395,6 +8883,10 @@
 
 .mdi-tor:before {
   content: "\F52A";
+}
+
+.mdi-tournament:before {
+  content: "\F9AD";
 }
 
 .mdi-tower-beach:before {
@@ -8589,6 +9081,10 @@
   content: "\F547";
 }
 
+.mdi-two-factor-authentication:before {
+  content: "\F9AE";
+}
+
 .mdi-uber:before {
   content: "\F748";
 }
@@ -8607,6 +9103,10 @@
 
 .mdi-umbrella:before {
   content: "\F54A";
+}
+
+.mdi-umbrella-closed:before {
+  content: "\F9AF";
 }
 
 .mdi-umbrella-outline:before {
@@ -8643,6 +9143,10 @@
 
 .mdi-unity:before {
   content: "\F6AE";
+}
+
+.mdi-unreal:before {
+  content: "\F9B0";
 }
 
 .mdi-untappd:before {
@@ -8813,8 +9317,16 @@
   content: "\F841";
 }
 
+.mdi-video-minus:before {
+  content: "\F9B1";
+}
+
 .mdi-video-off:before {
   content: "\F568";
+}
+
+.mdi-video-plus:before {
+  content: "\F9B2";
 }
 
 .mdi-video-stabilization:before {
@@ -8927,6 +9439,10 @@
 
 .mdi-voicemail:before {
   content: "\F57D";
+}
+
+.mdi-volleyball:before {
+  content: "\F9B3";
 }
 
 .mdi-volume-high:before {
@@ -9161,12 +9677,20 @@
   content: "\F5A2";
 }
 
+.mdi-weight-pound:before {
+  content: "\F9B4";
+}
+
 .mdi-whatsapp:before {
   content: "\F5A3";
 }
 
 .mdi-wheelchair-accessibility:before {
   content: "\F5A4";
+}
+
+.mdi-whistle:before {
+  content: "\F9B5";
 }
 
 .mdi-white-balance-auto:before {
