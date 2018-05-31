@@ -2,7 +2,7 @@
 	"version": 3,
 	"file": "andes-font.css",
 	"sources": [
-		"../scss/materialdesignicons.scss",
+		"../scss/andes-font.scss",
 		"../scss/_variables.scss",
 		"../scss/_functions.scss",
 		"../scss/_path.scss",

@@ -5,8 +5,8 @@
   "style": "css/andes-font.css",
   "scripts": {
     "build": "npm run css && npm run css-min",
-    "css": "node-sass --source-map true --include-path scss scss/materialdesignicons.scss css/andes-font.css",
-    "css-min": "node-sass --source-map true --include-path scss scss/materialdesignicons.scss css/andes-font.min.css --output-style compressed"
+    "css": "node-sass --source-map true --include-path scss scss/andes-font.scss css/andes-font.css",
+    "css-min": "node-sass --source-map true --include-path scss scss/andes-font.scss css/andes-font.min.css --output-style compressed"
     
   },
   "repository": {

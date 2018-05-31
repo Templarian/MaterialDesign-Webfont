@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Andes Icons";
-  src: url("../fonts/andes-icon.eot?v=1.0.0");
-  src: url("../fonts/andes-icon.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/andes-icon.woff?v=1.0.0") format("woff"), url("../fonts/andes-icon.ttf?v=1.0.0") format("truetype"), url("../fonts/andes-icon.svg?v=1.0.0#andes-iconregular") format("svg");
+  src: url("../fonts/andes-font.eot?v=1.0.0");
+  src: url("../fonts/andes-font.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/andes-font.woff?v=1.0.0") format("woff"), url("../fonts/andes-font.ttf?v=1.0.0") format("truetype"), url("../fonts/andes-font.svg?v=1.0.0#andes-fontregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
