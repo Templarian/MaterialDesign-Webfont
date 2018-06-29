@@ -1,4 +1,16 @@
 /* MaterialDesignIcons.com */
+/*
+$mdi-icons: (
+     "rup-elementoderegistro": 61,
+     "rup-semantic-dispositivos": 62,
+     "rup-semantic-hallazgos": 63,
+     "rup-semantic-planes": 64,
+     "rup-semantic-productos": 65,
+     "rup-semantic-procedimientos": 66,
+     "rup-semantic-todos": 67,
+     "rup-semantic-trastornos": 68,
+);
+*/
 @font-face {
   font-family: "Andes Icons";
   src: url("../fonts/andes-font.eot?v=1.0.0");
@@ -16,29 +28,167 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-.andes-rup-elementoderegistro:before {
+.andes-rup-cama:before {
   content: "\61"; }
 
-.andes-rup-semantic-dispositivos:before {
+.andes-rup-cama-bloqueada:before {
   content: "\62"; }
 
-.andes-rup-semantic-hallazgos:before {
+.andes-rup-calificador:before {
   content: "\63"; }
 
-.andes-rup-semantic-planes:before {
+.andes-rup-cama-reparacion:before {
   content: "\64"; }
 
-.andes-rup-semantic-productos:before {
+.andes-rup-cama-candado:before {
   content: "\65"; }
 
-.andes-rup-semantic-procedimientos:before {
+.andes-rup-check:before {
   content: "\66"; }
 
-.andes-rup-semantic-todos:before {
+.andes-rup-cama-desocupada:before {
   content: "\67"; }
 
-.andes-rup-semantic-trastornos:before {
+.andes-rup-cama-femenino:before {
   content: "\68"; }
+
+.andes-rup-herramienta:before {
+  content: "\69"; }
+
+.andes-rup-cama-lapiz:before {
+  content: "\6a"; }
+
+.andes-rup-cama-ocupada:before {
+  content: "\6b"; }
+
+.andes-rup-oxigeno:before {
+  content: "\6c"; }
+
+.andes-rup-cama-pausada:before {
+  content: "\6d"; }
+
+.andes-rup-cama-reloj:before {
+  content: "\6e"; }
+
+.andes-rup-masculino:before {
+  content: "\6f"; }
+
+.andes-rup-maltrato:before {
+  content: "\70"; }
+
+.andes-rup-violencia-familiar:before {
+  content: "\71"; }
+
+.andes-rup-vacuna:before {
+  content: "\72"; }
+
+.andes-rup-logo:before {
+  content: "\73"; }
+
+.andes-rup-laboratorio:before {
+  content: "\74"; }
+
+.andes-rup-turno:before {
+  content: "\75"; }
+
+.andes-rup-agendas:before {
+  content: "\76"; }
+
+.andes-rup-marker:before {
+  content: "\77"; }
+
+.andes-rup-marker-salud:before {
+  content: "\78"; }
+
+.andes-rup-alerta:before {
+  content: "\79"; }
+
+.andes-rup-ambulancia:before {
+  content: "\7a"; }
+
+.andes-rup-mpi:before {
+  content: "\41"; }
+
+.andes-rup-bomberos:before {
+  content: "\42"; }
+
+.andes-rup-noticia:before {
+  content: "\43"; }
+
+.andes-rup-paciente:before {
+  content: "\44"; }
+
+.andes-rup-confirmar:before {
+  content: "\45"; }
+
+.andes-rup-defensa-civil:before {
+  content: "\46"; }
+
+.andes-rup-paciente-circulo:before {
+  content: "\47"; }
+
+.andes-rup-policia:before {
+  content: "\48"; }
+
+.andes-rup-farmacia:before {
+  content: "\49"; }
+
+.andes-rup-horario:before {
+  content: "\4a"; }
+
+.andes-rup-profesional:before {
+  content: "\4b"; }
+
+.andes-rup-profesional-circulo:before {
+  content: "\4c"; }
+
+.andes-rup-hospital:before {
+  content: "\4d"; }
+
+.andes-rup-huds:before {
+  content: "\4e"; }
+
+.andes-rup-telefono:before {
+  content: "\4f"; }
+
+.andes-rup-trastorno:before {
+  content: "\50"; }
+
+.andes-rup-semantics:before {
+  content: "\51"; }
+
+.andes-rup-producto:before {
+  content: "\52"; }
+
+.andes-rup-procedimiento:before {
+  content: "\53"; }
+
+.andes-rup-plan:before {
+  content: "\54"; }
+
+.andes-rup-hallazgo:before {
+  content: "\55"; }
+
+.andes-rup-dispositivo:before {
+  content: "\56"; }
+
+.andes-rup-elemento-registro:before {
+  content: "\57"; }
+
+.andes-rup-centro-salud:before {
+  content: "\58"; }
+
+.andes-rup-calendario-dia:before {
+  content: "\59"; }
+
+.andes-rup-calendario-rango:before {
+  content: "\5a"; }
+
+.andes-rup-llamar:before {
+  content: "\32"; }
+
+.andes-rup-maltrato-infantil:before {
+  content: "\33"; }
 
 .andes-blank:before {
   content: "\F68C";
