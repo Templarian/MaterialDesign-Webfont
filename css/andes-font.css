@@ -18,8 +18,8 @@ $mdi-icons: (
   font-weight: normal;
   font-style: normal; }
 
-.andes:before,
-.andes-set {
+.adi:before,
+.adi-set {
   display: inline-block;
   font: normal normal normal 24px/1 "Andes Icons";
   font-size: inherit;
@@ -28,206 +28,206 @@ $mdi-icons: (
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-.andes-rup-cama:before {
+.adi-cama:before {
   content: "\61"; }
 
-.andes-rup-cama-bloqueada:before {
+.adi-cama-bloqueada:before {
   content: "\62"; }
 
-.andes-rup-calificador:before {
+.adi-calificador:before {
   content: "\63"; }
 
-.andes-rup-cama-reparacion:before {
+.adi-cama-reparacion:before {
   content: "\64"; }
 
-.andes-rup-cama-candado:before {
+.adi-cama-candado:before {
   content: "\65"; }
 
-.andes-rup-check:before {
+.adi-check:before {
   content: "\66"; }
 
-.andes-rup-cama-desocupada:before {
+.adi-cama-desocupada:before {
   content: "\67"; }
 
-.andes-rup-cama-femenino:before {
+.adi-cama-femenino:before {
   content: "\68"; }
 
-.andes-rup-herramienta:before {
+.adi-herramienta:before {
   content: "\69"; }
 
-.andes-rup-cama-lapiz:before {
+.adi-cama-lapiz:before {
   content: "\6a"; }
 
-.andes-rup-cama-ocupada:before {
+.adi-cama-ocupada:before {
   content: "\6b"; }
 
-.andes-rup-oxigeno:before {
+.adi-oxigeno:before {
   content: "\6c"; }
 
-.andes-rup-cama-pausada:before {
+.adi-cama-pausada:before {
   content: "\6d"; }
 
-.andes-rup-cama-reloj:before {
+.adi-cama-reloj:before {
   content: "\6e"; }
 
-.andes-rup-masculino:before {
+.adi-masculino:before {
   content: "\6f"; }
 
-.andes-rup-maltrato:before {
+.adi-maltrato:before {
   content: "\70"; }
 
-.andes-rup-violencia-familiar:before {
+.adi-violencia-familiar:before {
   content: "\71"; }
 
-.andes-rup-vacuna:before {
+.adi-vacuna:before {
   content: "\72"; }
 
-.andes-rup-logo:before {
+.adi-logo:before {
   content: "\73"; }
 
-.andes-rup-laboratorio:before {
+.adi-laboratorio:before {
   content: "\74"; }
 
-.andes-rup-turno:before {
+.adi-turno:before {
   content: "\75"; }
 
-.andes-rup-agendas:before {
+.adi-agendas:before {
   content: "\76"; }
 
-.andes-rup-marker:before {
+.adi-marker:before {
   content: "\77"; }
 
-.andes-rup-marker-salud:before {
+.adi-marker-salud:before {
   content: "\78"; }
 
-.andes-rup-alerta:before {
+.adi-alerta:before {
   content: "\79"; }
 
-.andes-rup-ambulancia:before {
+.adi-ambulancia:before {
   content: "\7a"; }
 
-.andes-rup-mpi:before {
+.adi-mpi:before {
   content: "\41"; }
 
-.andes-rup-bomberos:before {
+.adi-bomberos:before {
   content: "\42"; }
 
-.andes-rup-noticia:before {
+.adi-noticia:before {
   content: "\43"; }
 
-.andes-rup-paciente:before {
+.adi-paciente:before {
   content: "\44"; }
 
-.andes-rup-confirmar:before {
+.adi-confirmar:before {
   content: "\45"; }
 
-.andes-rup-defensa-civil:before {
+.adi-defensa-civil:before {
   content: "\46"; }
 
-.andes-rup-paciente-circulo:before {
+.adi-paciente-circulo:before {
   content: "\47"; }
 
-.andes-rup-policia:before {
+.adi-policia:before {
   content: "\48"; }
 
-.andes-rup-farmacia:before {
+.adi-farmacia:before {
   content: "\49"; }
 
-.andes-rup-horario:before {
+.adi-horario:before {
   content: "\4a"; }
 
-.andes-rup-profesional:before {
+.adi-profesional:before {
   content: "\4b"; }
 
-.andes-rup-profesional-circulo:before {
+.adi-profesional-circulo:before {
   content: "\4c"; }
 
-.andes-rup-hospital:before {
+.adi-hospital:before {
   content: "\4d"; }
 
-.andes-rup-huds:before {
+.adi-huds:before {
   content: "\4e"; }
 
-.andes-rup-telefono:before {
+.adi-telefono:before {
   content: "\4f"; }
 
-.andes-rup-trastorno:before {
+.adi-trastorno:before {
   content: "\50"; }
 
-.andes-rup-semantics:before {
+.adi-semantics:before {
   content: "\51"; }
 
-.andes-rup-producto:before {
+.adi-producto:before {
   content: "\52"; }
 
-.andes-rup-procedimiento:before {
+.adi-procedimiento:before {
   content: "\53"; }
 
-.andes-rup-plan:before {
+.adi-plan:before {
   content: "\54"; }
 
-.andes-rup-hallazgo:before {
+.adi-hallazgo:before {
   content: "\55"; }
 
-.andes-rup-dispositivo:before {
+.adi-dispositivo:before {
   content: "\56"; }
 
-.andes-rup-elemento-registro:before {
+.adi-elemento-registro:before {
   content: "\57"; }
 
-.andes-rup-centro-salud:before {
+.adi-centro-salud:before {
   content: "\58"; }
 
-.andes-rup-calendario-dia:before {
+.adi-calendario-dia:before {
   content: "\59"; }
 
-.andes-rup-calendario-rango:before {
+.adi-calendario-rango:before {
   content: "\5a"; }
 
-.andes-rup-llamar:before {
+.adi-llamar:before {
   content: "\32"; }
 
-.andes-rup-maltrato-infantil:before {
+.adi-maltrato-infantil:before {
   content: "\33"; }
 
-.andes-blank:before {
+.adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
 
-.andes-18px.andes-set, .andes-18px.andes:before {
+.adi-18px.adi-set, .adi-18px.adi:before {
   font-size: 18px; }
 
-.andes-24px.andes-set, .andes-24px.andes:before {
+.adi-24px.adi-set, .adi-24px.adi:before {
   font-size: 24px; }
 
-.andes-36px.andes-set, .andes-36px.andes:before {
+.adi-36px.adi-set, .adi-36px.adi:before {
   font-size: 36px; }
 
-.andes-48px.andes-set, .andes-48px.andes:before {
+.adi-48px.adi-set, .adi-48px.adi:before {
   font-size: 48px; }
 
-.andes-dark:before {
+.adi-dark:before {
   color: rgba(0, 0, 0, 0.54); }
 
-.andes-dark.mdi-inactive:before {
+.adi-dark.mdi-inactive:before {
   color: rgba(0, 0, 0, 0.26); }
 
-.andes-light:before {
+.adi-light:before {
   color: white; }
 
-.andes-light.mdi-inactive:before {
+.adi-light.mdi-inactive:before {
   color: rgba(255, 255, 255, 0.3); }
 
-.andes-rotate-45 {
+.adi-rotate-45 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(45deg);
             transform: scaleX(-1) rotate(45deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(45deg);
             -ms-transform: rotate(45deg);
             transform: scaleY(-1) rotate(45deg);
@@ -235,21 +235,21 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-45:before {
+  .adi-rotate-45:before {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg); }
 
-.andes-rotate-90 {
+.adi-rotate-90 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(90deg);
             transform: scaleX(-1) rotate(90deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(90deg);
             -ms-transform: rotate(90deg);
             transform: scaleY(-1) rotate(90deg);
@@ -257,21 +257,21 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-90:before {
+  .adi-rotate-90:before {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg); }
 
-.andes-rotate-135 {
+.adi-rotate-135 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(135deg);
             transform: scaleX(-1) rotate(135deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(135deg);
             -ms-transform: rotate(135deg);
             transform: scaleY(-1) rotate(135deg);
@@ -279,21 +279,21 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-135:before {
+  .adi-rotate-135:before {
     -webkit-transform: rotate(135deg);
     -ms-transform: rotate(135deg);
     transform: rotate(135deg); }
 
-.andes-rotate-180 {
+.adi-rotate-180 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(180deg);
             transform: scaleX(-1) rotate(180deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(180deg);
             -ms-transform: rotate(180deg);
             transform: scaleY(-1) rotate(180deg);
@@ -301,21 +301,21 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-180:before {
+  .adi-rotate-180:before {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg); }
 
-.andes-rotate-225 {
+.adi-rotate-225 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(225deg);
             transform: scaleX(-1) rotate(225deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(225deg);
             -ms-transform: rotate(225deg);
             transform: scaleY(-1) rotate(225deg);
@@ -323,21 +323,21 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-225:before {
+  .adi-rotate-225:before {
     -webkit-transform: rotate(225deg);
     -ms-transform: rotate(225deg);
     transform: rotate(225deg); }
 
-.andes-rotate-270 {
+.adi-rotate-270 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(270deg);
             transform: scaleX(-1) rotate(270deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(270deg);
             -ms-transform: rotate(270deg);
             transform: scaleY(-1) rotate(270deg);
@@ -345,21 +345,21 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-270:before {
+  .adi-rotate-270:before {
     -webkit-transform: rotate(270deg);
     -ms-transform: rotate(270deg);
     transform: rotate(270deg); }
 
-.andes-rotate-315 {
+.adi-rotate-315 {
   /*
         // Not included in production
-        &.andes-flip-h:before {
+        &.adi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(315deg);
             transform: scaleX(-1) rotate(315deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.andes-flip-v:before {
+        &.adi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(315deg);
             -ms-transform: rotate(315deg);
             transform: scaleY(-1) rotate(315deg);
@@ -367,28 +367,28 @@ $mdi-icons: (
             -ms-filter: "FlipV";
         }
         */ }
-  .andes-rotate-315:before {
+  .adi-rotate-315:before {
     -webkit-transform: rotate(315deg);
     -ms-transform: rotate(315deg);
     transform: rotate(315deg); }
 
-.andes-flip-h:before {
+.adi-flip-h:before {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
   filter: FlipH;
   -ms-filter: "FlipH"; }
 
-.andes-flip-v:before {
+.adi-flip-v:before {
   -webkit-transform: scaleY(-1);
   transform: scaleY(-1);
   filter: FlipV;
   -ms-filter: "FlipV"; }
 
-.andes-spin:before {
-  -webkit-animation: andes-spin 2s infinite linear;
-  animation: andes-spin 2s infinite linear; }
+.adi-spin:before {
+  -webkit-animation: adi-spin 2s infinite linear;
+  animation: adi-spin 2s infinite linear; }
 
-@-webkit-keyframes andes-spin {
+@-webkit-keyframes adi-spin {
   0% {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg); }
@@ -396,7 +396,7 @@ $mdi-icons: (
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg); } }
 
-@keyframes andes-spin {
+@keyframes adi-spin {
   0% {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg); }

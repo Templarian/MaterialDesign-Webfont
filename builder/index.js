@@ -62,7 +62,7 @@ https.get(url, (res) => {
         let iconsF = fs.createWriteStream(path.join(__dirname, '..', 'scss', '_var-icons.scss'));
         iconsF.write('$mdi-icons: (\n');
         icons.forEach(icon => {
-            iconsF.write(`     "rup-${icon.name}": ${icon.content},\n`);
+            iconsF.write(`     "${icon.name}": ${icon.content},\n`);
         });
         iconsF.write(');\n');
         // iconsF.close();

@@ -1,8 +1,8 @@
 
-# Webfont - Andes Icons
+# Webfont - Andes Desing Icons
 
-Webfont distribution for the [Material Design Icons](https://materialdesignicons.com).
+Webfont distribution for the [Andes Design Icons](https://www.andes.gob.ar).
 
 ```
-npm install andes-icon
+npm install @andes/fonts
 ```

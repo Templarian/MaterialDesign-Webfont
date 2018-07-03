@@ -1,13 +1,12 @@
 {
-  "name": "andes-font",
-  "version": "1.0.0",
+  "name": "@andes/font",
+  "version": "0.5.0",
   "description": "Andes WebFont for any helth application",
   "style": "css/andes-font.css",
   "scripts": {
     "build": "npm run css && npm run css-min",
     "css": "node-sass --source-map true --include-path scss scss/andes-font.scss css/andes-font.css",
     "css-min": "node-sass --source-map true --include-path scss scss/andes-font.scss css/andes-font.min.css --output-style compressed"
-    
   },
   "repository": {
     "type": "git",
