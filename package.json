@@ -13,14 +13,13 @@
     "url": "https://github.com/liquid36/andes-font.git"
   },
   "keywords": [
-    "material",
+    "andes",
     "design",
     "icons",
     "webfont"
   ],
   "author": {
-    "name": "Austin Andrews",
-    "web": "http://twitter.com/templarian"
+    "name": "Mariano Botta"
   },
   "licenses": [
     {
@@ -35,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/liquid36/andes-font/issues"
   },
-  "homepage": "http://materialdesignicons.com",
+  "homepage": "https://www.andes.gob.ar",
   "devDependencies": {
     "node-sass": "^4.9.0"
   }
