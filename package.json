@@ -1,6 +1,6 @@
 {
   "name": "@andes/font",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Andes WebFont for any helth application",
   "style": "css/andes-font.css",
   "scripts": {

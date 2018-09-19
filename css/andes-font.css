@@ -28,167 +28,209 @@ $mdi-icons: (
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-.adi-cama:before {
+.adi-rup-semantic-trastorno:before {
+  content: "\50"; }
+
+.adi-rup-semantic-todos:before {
+  content: "\51"; }
+
+.adi-rup-semantic-producto:before {
+  content: "\52"; }
+
+.adi-icon-rup-semantic-plan-1:before {
+  content: "\53"; }
+
+.adi-rup-semantic-plan:before {
+  content: "\54"; }
+
+.adi-rup-semantic-hallazgo:before {
+  content: "\55"; }
+
+.adi-rup-semantic-dispositivo:before {
+  content: "\56"; }
+
+.adi-semantic-elementoderegistro:before {
+  content: "\57"; }
+
+.adi-alertas:before {
   content: "\61"; }
 
-.adi-cama-bloqueada:before {
+.adi-arbol:before {
   content: "\62"; }
 
-.adi-calificador:before {
+.adi-cama:before {
   content: "\63"; }
 
-.adi-cama-reparacion:before {
+.adi-cama-bloqueada:before {
   content: "\64"; }
 
 .adi-cama-candado:before {
   content: "\65"; }
 
-.adi-check:before {
+.adi-cama-check:before {
   content: "\66"; }
-
-.adi-cama-desocupada:before {
-  content: "\67"; }
 
 .adi-cama-femenino:before {
   content: "\68"; }
 
-.adi-herramienta:before {
+.adi-cama-lapiz-1:before {
   content: "\69"; }
 
 .adi-cama-lapiz:before {
   content: "\6a"; }
 
-.adi-cama-ocupada:before {
+.adi-cama-masculino:before {
   content: "\6b"; }
 
-.adi-oxigeno:before {
+.adi-cama-ocupada:before {
   content: "\6c"; }
 
-.adi-cama-pausada:before {
+.adi-cama-oxigeno:before {
   content: "\6d"; }
 
-.adi-cama-reloj:before {
+.adi-cama-pausada:before {
   content: "\6e"; }
 
-.adi-masculino:before {
+.adi-cama-reloj:before {
   content: "\6f"; }
 
-.adi-maltrato:before {
+.adi-cama-configuracion:before {
   content: "\70"; }
 
-.adi-violencia-familiar:before {
+.adi-dieta:before {
   content: "\71"; }
 
-.adi-vacuna:before {
+.adi-documento:before {
   content: "\72"; }
 
-.adi-logo:before {
+.adi-egreso:before {
   content: "\73"; }
 
-.adi-laboratorio:before {
-  content: "\74"; }
-
-.adi-turno:before {
+.adi-rup-calificador:before {
   content: "\75"; }
 
 .adi-agendas:before {
   content: "\76"; }
 
-.adi-marker:before {
+.adi-alerta:before {
   content: "\77"; }
 
-.adi-marker-salud:before {
+.adi-ambulancia:before {
   content: "\78"; }
 
-.adi-alerta:before {
+.adi-bomberos:before {
   content: "\79"; }
 
-.adi-ambulancia:before {
+.adi-confirmar:before {
   content: "\7a"; }
 
-.adi-mpi:before {
+.adi-defensa-civil:before {
   content: "\41"; }
 
-.adi-bomberos:before {
+.adi-farmacia:before {
   content: "\42"; }
 
-.adi-noticia:before {
+.adi-horario:before {
   content: "\43"; }
 
-.adi-paciente:before {
+.adi-hospital:before {
   content: "\44"; }
 
-.adi-confirmar:before {
+.adi-huds:before {
   content: "\45"; }
 
-.adi-defensa-civil:before {
+.adi-laboratorio:before {
   content: "\46"; }
 
-.adi-paciente-circulo:before {
+.adi-logo:before {
   content: "\47"; }
 
-.adi-policia:before {
+.adi-maltrato:before {
   content: "\48"; }
 
-.adi-farmacia:before {
+.adi-marker:before {
   content: "\49"; }
 
-.adi-horario:before {
+.adi-marker-salud:before {
   content: "\4a"; }
 
-.adi-profesional:before {
+.adi-mpi:before {
   content: "\4b"; }
 
-.adi-profesional-circulo:before {
+.adi-noticia:before {
   content: "\4c"; }
 
-.adi-hospital:before {
+.adi-paciente:before {
   content: "\4d"; }
 
-.adi-huds:before {
-  content: "\4e"; }
-
-.adi-telefono:before {
+.adi-policia:before {
   content: "\4f"; }
 
-.adi-trastorno:before {
-  content: "\50"; }
-
-.adi-semantics:before {
-  content: "\51"; }
-
-.adi-producto:before {
-  content: "\52"; }
-
-.adi-procedimiento:before {
-  content: "\53"; }
-
-.adi-plan:before {
-  content: "\54"; }
-
-.adi-hallazgo:before {
-  content: "\55"; }
-
-.adi-dispositivo:before {
-  content: "\56"; }
-
-.adi-elemento-registro:before {
-  content: "\57"; }
-
-.adi-centro-salud:before {
+.adi-profesional:before {
   content: "\58"; }
 
-.adi-calendario-dia:before {
+.adi-profesional-circulo:before {
   content: "\59"; }
 
-.adi-calendario-rango:before {
+.adi-telefono:before {
   content: "\5a"; }
 
-.adi-llamar:before {
+.adi-turno:before {
+  content: "\30"; }
+
+.adi-vacuna:before {
+  content: "\31"; }
+
+.adi-violencia-familiar:before {
   content: "\32"; }
 
-.adi-maltrato-infantil:before {
+.adi-hospital-cyan:before {
   content: "\33"; }
+
+.adi-calendario-dia-oscuro:before {
+  content: "\34"; }
+
+.adi-calendario-rango-oscuro:before {
+  content: "\35"; }
+
+.adi-defensa-civil-oscuro:before {
+  content: "\39"; }
+
+.adi-llamar-oscuro:before {
+  content: "\36"; }
+
+.adi-cama-reparacion:before {
+  content: "\67"; }
+
+.adi-andes-icon-cama-reparacion:before {
+  content: "\37"; }
+
+.adi-cuna:before {
+  content: "\38"; }
+
+.adi-cuna-bloqueada:before {
+  content: "\21"; }
+
+.adi-cuna-desocupada:before {
+  content: "\22"; }
+
+.adi-cuna-pausada-1:before {
+  content: "\23"; }
+
+.adi-cuna-pausada:before {
+  content: "\24"; }
+
+.adi-cuna-reparacion:before {
+  content: "\25"; }
+
+.adi-cama-desocupada:before {
+  content: "\67"; }
+
+.adi-paciente-circulo:before {
+  content: "\4e"; }
+
+.adi-evoluciones:before {
+  content: "\74"; }
 
 .adi-blank:before {
   content: "\F68C";
