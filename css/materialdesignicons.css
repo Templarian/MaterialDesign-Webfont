@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=2.7.94");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=2.7.94") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=2.7.94") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=2.7.94") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=2.7.94") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=2.7.94#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=2.8.94");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=2.8.94") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=2.8.94") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=2.8.94") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=2.8.94") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=2.8.94#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -97,6 +97,10 @@
   content: "\F00D";
 }
 
+.mdi-account-minus-outline:before {
+  content: "\FAEB";
+}
+
 .mdi-account-multiple:before {
   content: "\F00E";
 }
@@ -143,6 +147,10 @@
 
 .mdi-account-remove:before {
   content: "\F015";
+}
+
+.mdi-account-remove-outline:before {
+  content: "\FAEC";
 }
 
 .mdi-account-search:before {
@@ -295,6 +303,214 @@
 
 .mdi-alpha:before {
   content: "\F02B";
+}
+
+.mdi-alpha-a:before {
+  content: "\41";
+}
+
+.mdi-alpha-a-box:before {
+  content: "\FAED";
+}
+
+.mdi-alpha-b:before {
+  content: "\42";
+}
+
+.mdi-alpha-b-box:before {
+  content: "\FAEE";
+}
+
+.mdi-alpha-c:before {
+  content: "\43";
+}
+
+.mdi-alpha-c-box:before {
+  content: "\FAEF";
+}
+
+.mdi-alpha-d:before {
+  content: "\44";
+}
+
+.mdi-alpha-d-box:before {
+  content: "\FAF0";
+}
+
+.mdi-alpha-e:before {
+  content: "\45";
+}
+
+.mdi-alpha-e-box:before {
+  content: "\FAF1";
+}
+
+.mdi-alpha-f:before {
+  content: "\46";
+}
+
+.mdi-alpha-f-box:before {
+  content: "\FAF2";
+}
+
+.mdi-alpha-g:before {
+  content: "\47";
+}
+
+.mdi-alpha-g-box:before {
+  content: "\FAF3";
+}
+
+.mdi-alpha-h:before {
+  content: "\48";
+}
+
+.mdi-alpha-h-box:before {
+  content: "\FAF4";
+}
+
+.mdi-alpha-i:before {
+  content: "\49";
+}
+
+.mdi-alpha-i-box:before {
+  content: "\FAF5";
+}
+
+.mdi-alpha-j:before {
+  content: "\4A";
+}
+
+.mdi-alpha-j-box:before {
+  content: "\FAF6";
+}
+
+.mdi-alpha-k:before {
+  content: "\4B";
+}
+
+.mdi-alpha-k-box:before {
+  content: "\FAF7";
+}
+
+.mdi-alpha-l:before {
+  content: "\4C";
+}
+
+.mdi-alpha-l-box:before {
+  content: "\FAF8";
+}
+
+.mdi-alpha-m:before {
+  content: "\4D";
+}
+
+.mdi-alpha-m-box:before {
+  content: "\FAF9";
+}
+
+.mdi-alpha-n:before {
+  content: "\4E";
+}
+
+.mdi-alpha-n-box:before {
+  content: "\FAFA";
+}
+
+.mdi-alpha-o:before {
+  content: "\4F";
+}
+
+.mdi-alpha-o-box:before {
+  content: "\FAFB";
+}
+
+.mdi-alpha-p:before {
+  content: "\50";
+}
+
+.mdi-alpha-p-box:before {
+  content: "\FAFC";
+}
+
+.mdi-alpha-q:before {
+  content: "\51";
+}
+
+.mdi-alpha-q-box:before {
+  content: "\FAFD";
+}
+
+.mdi-alpha-r:before {
+  content: "\52";
+}
+
+.mdi-alpha-r-box:before {
+  content: "\FAFE";
+}
+
+.mdi-alpha-s:before {
+  content: "\53";
+}
+
+.mdi-alpha-s-box:before {
+  content: "\FAFF";
+}
+
+.mdi-alpha-t:before {
+  content: "\54";
+}
+
+.mdi-alpha-t-box:before {
+  content: "\FB00";
+}
+
+.mdi-alpha-u:before {
+  content: "\55";
+}
+
+.mdi-alpha-u-box:before {
+  content: "\FB01";
+}
+
+.mdi-alpha-v:before {
+  content: "\56";
+}
+
+.mdi-alpha-v-box:before {
+  content: "\FB02";
+}
+
+.mdi-alpha-w:before {
+  content: "\57";
+}
+
+.mdi-alpha-w-box:before {
+  content: "\FB03";
+}
+
+.mdi-alpha-x:before {
+  content: "\58";
+}
+
+.mdi-alpha-x-box:before {
+  content: "\FB04";
+}
+
+.mdi-alpha-y:before {
+  content: "\59";
+}
+
+.mdi-alpha-y-box:before {
+  content: "\FB05";
+}
+
+.mdi-alpha-z:before {
+  content: "\5A";
+}
+
+.mdi-alpha-z-box:before {
+  content: "\FB06";
 }
 
 .mdi-alphabetical:before {
@@ -1701,12 +1917,20 @@
   content: "\FA2F";
 }
 
+.mdi-bulldozer:before {
+  content: "\FB07";
+}
+
 .mdi-bulletin-board:before {
   content: "\F0E5";
 }
 
 .mdi-bullhorn:before {
   content: "\F0E6";
+}
+
+.mdi-bullhorn-outline:before {
+  content: "\FB08";
 }
 
 .mdi-bullseye:before {
@@ -1797,8 +2021,16 @@
   content: "\F8A6";
 }
 
+.mdi-calendar-export:before {
+  content: "\FB09";
+}
+
 .mdi-calendar-heart:before {
   content: "\F9D1";
+}
+
+.mdi-calendar-import:before {
+  content: "\FB0A";
 }
 
 .mdi-calendar-multiple:before {
@@ -2445,6 +2677,14 @@
   content: "\F9D6";
 }
 
+.mdi-chevron-down-circle:before {
+  content: "\FB0B";
+}
+
+.mdi-chevron-down-circle-outline:before {
+  content: "\FB0C";
+}
+
 .mdi-chevron-left:before {
   content: "\F141";
 }
@@ -2455,6 +2695,14 @@
 
 .mdi-chevron-left-box-outline:before {
   content: "\F9D8";
+}
+
+.mdi-chevron-left-circle:before {
+  content: "\FB0D";
+}
+
+.mdi-chevron-left-circle-outline:before {
+  content: "\FB0E";
 }
 
 .mdi-chevron-right:before {
@@ -2469,6 +2717,14 @@
   content: "\F9DA";
 }
 
+.mdi-chevron-right-circle:before {
+  content: "\FB0F";
+}
+
+.mdi-chevron-right-circle-outline:before {
+  content: "\FB10";
+}
+
 .mdi-chevron-up:before {
   content: "\F143";
 }
@@ -2479,6 +2735,14 @@
 
 .mdi-chevron-up-box-outline:before {
   content: "\F9DC";
+}
+
+.mdi-chevron-up-circle:before {
+  content: "\FB11";
+}
+
+.mdi-chevron-up-circle-outline:before {
+  content: "\FB12";
 }
 
 .mdi-chili-hot:before {
@@ -3073,6 +3337,10 @@
   content: "\F61B";
 }
 
+.mdi-content-save-settings-outline:before {
+  content: "\FB13";
+}
+
 .mdi-contrast:before {
   content: "\F195";
 }
@@ -3183,6 +3451,10 @@
 
 .mdi-cryengine:before {
   content: "\F958";
+}
+
+.mdi-crystal-ball:before {
+  content: "\FB14";
 }
 
 .mdi-cube:before {
@@ -3849,6 +4121,10 @@
   content: "\F5F0";
 }
 
+.mdi-ember:before {
+  content: "\FB15";
+}
+
 .mdi-emby:before {
   content: "\F6B3";
 }
@@ -4057,6 +4333,10 @@
   content: "\F20E";
 }
 
+.mdi-facebook-workplace:before {
+  content: "\FB16";
+}
+
 .mdi-factory:before {
   content: "\F20F";
 }
@@ -4251,6 +4531,14 @@
 
 .mdi-file-question:before {
   content: "\F86E";
+}
+
+.mdi-file-replace:before {
+  content: "\FB17";
+}
+
+.mdi-file-replace-outline:before {
+  content: "\FB18";
 }
 
 .mdi-file-restore:before {
@@ -4763,6 +5051,18 @@
 
 .mdi-format-italic:before {
   content: "\F277";
+}
+
+.mdi-format-letter-case:before {
+  content: "\FB19";
+}
+
+.mdi-format-letter-case-lower:before {
+  content: "\FB1A";
+}
+
+.mdi-format-letter-case-upper:before {
+  content: "\FB1B";
 }
 
 .mdi-format-line-spacing:before {
@@ -6161,6 +6461,10 @@
   content: "\F31D";
 }
 
+.mdi-language-java:before {
+  content: "\FB1C";
+}
+
 .mdi-language-javascript:before {
   content: "\F31E";
 }
@@ -6467,6 +6771,10 @@
 
 .mdi-lumx:before {
   content: "\F346";
+}
+
+.mdi-lyft:before {
+  content: "\FB1D";
 }
 
 .mdi-magnet:before {
@@ -7197,6 +7505,10 @@
   content: "\F3A0";
 }
 
+.mdi-numeric-0:before {
+  content: "\30";
+}
+
 .mdi-numeric-0-box:before {
   content: "\F3A1";
 }
@@ -7207,6 +7519,10 @@
 
 .mdi-numeric-0-box-outline:before {
   content: "\F3A3";
+}
+
+.mdi-numeric-1:before {
+  content: "\31";
 }
 
 .mdi-numeric-1-box:before {
@@ -7221,6 +7537,10 @@
   content: "\F3A6";
 }
 
+.mdi-numeric-2:before {
+  content: "\32";
+}
+
 .mdi-numeric-2-box:before {
   content: "\F3A7";
 }
@@ -7231,6 +7551,10 @@
 
 .mdi-numeric-2-box-outline:before {
   content: "\F3A9";
+}
+
+.mdi-numeric-3:before {
+  content: "\33";
 }
 
 .mdi-numeric-3-box:before {
@@ -7245,6 +7569,10 @@
   content: "\F3AC";
 }
 
+.mdi-numeric-4:before {
+  content: "\34";
+}
+
 .mdi-numeric-4-box:before {
   content: "\F3AD";
 }
@@ -7255,6 +7583,10 @@
 
 .mdi-numeric-4-box-outline:before {
   content: "\F3AF";
+}
+
+.mdi-numeric-5:before {
+  content: "\35";
 }
 
 .mdi-numeric-5-box:before {
@@ -7269,6 +7601,10 @@
   content: "\F3B2";
 }
 
+.mdi-numeric-6:before {
+  content: "\36";
+}
+
 .mdi-numeric-6-box:before {
   content: "\F3B3";
 }
@@ -7279,6 +7615,10 @@
 
 .mdi-numeric-6-box-outline:before {
   content: "\F3B5";
+}
+
+.mdi-numeric-7:before {
+  content: "\37";
 }
 
 .mdi-numeric-7-box:before {
@@ -7293,6 +7633,10 @@
   content: "\F3B8";
 }
 
+.mdi-numeric-8:before {
+  content: "\38";
+}
+
 .mdi-numeric-8-box:before {
   content: "\F3B9";
 }
@@ -7303,6 +7647,10 @@
 
 .mdi-numeric-8-box-outline:before {
   content: "\F3BB";
+}
+
+.mdi-numeric-9:before {
+  content: "\39";
 }
 
 .mdi-numeric-9-box:before {
@@ -7415,6 +7763,10 @@
 
 .mdi-orbit:before {
   content: "\F018";
+}
+
+.mdi-origin:before {
+  content: "\FB2B";
 }
 
 .mdi-ornament:before {
@@ -8361,6 +8713,14 @@
   content: "\F45C";
 }
 
+.mdi-resistor:before {
+  content: "\FB1F";
+}
+
+.mdi-resistor-nodes:before {
+  content: "\FB20";
+}
+
 .mdi-resize:before {
   content: "\FA67";
 }
@@ -8431,6 +8791,10 @@
 
 .mdi-robot:before {
   content: "\F6A8";
+}
+
+.mdi-robot-industrial:before {
+  content: "\FB21";
 }
 
 .mdi-robot-vacuum:before {
@@ -8869,6 +9233,14 @@
   content: "\F832";
 }
 
+.mdi-shoe-formal:before {
+  content: "\FB22";
+}
+
+.mdi-shoe-heel:before {
+  content: "\FB23";
+}
+
 .mdi-shopify:before {
   content: "\FADD";
 }
@@ -8983,6 +9355,10 @@
 
 .mdi-signal-variant:before {
   content: "\F60A";
+}
+
+.mdi-silo:before {
+  content: "\FB24";
 }
 
 .mdi-silverware:before {
@@ -9445,6 +9821,10 @@
   content: "\F4DE";
 }
 
+.mdi-strava:before {
+  content: "\FB25";
+}
+
 .mdi-subdirectory-arrow-left:before {
   content: "\F60C";
 }
@@ -9553,8 +9933,16 @@
   content: "\F4E9";
 }
 
+.mdi-tab-minus:before {
+  content: "\FB26";
+}
+
 .mdi-tab-plus:before {
   content: "\F75B";
+}
+
+.mdi-tab-remove:before {
+  content: "\FB27";
 }
 
 .mdi-tab-unselected:before {
@@ -9697,6 +10085,10 @@
   content: "\F4FD";
 }
 
+.mdi-tape-measure:before {
+  content: "\FB28";
+}
+
 .mdi-target:before {
   content: "\F4FE";
 }
@@ -9719,6 +10111,10 @@
 
 .mdi-telegram:before {
   content: "\F501";
+}
+
+.mdi-telescope:before {
+  content: "\FB29";
 }
 
 .mdi-television:before {
@@ -11095,6 +11491,10 @@
 
 .mdi-xmpp:before {
   content: "\F7FE";
+}
+
+.mdi-yahoo:before {
+  content: "\FB2A";
 }
 
 .mdi-yammer:before {
