@@ -12,9 +12,9 @@
 }
 
 @function mdi($name) {
-    @if map-has-key($mdi-icons, $name) == false {
+    @if map-has-key($adi-icons, $name) == false {
         @warn "Icon #{$name} not found.";
         @return "";
     }
-    @return char(map-get($mdi-icons, $name));
+    @return char(map-get($adi-icons, $name));
 }

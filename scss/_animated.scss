@@ -1,10 +1,10 @@
 // From Font Awesome
-.#{$mdi-css-prefix}-spin:before {
-    -webkit-animation: #{$mdi-css-prefix}-spin 2s infinite linear;
-            animation: #{$mdi-css-prefix}-spin 2s infinite linear;
+.#{$adi-css-prefix}-spin:before {
+    -webkit-animation: #{$adi-css-prefix}-spin 2s infinite linear;
+            animation: #{$adi-css-prefix}-spin 2s infinite linear;
 }
 
-@-webkit-keyframes #{$mdi-css-prefix}-spin {
+@-webkit-keyframes #{$adi-css-prefix}-spin {
     0% {
       -webkit-transform: rotate(0deg);
               transform: rotate(0deg);
@@ -15,7 +15,7 @@
     }
 }
 
-@keyframes #{$mdi-css-prefix}-spin {
+@keyframes #{$adi-css-prefix}-spin {
     0% {
       -webkit-transform: rotate(0deg);
               transform: rotate(0deg);

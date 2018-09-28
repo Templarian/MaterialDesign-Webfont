@@ -1,14 +1,14 @@
-$mdi-sizes: 18 24 36 48;
-@each $mdi-size in $mdi-sizes {
-    .#{$mdi-css-prefix}-#{$mdi-size}px {
-        &.#{$mdi-css-prefix}-set,
-        &.#{$mdi-css-prefix}:before {
-            font-size: $mdi-size * 1px;
+$adi-sizes: 18 24 36 48;
+@each $adi-size in $adi-sizes {
+    .#{$adi-css-prefix}-#{$adi-size}px {
+        &.#{$adi-css-prefix}-set,
+        &.#{$adi-css-prefix}:before {
+            font-size: $adi-size * 1px;
         }
     }
 }
 
-.#{$mdi-css-prefix}-dark {
+.#{$adi-css-prefix}-dark {
     &:before {
         color: rgba(0, 0, 0, 0.54);
     }
@@ -16,7 +16,7 @@ $mdi-sizes: 18 24 36 48;
         color: rgba(0, 0, 0, 0.26);
     }
 }
-.#{$mdi-css-prefix}-light {
+.#{$adi-css-prefix}-light {
     &:before {
         color: rgba(255, 255, 255, 1);
     }
@@ -25,39 +25,39 @@ $mdi-sizes: 18 24 36 48;
     }
 }
 
-$mdi-degrees: 45 90 135 180 225 270 315;
-@each $mdi-degree in $mdi-degrees {
-    .#{$mdi-css-prefix}-rotate-#{$mdi-degree}{
+$adi-degrees: 45 90 135 180 225 270 315;
+@each $adi-degree in $adi-degrees {
+    .#{$adi-css-prefix}-rotate-#{$adi-degree}{
         &:before {
-            -webkit-transform: rotate(#{$mdi-degree}deg);
-            -ms-transform: rotate(#{$mdi-degree}deg);
-            transform: rotate(#{$mdi-degree}deg);
+            -webkit-transform: rotate(#{$adi-degree}deg);
+            -ms-transform: rotate(#{$adi-degree}deg);
+            transform: rotate(#{$adi-degree}deg);
         }
         /*
         // Not included in production
-        &.#{$mdi-css-prefix}-flip-h:before {
-            -webkit-transform: scaleX(-1) rotate(#{$mdi-degree}deg);
-            transform: scaleX(-1) rotate(#{$mdi-degree}deg);
+        &.#{$adi-css-prefix}-flip-h:before {
+            -webkit-transform: scaleX(-1) rotate(#{$adi-degree}deg);
+            transform: scaleX(-1) rotate(#{$adi-degree}deg);
             filter: FlipH;
             -ms-filter: "FlipH";
         }
-        &.#{$mdi-css-prefix}-flip-v:before {
-            -webkit-transform: scaleY(-1) rotate(#{$mdi-degree}deg);
-            -ms-transform: rotate(#{$mdi-degree}deg);
-            transform: scaleY(-1) rotate(#{$mdi-degree}deg);
+        &.#{$adi-css-prefix}-flip-v:before {
+            -webkit-transform: scaleY(-1) rotate(#{$adi-degree}deg);
+            -ms-transform: rotate(#{$adi-degree}deg);
+            transform: scaleY(-1) rotate(#{$adi-degree}deg);
             filter: FlipV;
             -ms-filter: "FlipV";
         }
         */
     }
 }
-.#{$mdi-css-prefix}-flip-h:before {
+.#{$adi-css-prefix}-flip-h:before {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
     filter: FlipH;
     -ms-filter: "FlipH";
 }
-.#{$mdi-css-prefix}-flip-v:before {
+.#{$adi-css-prefix}-flip-v:before {
     -webkit-transform: scaleY(-1);
     transform: scaleY(-1);
     filter: FlipV;

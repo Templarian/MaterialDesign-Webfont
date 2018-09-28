@@ -60,7 +60,7 @@ https.get(url, (res) => {
         });
 
         let iconsF = fs.createWriteStream(path.join(__dirname, '..', 'scss', '_var-icons.scss'));
-        iconsF.write('$mdi-icons: (\n');
+        iconsF.write('$adi-icons: (\n');
         for (const name in icons) {
             iconsF.write(`     "${name}": ${icons[name]},\n`);
         }
