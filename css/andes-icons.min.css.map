@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "andes-font.min.css",
+	"file": "andes-icons.min.css",
 	"sources": [
-		"../scss/andes-font.scss",
+		"../scss/andes-icons.scss",
 		"../scss/_variables.scss",
 		"../scss/_var-icons.scss",
 		"../scss/_functions.scss",

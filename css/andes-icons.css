@@ -1,16 +1,4 @@
 /* MaterialDesignIcons.com */
-/*
-$mdi-icons: (
-     "rup-elementoderegistro": 61,
-     "rup-semantic-dispositivos": 62,
-     "rup-semantic-hallazgos": 63,
-     "rup-semantic-planes": 64,
-     "rup-semantic-productos": 65,
-     "rup-semantic-procedimientos": 66,
-     "rup-semantic-todos": 67,
-     "rup-semantic-trastornos": 68,
-);
-*/
 @font-face {
   font-family: "Andes Icons";
   src: url("../fonts/andes-font.eot?v=1.0.0");
@@ -446,4 +434,4 @@ $mdi-icons: (
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg); } }
 
-/*# sourceMappingURL=andes-font.css.map */
+/*# sourceMappingURL=andes-icons.css.map */

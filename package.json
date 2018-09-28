@@ -1,12 +1,13 @@
 {
-  "name": "@andes/font",
+  "name": "@andes/icons",
   "version": "0.5.1",
-  "description": "Andes WebFont for any helth application",
-  "style": "css/andes-font.css",
+  "description": "Andes WebFont Icons for any helth application",
+  "style": "css/andes-icons.css",
   "scripts": {
+    "download": "node builder/index.js",
     "build": "npm run css && npm run css-min",
-    "css": "node-sass --source-map true --include-path scss scss/andes-font.scss css/andes-font.css",
-    "css-min": "node-sass --source-map true --include-path scss scss/andes-font.scss css/andes-font.min.css --output-style compressed"
+    "css": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.css",
+    "css-min": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.min.css --output-style compressed"
   },
   "repository": {
     "type": "git",

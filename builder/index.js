@@ -23,7 +23,7 @@ function test(reg, line) {
 let fileId = null;
 let name = null;
 let content = null;
-let icons = []; 
+let icons = {}; 
 
 https.get(url, (res) => {
     const rl = readline.createInterface({
@@ -39,7 +39,8 @@ https.get(url, (res) => {
                 content = test(contentReg, line);
 
                 if (name && content) {
-                    icons.push({ name, content });
+                    // icons.push({ name, content });
+                    icons[name] = content;
                 }
                 name = content = null;
 
@@ -48,7 +49,6 @@ https.get(url, (res) => {
     });
 
     rl.on('close', () => {
-        console.log(fileId);
         console.log(icons);
 
         ['eot', 'woff', 'svg', 'ttf'].forEach((ext) => {
@@ -61,11 +61,15 @@ https.get(url, (res) => {
 
         let iconsF = fs.createWriteStream(path.join(__dirname, '..', 'scss', '_var-icons.scss'));
         iconsF.write('$mdi-icons: (\n');
-        icons.forEach(icon => {
-            iconsF.write(`     "${icon.name}": ${icon.content},\n`);
-        });
+        for (const name in icons) {
+            iconsF.write(`     "${name}": ${icons[name]},\n`);
+        }
         iconsF.write(');\n');
-        // iconsF.close();
+
+        let iconsJson = fs.createWriteStream(path.join(__dirname, '..', 'icons.json'));
+        iconsJson.write(JSON.stringify(icons, null, 2));
+        iconsJson.end();
+
     });
 
 });
