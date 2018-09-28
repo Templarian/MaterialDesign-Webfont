@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liquid36/andes-font.git"
+    "url": "https://github.com/andes/andes-font-icon.git"
   },
   "keywords": [
     "andes",
@@ -33,7 +33,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/liquid36/andes-font/issues"
+    "url": "https://github.com/andes/andes-font-icon/issues"
   },
   "homepage": "https://www.andes.gob.ar",
   "devDependencies": {
