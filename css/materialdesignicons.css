@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=3.4.93");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.4.93") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.4.93") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.4.93") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.4.93") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.4.93#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=3.5.94");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.5.94") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.5.94") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.5.94") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.5.94") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.5.94#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -57,6 +57,22 @@
   content: "\FB30";
 }
 
+.mdi-account-badge:before {
+  content: "\FD83";
+}
+
+.mdi-account-badge-alert:before {
+  content: "\FD84";
+}
+
+.mdi-account-badge-alert-outline:before {
+  content: "\FD85";
+}
+
+.mdi-account-badge-outline:before {
+  content: "\FD86";
+}
+
 .mdi-account-box:before {
   content: "\F006";
 }
@@ -71,6 +87,10 @@
 
 .mdi-account-card-details:before {
   content: "\F5D2";
+}
+
+.mdi-account-card-details-outline:before {
+  content: "\FD87";
 }
 
 .mdi-account-check:before {
@@ -279,6 +299,10 @@
 
 .mdi-air-filter:before {
   content: "\FD1F";
+}
+
+.mdi-air-horn:before {
+  content: "\FD88";
 }
 
 .mdi-air-purifier:before {
@@ -1085,6 +1109,14 @@
   content: "\F614";
 }
 
+.mdi-application-export:before {
+  content: "\FD89";
+}
+
+.mdi-application-import:before {
+  content: "\FD8A";
+}
+
 .mdi-apps:before {
   content: "\F03B";
 }
@@ -1689,12 +1721,28 @@
   content: "\FC16";
 }
 
+.mdi-bandage:before {
+  content: "\FD8B";
+}
+
 .mdi-bandcamp:before {
   content: "\F674";
 }
 
 .mdi-bank:before {
   content: "\F070";
+}
+
+.mdi-bank-minus:before {
+  content: "\FD8C";
+}
+
+.mdi-bank-plus:before {
+  content: "\FD8D";
+}
+
+.mdi-bank-remove:before {
+  content: "\FD8E";
 }
 
 .mdi-bank-transfer:before {
@@ -2197,6 +2245,10 @@
   content: "\FCC9";
 }
 
+.mdi-bolt:before {
+  content: "\FD8F";
+}
+
 .mdi-bomb:before {
   content: "\F690";
 }
@@ -2597,6 +2649,10 @@
   content: "\FA2F";
 }
 
+.mdi-bugle:before {
+  content: "\FD90";
+}
+
 .mdi-bulldozer:before {
   content: "\FB07";
 }
@@ -2659,6 +2715,10 @@
 
 .mdi-cached:before {
   content: "\F0E8";
+}
+
+.mdi-cactus:before {
+  content: "\FD91";
 }
 
 .mdi-cake:before {
@@ -2919,6 +2979,14 @@
 
 .mdi-camera-timer:before {
   content: "\F109";
+}
+
+.mdi-camera-wireless:before {
+  content: "\FD92";
+}
+
+.mdi-camera-wireless-outline:before {
+  content: "\FD93";
 }
 
 .mdi-cancel:before {
@@ -3187,6 +3255,10 @@
 
 .mdi-cash-100:before {
   content: "\F115";
+}
+
+.mdi-cash-marker:before {
+  content: "\FD94";
 }
 
 .mdi-cash-multiple:before {
@@ -3633,6 +3705,22 @@
   content: "\FB10";
 }
 
+.mdi-chevron-triple-down:before {
+  content: "\FD95";
+}
+
+.mdi-chevron-triple-left:before {
+  content: "\FD96";
+}
+
+.mdi-chevron-triple-right:before {
+  content: "\FD97";
+}
+
+.mdi-chevron-triple-up:before {
+  content: "\FD98";
+}
+
 .mdi-chevron-up:before {
   content: "\F143";
 }
@@ -3943,6 +4031,10 @@
 
 .mdi-closed-caption:before {
   content: "\F15E";
+}
+
+.mdi-closed-caption-outline:before {
+  content: "\FD99";
 }
 
 .mdi-cloud:before {
@@ -4407,6 +4499,10 @@
 
 .mdi-credit-card:before {
   content: "\F19B";
+}
+
+.mdi-credit-card-marker:before {
+  content: "\FD9A";
 }
 
 .mdi-credit-card-multiple:before {
@@ -4951,6 +5047,34 @@
 
 .mdi-disqus-outline:before {
   content: "\F1D3";
+}
+
+.mdi-diving-flippers:before {
+  content: "\FD9B";
+}
+
+.mdi-diving-helmet:before {
+  content: "\FD9C";
+}
+
+.mdi-diving-scuba:before {
+  content: "\FD9D";
+}
+
+.mdi-diving-scuba-flag:before {
+  content: "\FD9E";
+}
+
+.mdi-diving-scuba-tank:before {
+  content: "\FD9F";
+}
+
+.mdi-diving-scuba-tank-multiple:before {
+  content: "\FDA0";
+}
+
+.mdi-diving-snorkel:before {
+  content: "\FDA1";
 }
 
 .mdi-division:before {
@@ -5669,6 +5793,14 @@
   content: "\FAB5";
 }
 
+.mdi-file-cancel:before {
+  content: "\FDA2";
+}
+
+.mdi-file-cancel-outline:before {
+  content: "\FDA3";
+}
+
 .mdi-file-chart:before {
   content: "\F215";
 }
@@ -5709,6 +5841,14 @@
   content: "\F9EC";
 }
 
+.mdi-file-document-edit:before {
+  content: "\FDA4";
+}
+
+.mdi-file-document-edit-outline:before {
+  content: "\FDA5";
+}
+
 .mdi-file-document-outline:before {
   content: "\F9ED";
 }
@@ -5731,6 +5871,14 @@
 
 .mdi-file-export:before {
   content: "\F21D";
+}
+
+.mdi-file-eye:before {
+  content: "\FDA6";
+}
+
+.mdi-file-eye-outline:before {
+  content: "\FDA7";
 }
 
 .mdi-file-find:before {
@@ -6089,6 +6237,14 @@
   content: "\FB78";
 }
 
+.mdi-folder-alert:before {
+  content: "\FDA8";
+}
+
+.mdi-folder-alert-outline:before {
+  content: "\FDA9";
+}
+
 .mdi-folder-clock:before {
   content: "\FAB9";
 }
@@ -6103,6 +6259,10 @@
 
 .mdi-folder-edit:before {
   content: "\F8DD";
+}
+
+.mdi-folder-edit-outline:before {
+  content: "\FDAA";
 }
 
 .mdi-folder-google-drive:before {
@@ -6159,6 +6319,10 @@
 
 .mdi-folder-open:before {
   content: "\F76F";
+}
+
+.mdi-folder-open-outline:before {
+  content: "\FDAB";
 }
 
 .mdi-folder-outline:before {
@@ -6449,6 +6613,10 @@
   content: "\F279";
 }
 
+.mdi-format-list-bulleted-square:before {
+  content: "\FDAC";
+}
+
 .mdi-format-list-bulleted-type:before {
   content: "\F27A";
 }
@@ -6679,6 +6847,10 @@
 
 .mdi-gamepad-variant:before {
   content: "\F297";
+}
+
+.mdi-gantry-crane:before {
+  content: "\FDAD";
 }
 
 .mdi-garage:before {
@@ -7461,6 +7633,10 @@
   content: "\F8AE";
 }
 
+.mdi-home-floor-0:before {
+  content: "\FDAE";
+}
+
 .mdi-home-floor-1:before {
   content: "\FD5C";
 }
@@ -7487,6 +7663,14 @@
 
 .mdi-home-floor-l:before {
   content: "\FD62";
+}
+
+.mdi-home-floor-negative-1:before {
+  content: "\FDAF";
+}
+
+.mdi-home-group:before {
+  content: "\FDB0";
 }
 
 .mdi-home-heart:before {
@@ -7845,6 +8029,10 @@
   content: "\F676";
 }
 
+.mdi-jabber:before {
+  content: "\FDB1";
+}
+
 .mdi-jeepney:before {
   content: "\F302";
 }
@@ -7895,6 +8083,10 @@
 
 .mdi-key-minus:before {
   content: "\F308";
+}
+
+.mdi-key-outline:before {
+  content: "\FDB2";
 }
 
 .mdi-key-plus:before {
@@ -8155,6 +8347,14 @@
 
 .mdi-leaf-maple:before {
   content: "\FC6F";
+}
+
+.mdi-leak:before {
+  content: "\FDB3";
+}
+
+.mdi-leak-off:before {
+  content: "\FDB4";
 }
 
 .mdi-led-off:before {
@@ -8573,6 +8773,10 @@
   content: "\F652";
 }
 
+.mdi-marker-cancel:before {
+  content: "\FDB5";
+}
+
 .mdi-marker-check:before {
   content: "\F355";
 }
@@ -8825,6 +9029,10 @@
   content: "\F8F1";
 }
 
+.mdi-mine:before {
+  content: "\FDB6";
+}
+
 .mdi-minecraft:before {
   content: "\F373";
 }
@@ -8901,12 +9109,20 @@
   content: "\FA06";
 }
 
+.mdi-monitor-lock:before {
+  content: "\FDB7";
+}
+
 .mdi-monitor-multiple:before {
   content: "\F37A";
 }
 
 .mdi-monitor-off:before {
   content: "\FD6C";
+}
+
+.mdi-monitor-star:before {
+  content: "\FDB8";
 }
 
 .mdi-more:before {
@@ -8955,6 +9171,10 @@
 
 .mdi-movie:before {
   content: "\F381";
+}
+
+.mdi-movie-outline:before {
+  content: "\FDB9";
 }
 
 .mdi-movie-roll:before {
@@ -9025,6 +9245,10 @@
   content: "\F38A";
 }
 
+.mdi-music-note-plus:before {
+  content: "\FDBA";
+}
+
 .mdi-music-note-quarter:before {
   content: "\F38B";
 }
@@ -9039,6 +9263,10 @@
 
 .mdi-music-off:before {
   content: "\F75A";
+}
+
+.mdi-nail:before {
+  content: "\FDBB";
 }
 
 .mdi-nas:before {
@@ -9505,6 +9733,10 @@
   content: "\F67B";
 }
 
+.mdi-ocarina:before {
+  content: "\FDBC";
+}
+
 .mdi-octagon:before {
   content: "\F3C3";
 }
@@ -9785,6 +10017,10 @@
   content: "\F7E2";
 }
 
+.mdi-passport-biometric:before {
+  content: "\FDBD";
+}
+
 .mdi-patreon:before {
   content: "\F881";
 }
@@ -9829,6 +10065,26 @@
   content: "\F3EA";
 }
 
+.mdi-pen-lock:before {
+  content: "\FDBE";
+}
+
+.mdi-pen-minus:before {
+  content: "\FDBF";
+}
+
+.mdi-pen-off:before {
+  content: "\FDC0";
+}
+
+.mdi-pen-plus:before {
+  content: "\FDC1";
+}
+
+.mdi-pen-remove:before {
+  content: "\FDC2";
+}
+
 .mdi-pencil:before {
   content: "\F3EB";
 }
@@ -9853,12 +10109,44 @@
   content: "\F3EE";
 }
 
+.mdi-pencil-lock-outline:before {
+  content: "\FDC3";
+}
+
+.mdi-pencil-minus:before {
+  content: "\FDC4";
+}
+
+.mdi-pencil-minus-outline:before {
+  content: "\FDC5";
+}
+
 .mdi-pencil-off:before {
   content: "\F3EF";
 }
 
+.mdi-pencil-off-outline:before {
+  content: "\FDC6";
+}
+
 .mdi-pencil-outline:before {
   content: "\FC92";
+}
+
+.mdi-pencil-plus:before {
+  content: "\FDC7";
+}
+
+.mdi-pencil-plus-outline:before {
+  content: "\FDC8";
+}
+
+.mdi-pencil-remove:before {
+  content: "\FDC9";
+}
+
+.mdi-pencil-remove-outline:before {
+  content: "\FDCA";
 }
 
 .mdi-pentagon:before {
@@ -9941,8 +10229,16 @@
   content: "\F3FA";
 }
 
+.mdi-phone-off:before {
+  content: "\FDCB";
+}
+
 .mdi-phone-outgoing:before {
   content: "\F3FB";
+}
+
+.mdi-phone-outline:before {
+  content: "\FDCC";
 }
 
 .mdi-phone-paused:before {
@@ -9979,6 +10275,10 @@
 
 .mdi-pi-box:before {
   content: "\F400";
+}
+
+.mdi-pi-hole:before {
+  content: "\FDCD";
 }
 
 .mdi-piano:before {
@@ -10143,6 +10443,10 @@
 
 .mdi-playlist-remove:before {
   content: "\F413";
+}
+
+.mdi-playlist-star:before {
+  content: "\FDCE";
 }
 
 .mdi-playstation:before {
@@ -10989,6 +11293,26 @@
   content: "\F476";
 }
 
+.mdi-screw-flat-top:before {
+  content: "\FDCF";
+}
+
+.mdi-screw-lag:before {
+  content: "\FDD0";
+}
+
+.mdi-screw-machine-flat-top:before {
+  content: "\FDD1";
+}
+
+.mdi-screw-machine-round-top:before {
+  content: "\FDD2";
+}
+
+.mdi-screw-round-top:before {
+  content: "\FDD3";
+}
+
 .mdi-screwdriver:before {
   content: "\F477";
 }
@@ -11119,6 +11443,14 @@
 
 .mdi-send:before {
   content: "\F48A";
+}
+
+.mdi-send-circle:before {
+  content: "\FDD4";
+}
+
+.mdi-send-circle-outline:before {
+  content: "\FDD5";
 }
 
 .mdi-send-lock:before {
@@ -11373,6 +11705,10 @@
   content: "\FB23";
 }
 
+.mdi-shoe-print:before {
+  content: "\FDD6";
+}
+
 .mdi-shopify:before {
   content: "\FADD";
 }
@@ -11487,6 +11823,22 @@
 
 .mdi-signal-variant:before {
   content: "\F60A";
+}
+
+.mdi-signature:before {
+  content: "\FDD7";
+}
+
+.mdi-signature-freehand:before {
+  content: "\FDD8";
+}
+
+.mdi-signature-image:before {
+  content: "\FDD9";
+}
+
+.mdi-signature-text:before {
+  content: "\FDDA";
 }
 
 .mdi-silo:before {
@@ -11615,6 +11967,14 @@
 
 .mdi-sleep-off:before {
   content: "\F4B3";
+}
+
+.mdi-slope-downhill:before {
+  content: "\FDDB";
+}
+
+.mdi-slope-uphill:before {
+  content: "\FDDC";
 }
 
 .mdi-smog:before {
@@ -12465,8 +12825,28 @@
   content: "\F50F";
 }
 
+.mdi-thermometer-alert:before {
+  content: "\FDDD";
+}
+
+.mdi-thermometer-chevron-down:before {
+  content: "\FDDE";
+}
+
+.mdi-thermometer-chevron-up:before {
+  content: "\FDDF";
+}
+
 .mdi-thermometer-lines:before {
   content: "\F510";
+}
+
+.mdi-thermometer-minus:before {
+  content: "\FDE0";
+}
+
+.mdi-thermometer-plus:before {
+  content: "\FDE1";
 }
 
 .mdi-thermostat:before {
@@ -12777,6 +13157,10 @@
   content: "\F5CA";
 }
 
+.mdi-translate-off:before {
+  content: "\FDE2";
+}
+
 .mdi-transmission-tower:before {
   content: "\FD1A";
 }
@@ -13035,6 +13419,10 @@
 
 .mdi-upload-network-outline:before {
   content: "\FCB4";
+}
+
+.mdi-upload-outline:before {
+  content: "\FDE3";
 }
 
 .mdi-usb:before {
@@ -13381,6 +13769,10 @@
   content: "\F75C";
 }
 
+.mdi-volume-variant-off:before {
+  content: "\FDE4";
+}
+
 .mdi-vote:before {
   content: "\FA1E";
 }
@@ -13437,6 +13829,10 @@
   content: "\F587";
 }
 
+.mdi-wallpaper:before {
+  content: "\FDE5";
+}
+
 .mdi-wan:before {
   content: "\F588";
 }
@@ -13483,6 +13879,10 @@
 
 .mdi-water-off:before {
   content: "\F58D";
+}
+
+.mdi-water-outline:before {
+  content: "\FDE6";
 }
 
 .mdi-water-percent:before {
@@ -13651,6 +14051,10 @@
 
 .mdi-wifi-off:before {
   content: "\F5AA";
+}
+
+.mdi-wifi-star:before {
+  content: "\FDE7";
 }
 
 .mdi-wifi-strength-1:before {
