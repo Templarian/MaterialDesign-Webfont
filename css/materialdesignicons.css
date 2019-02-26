@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=3.5.94");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.5.94") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.5.94") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.5.94") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.5.94") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.5.94#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=3.5.95");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.5.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.5.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.5.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.5.95") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.5.95#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -9915,6 +9915,10 @@
 
 .mdi-palette-advanced:before {
   content: "\F3D9";
+}
+
+.mdi-palette-outline:before {
+  content: "\FDE8";
 }
 
 .mdi-palette-swatch:before {
