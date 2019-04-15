@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=3.5.95");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.5.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.5.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.5.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.5.95") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.5.95#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=3.6.95");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.6.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.6.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.6.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.6.95") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.6.95#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -67,6 +67,14 @@
 
 .mdi-account-badge-alert-outline:before {
   content: "\FD85";
+}
+
+.mdi-account-badge-horizontal:before {
+  content: "\FDF0";
+}
+
+.mdi-account-badge-horizontal-outline:before {
+  content: "\FDF1";
 }
 
 .mdi-account-badge-outline:before {
@@ -1593,6 +1601,10 @@
   content: "\F06B";
 }
 
+.mdi-aws:before {
+  content: "\FDF2";
+}
+
 .mdi-axe:before {
   content: "\F8C7";
 }
@@ -1699,6 +1711,22 @@
 
 .mdi-badminton:before {
   content: "\F850";
+}
+
+.mdi-bag-personal:before {
+  content: "\FDF3";
+}
+
+.mdi-bag-personal-off:before {
+  content: "\FDF4";
+}
+
+.mdi-bag-personal-off-outline:before {
+  content: "\FDF5";
+}
+
+.mdi-bag-personal-outline:before {
+  content: "\FDF6";
 }
 
 .mdi-balloon:before {
@@ -2129,6 +2157,10 @@
   content: "\F9CA";
 }
 
+.mdi-biathlon:before {
+  content: "\FDF7";
+}
+
 .mdi-bible:before {
   content: "\F0A2";
 }
@@ -2343,6 +2375,14 @@
 
 .mdi-bookmark-minus-outline:before {
   content: "\F9CC";
+}
+
+.mdi-bookmark-multiple:before {
+  content: "\FDF8";
+}
+
+.mdi-bookmark-multiple-outline:before {
+  content: "\FDF9";
 }
 
 .mdi-bookmark-music:before {
@@ -2789,6 +2829,14 @@
   content: "\FD38";
 }
 
+.mdi-calendar-month:before {
+  content: "\FDFA";
+}
+
+.mdi-calendar-month-outline:before {
+  content: "\FDFB";
+}
+
 .mdi-calendar-multiple:before {
   content: "\F0F1";
 }
@@ -2973,6 +3021,14 @@
   content: "\F107";
 }
 
+.mdi-camera-retake:before {
+  content: "\FDFC";
+}
+
+.mdi-camera-retake-outline:before {
+  content: "\FDFD";
+}
+
 .mdi-camera-switch:before {
   content: "\F108";
 }
@@ -3011,6 +3067,10 @@
 
 .mdi-car:before {
   content: "\F10B";
+}
+
+.mdi-car-back:before {
+  content: "\FDFE";
 }
 
 .mdi-car-battery:before {
@@ -3095,6 +3155,10 @@
 
 .mdi-car-multiple:before {
   content: "\FB4A";
+}
+
+.mdi-car-off:before {
+  content: "\FDFF";
 }
 
 .mdi-car-parking-lights:before {
@@ -3287,6 +3351,10 @@
 
 .mdi-cast-connected:before {
   content: "\F119";
+}
+
+.mdi-cast-education:before {
+  content: "\FE6D";
 }
 
 .mdi-cast-off:before {
@@ -3489,6 +3557,10 @@
   content: "\F12D";
 }
 
+.mdi-check-bold:before {
+  content: "\FE6E";
+}
+
 .mdi-check-box-multiple-outline:before {
   content: "\FC2D";
 }
@@ -3519,6 +3591,18 @@
 
 .mdi-check-outline:before {
   content: "\F854";
+}
+
+.mdi-check-underline:before {
+  content: "\FE70";
+}
+
+.mdi-check-underline-circle:before {
+  content: "\FE71";
+}
+
+.mdi-check-underline-circle-outline:before {
+  content: "\FE72";
 }
 
 .mdi-checkbook:before {
@@ -3819,6 +3903,10 @@
 
 .mdi-circle-small:before {
   content: "\F9DE";
+}
+
+.mdi-circular-saw:before {
+  content: "\FE73";
 }
 
 .mdi-cisco-webex:before {
@@ -4217,6 +4305,26 @@
   content: "\F179";
 }
 
+.mdi-comma:before {
+  content: "\FE74";
+}
+
+.mdi-comma-box:before {
+  content: "\FE75";
+}
+
+.mdi-comma-box-outline:before {
+  content: "\FE76";
+}
+
+.mdi-comma-circle:before {
+  content: "\FE77";
+}
+
+.mdi-comma-circle-outline:before {
+  content: "\FE78";
+}
+
 .mdi-comment:before {
   content: "\F17A";
 }
@@ -4427,6 +4535,14 @@
 
 .mdi-content-save-edit-outline:before {
   content: "\FCD8";
+}
+
+.mdi-content-save-move:before {
+  content: "\FE79";
+}
+
+.mdi-content-save-move-outline:before {
+  content: "\FE7A";
 }
 
 .mdi-content-save-outline:before {
@@ -5809,6 +5925,10 @@
   content: "\F216";
 }
 
+.mdi-file-check-outline:before {
+  content: "\FE7B";
+}
+
 .mdi-file-cloud:before {
   content: "\F217";
 }
@@ -5917,6 +6037,10 @@
   content: "\F223";
 }
 
+.mdi-file-music-outline:before {
+  content: "\FE7C";
+}
+
 .mdi-file-outline:before {
   content: "\F224";
 }
@@ -5927,6 +6051,10 @@
 
 .mdi-file-pdf-box:before {
   content: "\F226";
+}
+
+.mdi-file-pdf-outline:before {
+  content: "\FE7D";
 }
 
 .mdi-file-percent:before {
@@ -6009,6 +6137,10 @@
   content: "\F22B";
 }
 
+.mdi-file-video-outline:before {
+  content: "\FE10";
+}
+
 .mdi-file-word:before {
   content: "\F22C";
 }
@@ -6079,6 +6211,18 @@
 
 .mdi-firefox:before {
   content: "\F239";
+}
+
+.mdi-fireplace:before {
+  content: "\FE11";
+}
+
+.mdi-fireplace-off:before {
+  content: "\FE12";
+}
+
+.mdi-firework:before {
+  content: "\FE13";
 }
 
 .mdi-fish:before {
@@ -6485,6 +6629,10 @@
   content: "\F266";
 }
 
+.mdi-format-color-highlight:before {
+  content: "\FE14";
+}
+
 .mdi-format-color-text:before {
   content: "\F69D";
 }
@@ -6701,6 +6849,10 @@
   content: "\FD50";
 }
 
+.mdi-format-text-variant:before {
+  content: "\FE15";
+}
+
 .mdi-format-text-wrapping-clip:before {
   content: "\FCEA";
 }
@@ -6845,6 +6997,70 @@
   content: "\F296";
 }
 
+.mdi-gamepad-circle:before {
+  content: "\FE16";
+}
+
+.mdi-gamepad-circle-down:before {
+  content: "\FE17";
+}
+
+.mdi-gamepad-circle-left:before {
+  content: "\FE18";
+}
+
+.mdi-gamepad-circle-outline:before {
+  content: "\FE19";
+}
+
+.mdi-gamepad-circle-right:before {
+  content: "\FE1A";
+}
+
+.mdi-gamepad-circle-up:before {
+  content: "\FE1B";
+}
+
+.mdi-gamepad-down:before {
+  content: "\FE1C";
+}
+
+.mdi-gamepad-left:before {
+  content: "\FE1D";
+}
+
+.mdi-gamepad-right:before {
+  content: "\FE1E";
+}
+
+.mdi-gamepad-round:before {
+  content: "\FE1F";
+}
+
+.mdi-gamepad-round-down:before {
+  content: "\FE20";
+}
+
+.mdi-gamepad-round-left:before {
+  content: "\FE21";
+}
+
+.mdi-gamepad-round-outline:before {
+  content: "\FE22";
+}
+
+.mdi-gamepad-round-right:before {
+  content: "\FE23";
+}
+
+.mdi-gamepad-round-up:before {
+  content: "\FE24";
+}
+
+.mdi-gamepad-up:before {
+  content: "\FE25";
+}
+
 .mdi-gamepad-variant:before {
   content: "\F297";
 }
@@ -6903,6 +7119,10 @@
 
 .mdi-gate-xor:before {
   content: "\F8E6";
+}
+
+.mdi-gatsby:before {
+  content: "\FE26";
 }
 
 .mdi-gauge:before {
@@ -7018,6 +7238,10 @@
 }
 
 .mdi-gift:before {
+  content: "\FE27";
+}
+
+.mdi-gift-outline:before {
   content: "\F2A1";
 }
 
@@ -7285,6 +7509,10 @@
   content: "\F2C2";
 }
 
+.mdi-grill:before {
+  content: "\FE28";
+}
+
 .mdi-group:before {
   content: "\F2C3";
 }
@@ -7333,6 +7561,10 @@
   content: "\FA4E";
 }
 
+.mdi-hand-left:before {
+  content: "\FE29";
+}
+
 .mdi-hand-okay:before {
   content: "\FA4F";
 }
@@ -7359,6 +7591,14 @@
 
 .mdi-hand-pointing-up:before {
   content: "\FA54";
+}
+
+.mdi-hand-right:before {
+  content: "\FE2A";
+}
+
+.mdi-hand-saw:before {
+  content: "\FE2B";
 }
 
 .mdi-hanger:before {
@@ -7905,6 +8145,10 @@
   content: "\F2F8";
 }
 
+.mdi-image-frame:before {
+  content: "\FE2C";
+}
+
 .mdi-image-move:before {
   content: "\F9F7";
 }
@@ -8003,6 +8247,10 @@
 
 .mdi-invert-colors:before {
   content: "\F301";
+}
+
+.mdi-invert-colors-off:before {
+  content: "\FE2D";
 }
 
 .mdi-ip:before {
@@ -8119,6 +8367,10 @@
 
 .mdi-keyboard-off:before {
   content: "\F310";
+}
+
+.mdi-keyboard-off-outline:before {
+  content: "\FE2E";
 }
 
 .mdi-keyboard-outline:before {
@@ -8325,6 +8577,10 @@
   content: "\F328";
 }
 
+.mdi-layers-minus:before {
+  content: "\FE2F";
+}
+
 .mdi-layers-off:before {
   content: "\F329";
 }
@@ -8335,6 +8591,14 @@
 
 .mdi-layers-outline:before {
   content: "\F9FD";
+}
+
+.mdi-layers-plus:before {
+  content: "\FE30";
+}
+
+.mdi-layers-remove:before {
+  content: "\FE31";
 }
 
 .mdi-lead-pencil:before {
@@ -8431,6 +8695,14 @@
 
 .mdi-lightbulb:before {
   content: "\F335";
+}
+
+.mdi-lightbulb-off:before {
+  content: "\FE32";
+}
+
+.mdi-lightbulb-off-outline:before {
+  content: "\FE33";
 }
 
 .mdi-lightbulb-on:before {
@@ -9121,6 +9393,10 @@
   content: "\FD6C";
 }
 
+.mdi-monitor-screenshot:before {
+  content: "\FE34";
+}
+
 .mdi-monitor-star:before {
   content: "\FDB8";
 }
@@ -9373,12 +9649,24 @@
   content: "\F396";
 }
 
+.mdi-nfc-off:before {
+  content: "\FE35";
+}
+
+.mdi-nfc-search-variant:before {
+  content: "\FE36";
+}
+
 .mdi-nfc-tap:before {
   content: "\F397";
 }
 
 .mdi-nfc-variant:before {
   content: "\F398";
+}
+
+.mdi-nfc-variant-off:before {
+  content: "\FE37";
 }
 
 .mdi-ninja:before {
@@ -9431,6 +9719,10 @@
 
 .mdi-notebook:before {
   content: "\F82D";
+}
+
+.mdi-notebook-multiple:before {
+  content: "\FE38";
 }
 
 .mdi-notification-clear-all:before {
@@ -9918,7 +10210,7 @@
 }
 
 .mdi-palette-outline:before {
-  content: "\FDE8";
+  content: "\FE6C";
 }
 
 .mdi-palette-swatch:before {
@@ -10059,6 +10351,10 @@
 
 .mdi-paypal:before {
   content: "\F882";
+}
+
+.mdi-pdf-box:before {
+  content: "\FE39";
 }
 
 .mdi-peace:before {
@@ -10291,6 +10587,22 @@
 
 .mdi-pickaxe:before {
   content: "\F8B6";
+}
+
+.mdi-picture-in-picture-bottom-right:before {
+  content: "\FE3A";
+}
+
+.mdi-picture-in-picture-bottom-right-outline:before {
+  content: "\FE3B";
+}
+
+.mdi-picture-in-picture-top-right:before {
+  content: "\FE3C";
+}
+
+.mdi-picture-in-picture-top-right-outline:before {
+  content: "\FE3D";
 }
 
 .mdi-pier:before {
@@ -10673,8 +10985,20 @@
   content: "\F42B";
 }
 
+.mdi-printer-3d-nozzle:before {
+  content: "\FE3E";
+}
+
+.mdi-printer-3d-nozzle-outline:before {
+  content: "\FE3F";
+}
+
 .mdi-printer-alert:before {
   content: "\F42C";
+}
+
+.mdi-printer-off:before {
+  content: "\FE40";
 }
 
 .mdi-printer-settings:before {
@@ -10913,6 +11237,14 @@
   content: "\F44B";
 }
 
+.mdi-rectangle:before {
+  content: "\FE41";
+}
+
+.mdi-rectangle-outline:before {
+  content: "\FE42";
+}
+
 .mdi-recycle:before {
   content: "\F44C";
 }
@@ -11089,6 +11421,10 @@
   content: "\F7EA";
 }
 
+.mdi-rivet:before {
+  content: "\FE43";
+}
+
 .mdi-road:before {
   content: "\F461";
 }
@@ -11257,6 +11593,10 @@
   content: "\F8B9";
 }
 
+.mdi-saw-blade:before {
+  content: "\FE44";
+}
+
 .mdi-saxophone:before {
   content: "\F609";
 }
@@ -11302,19 +11642,19 @@
 }
 
 .mdi-screw-lag:before {
-  content: "\FDD0";
+  content: "\FE54";
 }
 
 .mdi-screw-machine-flat-top:before {
-  content: "\FDD1";
+  content: "\FE55";
 }
 
 .mdi-screw-machine-round-top:before {
-  content: "\FDD2";
+  content: "\FE56";
 }
 
 .mdi-screw-round-top:before {
-  content: "\FDD3";
+  content: "\FE57";
 }
 
 .mdi-screwdriver:before {
@@ -11401,6 +11741,14 @@
   content: "\F484";
 }
 
+.mdi-seed:before {
+  content: "\FE45";
+}
+
+.mdi-seed-outline:before {
+  content: "\FE46";
+}
+
 .mdi-select:before {
   content: "\F485";
 }
@@ -11450,11 +11798,11 @@
 }
 
 .mdi-send-circle:before {
-  content: "\FDD4";
+  content: "\FE58";
 }
 
 .mdi-send-circle-outline:before {
-  content: "\FDD5";
+  content: "\FE59";
 }
 
 .mdi-send-lock:before {
@@ -11710,7 +12058,7 @@
 }
 
 .mdi-shoe-print:before {
-  content: "\FDD6";
+  content: "\FE5A";
 }
 
 .mdi-shopify:before {
@@ -11813,6 +12161,10 @@
   content: "\F8BE";
 }
 
+.mdi-signal-distance-variant:before {
+  content: "\FE47";
+}
+
 .mdi-signal-hspa:before {
   content: "\F714";
 }
@@ -11830,19 +12182,19 @@
 }
 
 .mdi-signature:before {
-  content: "\FDD7";
+  content: "\FE5B";
 }
 
 .mdi-signature-freehand:before {
-  content: "\FDD8";
+  content: "\FE5C";
 }
 
 .mdi-signature-image:before {
-  content: "\FDD9";
+  content: "\FE5D";
 }
 
 .mdi-signature-text:before {
-  content: "\FDDA";
+  content: "\FE5E";
 }
 
 .mdi-silo:before {
@@ -11974,11 +12326,11 @@
 }
 
 .mdi-slope-downhill:before {
-  content: "\FDDB";
+  content: "\FE5F";
 }
 
 .mdi-slope-uphill:before {
-  content: "\FDDC";
+  content: "\FE60";
 }
 
 .mdi-smog:before {
@@ -12141,6 +12493,10 @@
   content: "\FBA5";
 }
 
+.mdi-spade:before {
+  content: "\FE48";
+}
+
 .mdi-speaker:before {
   content: "\F4C3";
 }
@@ -12191,6 +12547,14 @@
 
 .mdi-spray-bottle:before {
   content: "\FADF";
+}
+
+.mdi-sprout:before {
+  content: "\FE49";
+}
+
+.mdi-sprout-outline:before {
+  content: "\FE4A";
 }
 
 .mdi-square:before {
@@ -12609,6 +12973,10 @@
   content: "\F837";
 }
 
+.mdi-table-tennis:before {
+  content: "\FE4B";
+}
+
 .mdi-tablet:before {
   content: "\F4F6";
 }
@@ -12830,15 +13198,15 @@
 }
 
 .mdi-thermometer-alert:before {
-  content: "\FDDD";
+  content: "\FE61";
 }
 
 .mdi-thermometer-chevron-down:before {
-  content: "\FDDE";
+  content: "\FE62";
 }
 
 .mdi-thermometer-chevron-up:before {
-  content: "\FDDF";
+  content: "\FE63";
 }
 
 .mdi-thermometer-lines:before {
@@ -12846,11 +13214,11 @@
 }
 
 .mdi-thermometer-minus:before {
-  content: "\FDE0";
+  content: "\FE64";
 }
 
 .mdi-thermometer-plus:before {
-  content: "\FDE1";
+  content: "\FE65";
 }
 
 .mdi-thermostat:before {
@@ -13162,7 +13530,7 @@
 }
 
 .mdi-translate-off:before {
-  content: "\FDE2";
+  content: "\FE66";
 }
 
 .mdi-transmission-tower:before {
@@ -13183,6 +13551,10 @@
 
 .mdi-tree:before {
   content: "\F531";
+}
+
+.mdi-tree-outline:before {
+  content: "\FE4C";
 }
 
 .mdi-trello:before {
@@ -13426,7 +13798,7 @@
 }
 
 .mdi-upload-outline:before {
-  content: "\FDE3";
+  content: "\FE67";
 }
 
 .mdi-usb:before {
@@ -13637,6 +14009,18 @@
   content: "\F56D";
 }
 
+.mdi-view-comfy:before {
+  content: "\FE4D";
+}
+
+.mdi-view-compact:before {
+  content: "\FE4E";
+}
+
+.mdi-view-compact-outline:before {
+  content: "\FE4F";
+}
+
 .mdi-view-dashboard:before {
   content: "\F56E";
 }
@@ -13774,7 +14158,7 @@
 }
 
 .mdi-volume-variant-off:before {
-  content: "\FDE4";
+  content: "\FE68";
 }
 
 .mdi-vote:before {
@@ -13791,6 +14175,10 @@
 
 .mdi-vuejs:before {
   content: "\F843";
+}
+
+.mdi-vuetify:before {
+  content: "\FE50";
 }
 
 .mdi-walk:before {
@@ -13834,7 +14222,7 @@
 }
 
 .mdi-wallpaper:before {
-  content: "\FDE5";
+  content: "\FE69";
 }
 
 .mdi-wan:before {
@@ -13886,7 +14274,7 @@
 }
 
 .mdi-water-outline:before {
-  content: "\FDE6";
+  content: "\FE6A";
 }
 
 .mdi-water-percent:before {
@@ -13911,6 +14299,10 @@
 
 .mdi-weather-cloudy:before {
   content: "\F590";
+}
+
+.mdi-weather-cloudy-arrow-right:before {
+  content: "\FE51";
 }
 
 .mdi-weather-fog:before {
@@ -14058,7 +14450,7 @@
 }
 
 .mdi-wifi-star:before {
-  content: "\FDE7";
+  content: "\FE6B";
 }
 
 .mdi-wifi-strength-1:before {
@@ -14261,8 +14653,16 @@
   content: "\F74F";
 }
 
+.mdi-xbox-controller-menu:before {
+  content: "\FE52";
+}
+
 .mdi-xbox-controller-off:before {
   content: "\F5BB";
+}
+
+.mdi-xbox-controller-view:before {
+  content: "\FE53";
 }
 
 .mdi-xda:before {
