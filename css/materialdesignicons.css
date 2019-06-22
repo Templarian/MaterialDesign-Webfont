@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=3.7.94");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.7.94") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.7.94") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.7.94") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.7.94") format("truetype"), url("../fonts/materialdesignicons-webfont.svg?v=3.7.94#materialdesigniconsregular") format("svg");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=3.7.95");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.7.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.7.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.7.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.7.95") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -14515,6 +14515,10 @@
 
 .mdi-voice:before {
   content: "\F5CB";
+}
+
+.mdi-voice-off:before {
+  content: "\FEF1";
 }
 
 .mdi-voicemail:before {
