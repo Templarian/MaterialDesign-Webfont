@@ -3,12 +3,12 @@ const readline = require('readline');
 const fs = require('fs');
 const path = require('path');
 
-const fileReg = /https:\/\/file\.myfontastic\.com\/ixrqMaXeHbDr6dWB499j76\/fonts\/([0-9]*)\.eot/;
-const nameReg = /\.andes\-(.*)\:before\ \{/;
+const fileReg = /https:\/\/file\.myfontastic\.com\/4eD44rzpUjSqpNE5fDS8LD\/fonts\/([0-9]*)\.eot/;
+const nameReg = /\.icon\-(.*)\:before\ \{/;
 const contentReg = /content: \"\\(.*)\"/;
 
 const projectId = 'ixrqMaXeHbDr6dWB499j76';
-const url = 'https://file.myfontastic.com/ixrqMaXeHbDr6dWB499j76/icons.css';
+const url = 'https://file.myfontastic.com/4eD44rzpUjSqpNE5fDS8LD/icons.css';
 
 function test(reg, line) {
     let match = line.match(reg);
@@ -23,7 +23,7 @@ function test(reg, line) {
 let fileId = null;
 let name = null;
 let content = null;
-let icons = {}; 
+let icons = {};
 
 https.get(url, (res) => {
     const rl = readline.createInterface({
@@ -32,7 +32,7 @@ https.get(url, (res) => {
     rl.on('line', (line) => {
         if (!fileId) {
             fileId = test(fileReg, line);
-        } else { 
+        } else {
             if (!name) {
                 name = test(nameReg, line);
             } else {
