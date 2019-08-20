@@ -1,6 +1,6 @@
 {
   "name": "@andes/icons",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Andes WebFont Icons for any helth application",
   "style": "css/andes-icons.css",
   "scripts": {
