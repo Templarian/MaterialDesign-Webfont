@@ -7,7 +7,7 @@ const fileReg = /https:\/\/file\.myfontastic\.com\/4eD44rzpUjSqpNE5fDS8LD\/fonts
 const nameReg = /\.icon\-(.*)\:before\ \{/;
 const contentReg = /content: \"\\(.*)\"/;
 
-const projectId = 'ixrqMaXeHbDr6dWB499j76';
+const projectId = '4eD44rzpUjSqpNE5fDS8LD';
 const url = 'https://file.myfontastic.com/4eD44rzpUjSqpNE5fDS8LD/icons.css';
 
 function test(reg, line) {
@@ -52,7 +52,7 @@ https.get(url, (res) => {
         console.log(icons);
 
         ['eot', 'woff', 'svg', 'ttf'].forEach((ext) => {
-            let url = `https://file.myfontastic.com/ixrqMaXeHbDr6dWB499j76/fonts/${fileId}.${ext}`;
+            let url = `https://file.myfontastic.com/4eD44rzpUjSqpNE5fDS8LD/fonts/${fileId}.${ext}`;
             https.get(url, (res) => {
                 let writeStream = fs.createWriteStream(path.join(__dirname, '..', 'fonts', 'andes.font.' + ext));
                 res.pipe(writeStream);
