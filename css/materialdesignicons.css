@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=4.1.95");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=4.1.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=4.1.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=4.1.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=4.1.95") format("truetype");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=4.2.95");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=4.2.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=4.2.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=4.2.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=4.2.95") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -108,6 +108,14 @@
 
 .mdi-account-card-details-outline::before {
   content: "\FD87";
+}
+
+.mdi-account-cash::before {
+  content: "\F00C2";
+}
+
+.mdi-account-cash-outline::before {
+  content: "\F00C3";
 }
 
 .mdi-account-check::before {
@@ -328,6 +336,10 @@
 
 .mdi-air-horn::before {
   content: "\FD88";
+}
+
+.mdi-air-humidifier::before {
+  content: "\F00C4";
 }
 
 .mdi-air-purifier::before {
@@ -1110,12 +1122,20 @@
   content: "\FA8F";
 }
 
+.mdi-ansible::before {
+  content: "\F00C5";
+}
+
 .mdi-anvil::before {
   content: "\F89A";
 }
 
 .mdi-apache-kafka::before {
   content: "\F0031";
+}
+
+.mdi-api::before {
+  content: "\F00C6";
 }
 
 .mdi-apple::before {
@@ -1192,6 +1212,14 @@
 
 .mdi-archive::before {
   content: "\F03C";
+}
+
+.mdi-arm-flex::before {
+  content: "\F008F";
+}
+
+.mdi-arm-flex-outline::before {
+  content: "\F0090";
 }
 
 .mdi-arrange-bring-forward::before {
@@ -1770,6 +1798,10 @@
   content: "\F804";
 }
 
+.mdi-azure-devops::before {
+  content: "\F0091";
+}
+
 .mdi-babel::before {
   content: "\FA24";
 }
@@ -2234,8 +2266,40 @@
   content: "\F097";
 }
 
+.mdi-bed-double::before {
+  content: "\F0092";
+}
+
+.mdi-bed-double-outline::before {
+  content: "\F0093";
+}
+
 .mdi-bed-empty::before {
   content: "\F89F";
+}
+
+.mdi-bed-king::before {
+  content: "\F0094";
+}
+
+.mdi-bed-king-outline::before {
+  content: "\F0095";
+}
+
+.mdi-bed-queen::before {
+  content: "\F0096";
+}
+
+.mdi-bed-queen-outline::before {
+  content: "\F0097";
+}
+
+.mdi-bed-single::before {
+  content: "\F0098";
+}
+
+.mdi-bed-single-outline::before {
+  content: "\F0099";
 }
 
 .mdi-bee::before {
@@ -2324,6 +2388,10 @@
 
 .mdi-bible::before {
   content: "\F0A2";
+}
+
+.mdi-bicycle::before {
+  content: "\F00C7";
 }
 
 .mdi-bike::before {
@@ -2464,6 +2532,10 @@
 
 .mdi-book::before {
   content: "\F0BA";
+}
+
+.mdi-book-information-variant::before {
+  content: "\F009A";
 }
 
 .mdi-book-lock::before {
@@ -2708,6 +2780,18 @@
 
 .mdi-border-vertical::before {
   content: "\F0D2";
+}
+
+.mdi-bottle-soda::before {
+  content: "\F009B";
+}
+
+.mdi-bottle-soda-classic::before {
+  content: "\F009C";
+}
+
+.mdi-bottle-soda-outline::before {
+  content: "\F009D";
 }
 
 .mdi-bottle-wine::before {
@@ -3032,6 +3116,10 @@
 
 .mdi-calendar-blank::before {
   content: "\F0EE";
+}
+
+.mdi-calendar-blank-multiple::before {
+  content: "\F009E";
 }
 
 .mdi-calendar-blank-outline::before {
@@ -3410,6 +3498,10 @@
   content: "\FB47";
 }
 
+.mdi-car-door-lock::before {
+  content: "\F00C8";
+}
+
 .mdi-car-electric::before {
   content: "\FB48";
 }
@@ -3546,6 +3638,14 @@
   content: "\FB52";
 }
 
+.mdi-card-search::before {
+  content: "\F009F";
+}
+
+.mdi-card-search-outline::before {
+  content: "\F00A0";
+}
+
 .mdi-card-text::before {
   content: "\FB53";
 }
@@ -3658,7 +3758,7 @@
   content: "\FCD0";
 }
 
-.mdi-cash-usd::before {
+.mdi-cash-usd-outline::before {
   content: "\F117";
 }
 
@@ -4590,6 +4690,10 @@
   content: "\F0042";
 }
 
+.mdi-coat-rack::before {
+  content: "\F00C9";
+}
+
 .mdi-code-array::before {
   content: "\F168";
 }
@@ -4654,6 +4758,10 @@
   content: "\F176";
 }
 
+.mdi-coffee-maker::before {
+  content: "\F00CA";
+}
+
 .mdi-coffee-off::before {
   content: "\FFCA";
 }
@@ -4678,7 +4786,7 @@
   content: "\F8D5";
 }
 
-.mdi-coin::before {
+.mdi-coin-outline::before {
   content: "\F178";
 }
 
@@ -4868,6 +4976,10 @@
 
 .mdi-compass-outline::before {
   content: "\F18C";
+}
+
+.mdi-concourse-ci::before {
+  content: "\F00CB";
 }
 
 .mdi-console::before {
@@ -5458,6 +5570,22 @@
   content: "\F76C";
 }
 
+.mdi-decimal::before {
+  content: "\F00CC";
+}
+
+.mdi-decimal-comma::before {
+  content: "\F00CD";
+}
+
+.mdi-decimal-comma-decrease::before {
+  content: "\F00CE";
+}
+
+.mdi-decimal-comma-increase::before {
+  content: "\F00CF";
+}
+
 .mdi-decimal-decrease::before {
   content: "\F1BE";
 }
@@ -5468,6 +5596,14 @@
 
 .mdi-delete::before {
   content: "\F1C0";
+}
+
+.mdi-delete-alert::before {
+  content: "\F00D0";
+}
+
+.mdi-delete-alert-outline::before {
+  content: "\F00D1";
 }
 
 .mdi-delete-circle::before {
@@ -5492,6 +5628,14 @@
 
 .mdi-delete-forever-outline::before {
   content: "\FB65";
+}
+
+.mdi-delete-off::before {
+  content: "\F00D2";
+}
+
+.mdi-delete-off-outline::before {
+  content: "\F00D3";
 }
 
 .mdi-delete-outline::before {
@@ -5750,6 +5894,22 @@
   content: "\F698";
 }
 
+.mdi-dock-bottom::before {
+  content: "\F00D4";
+}
+
+.mdi-dock-left::before {
+  content: "\F00D5";
+}
+
+.mdi-dock-right::before {
+  content: "\F00D6";
+}
+
+.mdi-dock-window::before {
+  content: "\F00D7";
+}
+
 .mdi-docker::before {
   content: "\F867";
 }
@@ -5786,6 +5946,14 @@
   content: "\FD4B";
 }
 
+.mdi-domain-plus::before {
+  content: "\F00D8";
+}
+
+.mdi-domain-remove::before {
+  content: "\F00D9";
+}
+
 .mdi-domino-mask::before {
   content: "\F0045";
 }
@@ -5800,6 +5968,10 @@
 
 .mdi-door-closed::before {
   content: "\F81A";
+}
+
+.mdi-door-closed-lock::before {
+  content: "\F00DA";
 }
 
 .mdi-door-open::before {
@@ -5856,6 +6028,14 @@
 
 .mdi-download-network-outline::before {
   content: "\FC42";
+}
+
+.mdi-download-off::before {
+  content: "\F00DB";
+}
+
+.mdi-download-off-outline::before {
+  content: "\F00DC";
 }
 
 .mdi-download-outline::before {
@@ -6450,8 +6630,20 @@
   content: "\F644";
 }
 
+.mdi-face-profile-woman::before {
+  content: "\F00A1";
+}
+
 .mdi-face-recognition::before {
   content: "\FC57";
+}
+
+.mdi-face-woman::before {
+  content: "\F00A2";
+}
+
+.mdi-face-woman-outline::before {
+  content: "\F00A3";
 }
 
 .mdi-facebook::before {
@@ -6886,6 +7078,22 @@
   content: "\F005B";
 }
 
+.mdi-file-settings::before {
+  content: "\F00A4";
+}
+
+.mdi-file-settings-outline::before {
+  content: "\F00A5";
+}
+
+.mdi-file-settings-variant::before {
+  content: "\F00A6";
+}
+
+.mdi-file-settings-variant-outline::before {
+  content: "\F00A7";
+}
+
 .mdi-file-star::before {
   content: "\F005C";
 }
@@ -7086,6 +7294,10 @@
   content: "\FB75";
 }
 
+.mdi-flag-minus-outline::before {
+  content: "\F00DD";
+}
+
 .mdi-flag-outline::before {
   content: "\F23D";
 }
@@ -7094,8 +7306,16 @@
   content: "\FB76";
 }
 
+.mdi-flag-plus-outline::before {
+  content: "\F00DE";
+}
+
 .mdi-flag-remove::before {
   content: "\FB77";
+}
+
+.mdi-flag-remove-outline::before {
+  content: "\F00DF";
 }
 
 .mdi-flag-triangle::before {
@@ -7290,8 +7510,24 @@
   content: "\F24E";
 }
 
+.mdi-folder-home::before {
+  content: "\F00E0";
+}
+
+.mdi-folder-home-outline::before {
+  content: "\F00E1";
+}
+
 .mdi-folder-image::before {
   content: "\F24F";
+}
+
+.mdi-folder-information::before {
+  content: "\F00E2";
+}
+
+.mdi-folder-information-outline::before {
+  content: "\F00E3";
 }
 
 .mdi-folder-key::before {
@@ -7380,6 +7616,22 @@
 
 .mdi-folder-search-outline::before {
   content: "\F968";
+}
+
+.mdi-folder-settings::before {
+  content: "\F00A8";
+}
+
+.mdi-folder-settings-outline::before {
+  content: "\F00A9";
+}
+
+.mdi-folder-settings-variant::before {
+  content: "\F00AA";
+}
+
+.mdi-folder-settings-variant-outline::before {
+  content: "\F00AB";
 }
 
 .mdi-folder-star::before {
@@ -7950,6 +8202,14 @@
   content: "\F870";
 }
 
+.mdi-furigana-horizontal::before {
+  content: "\F00AC";
+}
+
+.mdi-furigana-vertical::before {
+  content: "\F00AD";
+}
+
 .mdi-fuse::before {
   content: "\FC61";
 }
@@ -8304,6 +8564,10 @@
 
 .mdi-golf::before {
   content: "\F822";
+}
+
+.mdi-golf-tee::before {
+  content: "\F00AE";
 }
 
 .mdi-gondola::before {
@@ -9358,6 +9622,10 @@
   content: "\F676";
 }
 
+.mdi-iv-bag::before {
+  content: "\F00E4";
+}
+
 .mdi-jabber::before {
   content: "\FDB1";
 }
@@ -9870,6 +10138,10 @@
   content: "\FCF9";
 }
 
+.mdi-link-lock::before {
+  content: "\F00E5";
+}
+
 .mdi-link-off::before {
   content: "\F338";
 }
@@ -10008,6 +10280,10 @@
 
 .mdi-lumx::before {
   content: "\F346";
+}
+
+.mdi-lungs::before {
+  content: "\F00AF";
 }
 
 .mdi-lyft::before {
@@ -10266,6 +10542,10 @@
   content: "\FFE9";
 }
 
+.mdi-math-log::before {
+  content: "\F00B0";
+}
+
 .mdi-math-norm::before {
   content: "\FFEA";
 }
@@ -10400,6 +10680,10 @@
 
 .mdi-message-plus::before {
   content: "\F653";
+}
+
+.mdi-message-plus-outline::before {
+  content: "\F00E6";
 }
 
 .mdi-message-processing::before {
@@ -10656,6 +10940,10 @@
 
 .mdi-moon-waxing-gibbous::before {
   content: "\FF85";
+}
+
+.mdi-moped::before {
+  content: "\F00B1";
 }
 
 .mdi-more::before {
@@ -10940,6 +11228,10 @@
 
 .mdi-network-outline::before {
   content: "\FC79";
+}
+
+.mdi-network-router::before {
+  content: "\F00B2";
 }
 
 .mdi-network-strength-1::before {
@@ -12006,6 +12298,10 @@
   content: "\F3F3";
 }
 
+.mdi-phone-cancel::before {
+  content: "\F00E7";
+}
+
 .mdi-phone-classic::before {
   content: "\F602";
 }
@@ -13054,6 +13350,46 @@
   content: "\FB9C";
 }
 
+.mdi-roman-numeral-1::before {
+  content: "\F00B3";
+}
+
+.mdi-roman-numeral-10::before {
+  content: "\F00BC";
+}
+
+.mdi-roman-numeral-2::before {
+  content: "\F00B4";
+}
+
+.mdi-roman-numeral-3::before {
+  content: "\F00B5";
+}
+
+.mdi-roman-numeral-4::before {
+  content: "\F00B6";
+}
+
+.mdi-roman-numeral-5::before {
+  content: "\F00B7";
+}
+
+.mdi-roman-numeral-6::before {
+  content: "\F00B8";
+}
+
+.mdi-roman-numeral-7::before {
+  content: "\F00B9";
+}
+
+.mdi-roman-numeral-8::before {
+  content: "\F00BA";
+}
+
+.mdi-roman-numeral-9::before {
+  content: "\F00BB";
+}
+
 .mdi-room-service::before {
   content: "\F88C";
 }
@@ -14054,6 +14390,22 @@
   content: "\FE60";
 }
 
+.mdi-smart-card::before {
+  content: "\F00E8";
+}
+
+.mdi-smart-card-outline::before {
+  content: "\F00E9";
+}
+
+.mdi-smart-card-reader::before {
+  content: "\F00EA";
+}
+
+.mdi-smart-card-reader-outline::before {
+  content: "\F00EB";
+}
+
 .mdi-smog::before {
   content: "\FA70";
 }
@@ -14112,6 +14464,10 @@
 
 .mdi-solar-power::before {
   content: "\FA71";
+}
+
+.mdi-soldering-iron::before {
+  content: "\F00BD";
 }
 
 .mdi-solid::before {
@@ -14478,6 +14834,10 @@
   content: "\F4DA";
 }
 
+.mdi-stomach::before {
+  content: "\F00BE";
+}
+
 .mdi-stop::before {
   content: "\F4DB";
 }
@@ -14496,6 +14856,10 @@
 
 .mdi-store-24-hour::before {
   content: "\F4DD";
+}
+
+.mdi-storefront::before {
+  content: "\F00EC";
 }
 
 .mdi-stove::before {
@@ -14700,6 +15064,10 @@
 
 .mdi-table-edit::before {
   content: "\F4F0";
+}
+
+.mdi-table-eye::before {
+  content: "\F00BF";
 }
 
 .mdi-table-large::before {
@@ -14982,6 +15350,10 @@
   content: "\F50B";
 }
 
+.mdi-textarea::before {
+  content: "\F00C0";
+}
+
 .mdi-textbox::before {
   content: "\F60E";
 }
@@ -15022,8 +15394,16 @@
   content: "\FE63";
 }
 
+.mdi-thermometer-high::before {
+  content: "\F00ED";
+}
+
 .mdi-thermometer-lines::before {
   content: "\F510";
+}
+
+.mdi-thermometer-low::before {
+  content: "\F00EE";
 }
 
 .mdi-thermometer-minus::before {
@@ -15486,6 +15866,10 @@
   content: "\F726";
 }
 
+.mdi-trumpet::before {
+  content: "\F00C1";
+}
+
 .mdi-tshirt-crew::before {
   content: "\FA7A";
 }
@@ -15578,6 +15962,14 @@
   content: "\F548";
 }
 
+.mdi-ufo::before {
+  content: "\F00EF";
+}
+
+.mdi-ufo-outline::before {
+  content: "\F00F0";
+}
+
 .mdi-ultra-high-definition::before {
   content: "\F7F8";
 }
@@ -15660,6 +16052,14 @@
 
 .mdi-upload-network-outline::before {
   content: "\FCB4";
+}
+
+.mdi-upload-off::before {
+  content: "\F00F1";
+}
+
+.mdi-upload-off-outline::before {
+  content: "\F00F2";
 }
 
 .mdi-upload-outline::before {
