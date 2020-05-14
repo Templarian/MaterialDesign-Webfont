@@ -4,7 +4,7 @@
   "description": "Andes WebFont Icons for any helth application",
   "style": "css/andes-icons.css",
   "scripts": {
-    "build": "npm run fontello:install && node setup.js && npm run build:css",
+    "build": "npm run fontello:install && node setup.js && npm run build:css && npm run doc",
     "build:css": "npm run css && npm run css-min",
     "css": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.css",
     "css-min": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.min.css --output-style compressed",
