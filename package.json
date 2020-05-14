@@ -4,7 +4,7 @@
   "description": "Andes WebFont Icons for any helth application",
   "style": "css/andes-icons.css",
   "scripts": {
-    "build": "node setup.js && npm run build:css",
+    "build": "npm run fontello:install && node setup.js && npm run build:css",
     "build:css": "npm run css && npm run css-min",
     "css": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.css",
     "css-min": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.min.css --output-style compressed",
@@ -12,7 +12,8 @@
     "wait-for": "wait-on http://localhost:3000",
     "fontello:open": "fontello-cli --config config.json --host http://localhost:3000 open",
     "fontello:install": "fontello-cli --config config.json install --css ./css --font ./fonts",
-    "server": "npm run fontello:server && npm run wait-for && npm run fontello:open"
+    "server": "npm run fontello:server && npm run wait-for && npm run fontello:open",
+    "doc": "fontello-cli --config config.json install && node doc.js"
   },
   "repository": {
     "type": "git",
