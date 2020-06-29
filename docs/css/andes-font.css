@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?60429013');
-  src: url('../font/andes-font.eot?60429013#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?60429013') format('woff2'),
-       url('../font/andes-font.woff?60429013') format('woff'),
-       url('../font/andes-font.ttf?60429013') format('truetype'),
-       url('../font/andes-font.svg?60429013#andes-font') format('svg');
+  src: url('../font/andes-font.eot?18154556');
+  src: url('../font/andes-font.eot?18154556#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?18154556') format('woff2'),
+       url('../font/andes-font.woff?18154556') format('woff'),
+       url('../font/andes-font.ttf?18154556') format('truetype'),
+       url('../font/andes-font.svg?18154556#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?60429013#andes-font') format('svg');
+    src: url('../font/andes-font.svg?18154556#andes-font') format('svg');
   }
 }
 */
@@ -162,7 +162,6 @@
 .adi-estudiante:before { content: '\e868'; } /* '' */
 .adi-etiqueta:before { content: '\e869'; } /* '' */
 .adi-oxigeno:before { content: '\e86a'; } /* '' */
-.adi-familia:before { content: '\e86b'; } /* '' */
 .adi-farmacia:before { content: '\e86c'; } /* '' */
 .adi-femenino:before { content: '\e86d'; } /* '' */
 .adi-ferula:before { content: '\e86e'; } /* '' */
@@ -657,3 +656,4 @@
 .adi-merge:before { content: '\ea57'; } /* '' */
 .adi-head:before { content: '\ea58'; } /* '' */
 .adi-timer:before { content: '\ea59'; } /* '' */
+.adi-familia:before { content: '\ea5a'; } /* '' */

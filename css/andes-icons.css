@@ -335,9 +335,6 @@
 .adi-oxigeno:before {
   content: "\e86a"; }
 
-.adi-familia:before {
-  content: "\e86b"; }
-
 .adi-farmacia:before {
   content: "\e86c"; }
 
@@ -1822,6 +1819,9 @@
 
 .adi-timer:before {
   content: "\ea59"; }
+
+.adi-familia:before {
+  content: "\ea5a"; }
 
 .adi-blank:before {
   content: "\F68C";

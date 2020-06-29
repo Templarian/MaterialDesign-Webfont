@@ -106,7 +106,6 @@
 .adi-estudiante { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe868;&nbsp;'); }
 .adi-etiqueta { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe869;&nbsp;'); }
 .adi-oxigeno { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86a;&nbsp;'); }
-.adi-familia { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86b;&nbsp;'); }
 .adi-farmacia { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86c;&nbsp;'); }
 .adi-femenino { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86d;&nbsp;'); }
 .adi-ferula { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86e;&nbsp;'); }
@@ -601,3 +600,4 @@
 .adi-merge { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea57;&nbsp;'); }
 .adi-head { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea58;&nbsp;'); }
 .adi-timer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea59;&nbsp;'); }
+.adi-familia { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5a;&nbsp;'); }
