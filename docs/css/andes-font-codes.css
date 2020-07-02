@@ -106,6 +106,7 @@
 .adi-estudiante:before { content: '\e868'; } /* '' */
 .adi-etiqueta:before { content: '\e869'; } /* '' */
 .adi-oxigeno:before { content: '\e86a'; } /* '' */
+.adi-cloud-off-outline:before { content: '\e86b'; } /* '' */
 .adi-farmacia:before { content: '\e86c'; } /* '' */
 .adi-femenino:before { content: '\e86d'; } /* '' */
 .adi-ferula:before { content: '\e86e'; } /* '' */
@@ -601,3 +602,4 @@
 .adi-head:before { content: '\ea58'; } /* '' */
 .adi-timer:before { content: '\ea59'; } /* '' */
 .adi-familia:before { content: '\ea5a'; } /* '' */
+.adi-cloud-check-outline:before { content: '\ea5b'; } /* '' */

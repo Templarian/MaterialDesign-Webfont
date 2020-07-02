@@ -1823,6 +1823,12 @@
 .adi-familia:before {
   content: "\ea5a"; }
 
+.adi-cloud-off-outline:before {
+  content: "\e86b"; }
+
+.adi-cloud-check-outline:before {
+  content: "\ea5b"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
