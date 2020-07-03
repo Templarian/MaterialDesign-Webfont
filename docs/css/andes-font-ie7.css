@@ -520,7 +520,6 @@
 .adi-grid { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fb;&nbsp;'); }
 .adi-group { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fc;&nbsp;'); }
 .adi-heart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fd;&nbsp;'); }
-.adi-heart-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fe;&nbsp;'); }
 .adi-help { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ff;&nbsp;'); }
 .adi-label { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;&nbsp;'); }
 .adi-lan { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea01;&nbsp;'); }
@@ -614,3 +613,18 @@
 .adi-timer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea59;&nbsp;'); }
 .adi-familia { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5a;&nbsp;'); }
 .adi-cloud-check-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5b;&nbsp;'); }
+.adi-selection { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5c;&nbsp;'); }
+.adi-view-day { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5d;&nbsp;'); }
+.adi-numeric { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5e;&nbsp;'); }
+.adi-decimal { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5f;&nbsp;'); }
+.adi-account-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea60;&nbsp;'); }
+.adi-dots-horizontal { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea61;&nbsp;'); }
+.adi-page-layout-header { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea62;&nbsp;'); }
+.adi-view-grid { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea63;&nbsp;'); }
+.adi-view-quilt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea64;&nbsp;'); }
+.adi-auto-fix { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea65;&nbsp;'); }
+.adi-form-textbox { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea66;&nbsp;'); }
+.adi-format-list-bulleted { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea67;&nbsp;'); }
+.adi-clipboard-plus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea68;&nbsp;'); }
+.adi-reply { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea69;&nbsp;'); }
+.adi-hospital-building { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6a;&nbsp;'); }

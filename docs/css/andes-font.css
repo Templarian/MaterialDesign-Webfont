@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?27072334');
-  src: url('../font/andes-font.eot?27072334#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?27072334') format('woff2'),
-       url('../font/andes-font.woff?27072334') format('woff'),
-       url('../font/andes-font.ttf?27072334') format('truetype'),
-       url('../font/andes-font.svg?27072334#andes-font') format('svg');
+  src: url('../font/andes-font.eot?44061213');
+  src: url('../font/andes-font.eot?44061213#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?44061213') format('woff2'),
+       url('../font/andes-font.woff?44061213') format('woff'),
+       url('../font/andes-font.ttf?44061213') format('truetype'),
+       url('../font/andes-font.svg?44061213#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?27072334#andes-font') format('svg');
+    src: url('../font/andes-font.svg?44061213#andes-font') format('svg');
   }
 }
 */
@@ -565,7 +565,6 @@
 .adi-grid:before { content: '\e9fb'; } /* '' */
 .adi-group:before { content: '\e9fc'; } /* '' */
 .adi-heart:before { content: '\e9fd'; } /* '' */
-.adi-heart-1:before { content: '\e9fe'; } /* '' */
 .adi-help:before { content: '\e9ff'; } /* '' */
 .adi-label:before { content: '\ea00'; } /* '' */
 .adi-lan:before { content: '\ea01'; } /* '' */
@@ -659,3 +658,18 @@
 .adi-timer:before { content: '\ea59'; } /* '' */
 .adi-familia:before { content: '\ea5a'; } /* '' */
 .adi-cloud-check-outline:before { content: '\ea5b'; } /* '' */
+.adi-selection:before { content: '\ea5c'; } /* '' */
+.adi-view-day:before { content: '\ea5d'; } /* '' */
+.adi-numeric:before { content: '\ea5e'; } /* '' */
+.adi-decimal:before { content: '\ea5f'; } /* '' */
+.adi-account-circle:before { content: '\ea60'; } /* '' */
+.adi-dots-horizontal:before { content: '\ea61'; } /* '' */
+.adi-page-layout-header:before { content: '\ea62'; } /* '' */
+.adi-view-grid:before { content: '\ea63'; } /* '' */
+.adi-view-quilt:before { content: '\ea64'; } /* '' */
+.adi-auto-fix:before { content: '\ea65'; } /* '' */
+.adi-form-textbox:before { content: '\ea66'; } /* '' */
+.adi-format-list-bulleted:before { content: '\ea67'; } /* '' */
+.adi-clipboard-plus:before { content: '\ea68'; } /* '' */
+.adi-reply:before { content: '\ea69'; } /* '' */
+.adi-hospital-building:before { content: '\ea6a'; } /* '' */

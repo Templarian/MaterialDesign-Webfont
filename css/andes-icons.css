@@ -1544,9 +1544,6 @@
 .adi-heart:before {
   content: "\e9fd"; }
 
-.adi-heart-1:before {
-  content: "\e9fe"; }
-
 .adi-help:before {
   content: "\e9ff"; }
 
@@ -1828,6 +1825,51 @@
 
 .adi-cloud-check-outline:before {
   content: "\ea5b"; }
+
+.adi-selection:before {
+  content: "\ea5c"; }
+
+.adi-view-day:before {
+  content: "\ea5d"; }
+
+.adi-numeric:before {
+  content: "\ea5e"; }
+
+.adi-decimal:before {
+  content: "\ea5f"; }
+
+.adi-account-circle:before {
+  content: "\ea60"; }
+
+.adi-dots-horizontal:before {
+  content: "\ea61"; }
+
+.adi-page-layout-header:before {
+  content: "\ea62"; }
+
+.adi-view-grid:before {
+  content: "\ea63"; }
+
+.adi-view-quilt:before {
+  content: "\ea64"; }
+
+.adi-auto-fix:before {
+  content: "\ea65"; }
+
+.adi-form-textbox:before {
+  content: "\ea66"; }
+
+.adi-format-list-bulleted:before {
+  content: "\ea67"; }
+
+.adi-clipboard-plus:before {
+  content: "\ea68"; }
+
+.adi-reply:before {
+  content: "\ea69"; }
+
+.adi-hospital-building:before {
+  content: "\ea6a"; }
 
 .adi-blank:before {
   content: "\F68C";
