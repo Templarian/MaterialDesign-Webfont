@@ -1,7 +1,7 @@
 {
   "name": "@andes/icons",
   "version": "1.0.0",
-  "description": "Andes WebFont Icons for any helth application",
+  "description": "Andes WebFont Icons, aimed for health applications",
   "style": "css/andes-icons.css",
   "scripts": {
     "build": "npm run fontello:install && node setup.js && npm run build:css && npm run doc",
@@ -9,6 +9,7 @@
     "css": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.css",
     "css-min": "node-sass --source-map true --include-path scss scss/andes-icons.scss css/andes-icons.min.css --output-style compressed",
     "fontello:server": "docker run --rm --name andes_fontello -d -p 3000:3000 avnerner/fontello_server",
+    "fontello:stop": "docker stop andes_fontello",
     "wait-for": "wait-on http://localhost:3000",
     "fontello:open": "fontello-cli --config config.json --host http://localhost:3000 open",
     "fontello:install": "fontello-cli --config config.json install --css ./css --font ./fonts",
@@ -43,6 +44,7 @@
   },
   "homepage": "https://www.andes.gob.ar",
   "devDependencies": {
+    "@mdi/font": "^5.3.45",
     "node-sass": "^4.9.0"
   },
   "dependencies": {
