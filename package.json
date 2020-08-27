@@ -14,7 +14,9 @@
     "fontello:open": "fontello-cli --config config.json --host http://localhost:3000 open",
     "fontello:install": "fontello-cli --config config.json install --css ./css --font ./fonts",
     "server": "npm run fontello:server && npm run wait-for && npm run fontello:open",
-    "doc": "fontello-cli --config config.json install && node doc.js"
+    "doc": "fontello-cli --config config.json install && node doc.js",
+    "publish-please": "publish-please",
+    "prepublishOnly": "publish-please guard"
   },
   "repository": {
     "type": "git",
