@@ -8657,6 +8657,20 @@
       "search": [
         "hospital-building"
       ]
+    },
+    {
+      "uid": "c9653ea7c5e099f86f127caa20a6981d",
+      "css": "menos",
+      "code": 59902,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M926.1 570H73.7C35 570 3.7 538.7 3.7 500 3.7 461.3 35 430 73.7 430H926.1C964.8 430 996.1 461.3 996.1 500 996.1 538.7 964.7 570 926.1 570Z",
+        "width": 1000
+      },
+      "search": [
+        "menos"
+      ]
     }
   ]
 }

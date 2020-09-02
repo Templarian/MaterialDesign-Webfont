@@ -1871,6 +1871,9 @@
 .adi-hospital-building:before {
   content: "\ea6a"; }
 
+.adi-menos:before {
+  content: "\e9fe"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }

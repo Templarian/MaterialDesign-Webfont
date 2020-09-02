@@ -520,6 +520,7 @@
 .adi-grid { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fb;&nbsp;'); }
 .adi-group { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fc;&nbsp;'); }
 .adi-heart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fd;&nbsp;'); }
+.adi-menos { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fe;&nbsp;'); }
 .adi-help { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ff;&nbsp;'); }
 .adi-label { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;&nbsp;'); }
 .adi-lan { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea01;&nbsp;'); }

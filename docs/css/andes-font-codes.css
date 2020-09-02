@@ -509,6 +509,7 @@
 .adi-grid:before { content: '\e9fb'; } /* '' */
 .adi-group:before { content: '\e9fc'; } /* '' */
 .adi-heart:before { content: '\e9fd'; } /* '' */
+.adi-menos:before { content: '\e9fe'; } /* '' */
 .adi-help:before { content: '\e9ff'; } /* '' */
 .adi-label:before { content: '\ea00'; } /* '' */
 .adi-lan:before { content: '\ea01'; } /* '' */
