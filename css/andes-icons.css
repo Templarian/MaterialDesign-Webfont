@@ -1874,6 +1874,9 @@
 .adi-menos:before {
   content: "\e9fe"; }
 
+.adi-fullscreen:before {
+  content: "\ea6b"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
