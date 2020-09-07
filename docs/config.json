@@ -8671,6 +8671,20 @@
       "search": [
         "menos"
       ]
+    },
+    {
+      "uid": "afafed9cc533465c10ee8d22bcb42eb2",
+      "css": "fullscreen",
+      "code": 60011,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M208.3 208.3H416.7V291.7H291.7V416.7H208.3V208.3M583.3 208.3H791.7V416.7H708.3V291.7H583.3V208.3M708.3 583.3H791.7V791.7H583.3V708.3H708.3V583.3M416.7 708.3V791.7H208.3V583.3H291.7V708.3H416.7Z",
+        "width": 1000
+      },
+      "search": [
+        "fullscreen"
+      ]
     }
   ]
 }
