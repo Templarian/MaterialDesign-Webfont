@@ -619,3 +619,5 @@
 .adi-reply:before { content: '\ea69'; } /* '' */
 .adi-hospital-building:before { content: '\ea6a'; } /* '' */
 .adi-fullscreen:before { content: '\ea6b'; } /* '' */
+.adi-star-off-outline:before { content: '\ea6c'; } /* '' */
+.adi-star-off:before { content: '\ea6d'; } /* '' */
