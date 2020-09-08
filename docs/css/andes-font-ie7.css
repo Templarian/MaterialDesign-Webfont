@@ -630,3 +630,5 @@
 .adi-reply { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea69;&nbsp;'); }
 .adi-hospital-building { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6a;&nbsp;'); }
 .adi-fullscreen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6b;&nbsp;'); }
+.adi-star-off-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6c;&nbsp;'); }
+.adi-star-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6d;&nbsp;'); }
