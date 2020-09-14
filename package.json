@@ -20,7 +20,7 @@
     "name": "Austin Andrews",
     "web": "http://twitter.com/templarian"
   },
-  "license": "(OFL-1.1 AND MIT)",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Templarian/MaterialDesign/issues"
   },
