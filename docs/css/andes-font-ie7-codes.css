@@ -621,3 +621,4 @@
 .adi-fullscreen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6b;&nbsp;'); }
 .adi-star-off-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6c;&nbsp;'); }
 .adi-star-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6d;&nbsp;'); }
+.adi-database-search { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6e;&nbsp;'); }
