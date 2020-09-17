@@ -1883,6 +1883,9 @@
 .adi-star-off:before {
   content: "\ea6d"; }
 
+.adi-database-search:before {
+  content: "\ea6e"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
