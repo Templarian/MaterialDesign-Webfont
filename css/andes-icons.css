@@ -377,9 +377,6 @@
 .adi-hallazgo:before {
   content: "\e879"; }
 
-.adi-historial:before {
-  content: "\e87a"; }
-
 .adi-hombre-caminando:before {
   content: "\e87b"; }
 
@@ -841,9 +838,6 @@
 
 .adi-checkbox-blank-circle-outline-1:before {
   content: "\e913"; }
-
-.adi-chevron-up:before {
-  content: "\e914"; }
 
 .adi-city:before {
   content: "\e915"; }
@@ -1463,11 +1457,8 @@
 .adi-checkbox-marked:before {
   content: "\e9e2"; }
 
-.adi-chevron-double-left:before {
-  content: "\e9e3"; }
-
-.adi-chevron-double-right:before {
-  content: "\e9e4"; }
+.adi-chevron-up:before {
+  content: "\e914"; }
 
 .adi-chevron-down:before {
   content: "\e9e5"; }
@@ -1477,6 +1468,18 @@
 
 .adi-chevron-right:before {
   content: "\e9e7"; }
+
+.adi-chevron-double-up:before {
+  content: "\ea70"; }
+
+.adi-chevron-double-down:before {
+  content: "\ea71"; }
+
+.adi-chevron-double-left:before {
+  content: "\e9e3"; }
+
+.adi-chevron-double-right:before {
+  content: "\e9e4"; }
 
 .adi-compare:before {
   content: "\e9e8"; }
@@ -1885,6 +1888,9 @@
 
 .adi-database-search:before {
   content: "\ea6e"; }
+
+.adi-historial:before {
+  content: "\e87a"; }
 
 .adi-blank:before {
   content: "\F68C";

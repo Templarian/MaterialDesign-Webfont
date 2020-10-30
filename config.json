@@ -1687,20 +1687,6 @@
       ]
     },
     {
-      "uid": "5c6be1cb639830e6b278ffc8be032335",
-      "css": "historial",
-      "code": 59514,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M6 500A496 496 0 0 0 500 996 500 500 0 0 0 996 500 496 496 0 0 0 500 6 476 476 0 0 0 222 92L146 16 84 250 318 188 266 136A422 422 0 0 1 500 66 434 434 0 1 1 66 500Z",
-        "width": 1000
-      },
-      "search": [
-        "historial"
-      ]
-    },
-    {
       "uid": "435d95f8bcbd49f0d148e0bf36238c2c",
       "css": "hombre-caminando",
       "code": 59515,
@@ -3854,20 +3840,6 @@
       },
       "search": [
         "checkbox-blank-circle-outline"
-      ]
-    },
-    {
-      "uid": "dfe424d227b62778a70e7e6da440aecb",
-      "css": "chevron-up",
-      "code": 59668,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M308.6 642.6L500 451.2 691.4 642.6 750 584 500 334 250 584Z",
-        "width": 1000
-      },
-      "search": [
-        "chevron-up"
       ]
     },
     {
@@ -6755,31 +6727,17 @@
       ]
     },
     {
-      "uid": "9e33592c08092044a3ddd161e07b2fe7",
-      "css": "chevron-double-left",
-      "code": 59875,
+      "uid": "dfe424d227b62778a70e7e6da440aecb",
+      "css": "chevron-up",
+      "code": 59668,
       "src": "custom_icons",
       "selected": true,
       "svg": {
-        "path": "M767.6 308.6L709 250 459 500 709 750 767.6 691.4 576.2 500ZM517.6 308.6L459 250 209 500 459 750 517.6 691.4 326.2 500Z",
+        "path": "M308.6 642.6L500 451.2 691.4 642.6 750 584 500 334 250 584Z",
         "width": 1000
       },
       "search": [
-        "chevron-double-left"
-      ]
-    },
-    {
-      "uid": "40d515a1c0a45fb776bd5ae53084803b",
-      "css": "chevron-double-right",
-      "code": 59876,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M232.4 308.6L291 250 541 500 291 750 232.4 691.4 423.8 500ZM482.4 308.6L541 250 791 500 541 750 482.4 691.4 673.8 500Z",
-        "width": 1000
-      },
-      "search": [
-        "chevron-double-right"
+        "chevron-up"
       ]
     },
     {
@@ -6822,6 +6780,62 @@
       },
       "search": [
         "chevron-right"
+      ]
+    },
+    {
+      "uid": "23dce6e9e3810690efb4fc8ad45b7f19",
+      "css": "chevron-double-up",
+      "code": 60016,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M308.8 767.1L250 708.3 500 458.3 750 708.3 691.3 767.1 500 576.3 308.8 767.1M308.8 517.1L250 458.3 500 208.3 750 458.3 691.3 517.1 500 326.3 308.8 517.1Z",
+        "width": 1000
+      },
+      "search": [
+        "chevron-double-up"
+      ]
+    },
+    {
+      "uid": "0be582dc1dc4772846f8ae64fc8edf0c",
+      "css": "chevron-double-down",
+      "code": 60017,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M691.3 232.9L750 291.7 500 541.7 250 291.7 308.8 232.9 500 423.8 691.3 232.9M691.3 482.9L750 541.7 500 791.7 250 541.7 308.8 482.9 500 673.8 691.3 482.9Z",
+        "width": 1000
+      },
+      "search": [
+        "chevron-double-down"
+      ]
+    },
+    {
+      "uid": "9e33592c08092044a3ddd161e07b2fe7",
+      "css": "chevron-double-left",
+      "code": 59875,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M767.6 308.6L709 250 459 500 709 750 767.6 691.4 576.2 500ZM517.6 308.6L459 250 209 500 459 750 517.6 691.4 326.2 500Z",
+        "width": 1000
+      },
+      "search": [
+        "chevron-double-left"
+      ]
+    },
+    {
+      "uid": "40d515a1c0a45fb776bd5ae53084803b",
+      "css": "chevron-double-right",
+      "code": 59876,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M232.4 308.6L291 250 541 500 291 750 232.4 691.4 423.8 500ZM482.4 308.6L541 250 791 500 541 750 482.4 691.4 673.8 500Z",
+        "width": 1000
+      },
+      "search": [
+        "chevron-double-right"
       ]
     },
     {
@@ -8726,6 +8740,20 @@
       },
       "search": [
         "database-search"
+      ]
+    },
+    {
+      "uid": "f924e8699c5c1aa067701295765191d8",
+      "css": "historial",
+      "code": 59514,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M57.2 499.9C57.2 743.9 255.9 942.6 500 942.6 744 942.6 942.8 743.9 942.8 499.9 942.8 255.7 744 57.2 500 57.2 414.7 57.2 331.9 82.2 260.8 127.7L315.1 182.2 75.4 244.6 137.9 5.1 215.5 82.8C299 25.8 398.2-5.2 500-5.2 778.3-5.2 1005.2 221.4 1005.2 499.9S778.3 1005.2 500 1005.2C221.4 1005.2-5.2 778.4-5.2 499.9H57.2ZM681.5 444.3H550.3V318H444.3V444.3H318.1V555.3H444.3V681.6H550.3V555.3H681.5V444.3Z",
+        "width": 1000
+      },
+      "search": [
+        "historial"
       ]
     }
   ]
