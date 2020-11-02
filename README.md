@@ -25,12 +25,12 @@ $adi-font-path: '~@andes/icons/fonts/';
 
 2. `npm run server`: Start fontello server and open a web page with font config loaded.
 
-3. add icon and other staff.
+3. add icons, change settings, etc.
 
 4. Donwload config.json and replace it.
 
 5. `npm run build`
 
-6. commit new version.
+6. commit changes.
 
 7. npm publish.
