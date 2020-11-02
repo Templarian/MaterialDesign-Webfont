@@ -1892,6 +1892,9 @@
 .adi-historial:before {
   content: "\e87a"; }
 
+.adi-lupa-mano-corazon:before {
+  content: "\ea6f"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }
