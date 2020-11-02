@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?10630433');
-  src: url('../font/andes-font.eot?10630433#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?10630433') format('woff2'),
-       url('../font/andes-font.woff?10630433') format('woff'),
-       url('../font/andes-font.ttf?10630433') format('truetype'),
-       url('../font/andes-font.svg?10630433#andes-font') format('svg');
+  src: url('../font/andes-font.eot?68654068');
+  src: url('../font/andes-font.eot?68654068#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?68654068') format('woff2'),
+       url('../font/andes-font.woff?68654068') format('woff'),
+       url('../font/andes-font.ttf?68654068') format('truetype'),
+       url('../font/andes-font.svg?68654068#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?10630433#andes-font') format('svg');
+    src: url('../font/andes-font.svg?68654068#andes-font') format('svg');
   }
 }
 */

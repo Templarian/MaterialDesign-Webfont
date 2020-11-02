@@ -1,6 +1,6 @@
 {
   "name": "@andes/icons",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "Andes WebFont Icons, aimed for health applications",
   "style": "css/andes-icons.css",
   "scripts": {
@@ -12,7 +12,7 @@
     "fontello:stop": "docker stop andes_fontello",
     "wait-for": "wait-on http://localhost:3000",
     "fontello:open": "fontello-cli --config config.json --host http://localhost:3000 open",
-    "fontello:install": "fontello-cli --config config.json install --css ./css --font ./fonts",
+    "fontello:install": "fontello-cli --config config.json --host http://localhost:3000 install --css ./css --font ./fonts",
     "server": "npm run fontello:server && npm run wait-for && npm run fontello:open",
     "doc": "fontello-cli --host http://localhost:3000 --config config.json install && node doc.js"
   },
