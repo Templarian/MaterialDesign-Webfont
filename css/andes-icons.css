@@ -830,14 +830,8 @@
 .adi-checkbox-blank-circle:before {
   content: "\e910"; }
 
-.adi-checkbox-blank-circle-1:before {
-  content: "\e911"; }
-
 .adi-checkbox-blank-circle-outline:before {
   content: "\e912"; }
-
-.adi-checkbox-blank-circle-outline-1:before {
-  content: "\e913"; }
 
 .adi-city:before {
   content: "\e915"; }
@@ -871,12 +865,6 @@
 
 .adi-comment-outline:before {
   content: "\e91f"; }
-
-.adi-dice-2:before {
-  content: "\e920"; }
-
-.adi-dice-3:before {
-  content: "\e921"; }
 
 .adi-dice-4:before {
   content: "\e922"; }
@@ -1021,9 +1009,6 @@
 
 .adi-open-in-app:before {
   content: "\e951"; }
-
-.adi-opera:before {
-  content: "\e952"; }
 
 .adi-package:before {
   content: "\e953"; }
@@ -1886,14 +1871,29 @@
 .adi-star-off:before {
   content: "\ea6d"; }
 
-.adi-database-search:before {
-  content: "\ea6e"; }
-
 .adi-historial:before {
   content: "\e87a"; }
 
-.adi-lupa-mano-corazon:before {
-  content: "\ea6f"; }
+.adi-database-search:before {
+  content: "\ea6e"; }
+
+.adi-dice-3:before {
+  content: "\e921"; }
+
+.adi-dice-2:before {
+  content: "\e920"; }
+
+.adi-exportar-corazon:before {
+  content: "\ea72"; }
+
+.adi-checkbox-blank-circle-1:before {
+  content: "\e911"; }
+
+.adi-checkbox-blank-circle-outline-1:before {
+  content: "\e913"; }
+
+.adi-opera:before {
+  content: "\e952"; }
 
 .adi-blank:before {
   content: "\F68C";

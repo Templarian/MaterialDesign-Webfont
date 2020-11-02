@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?68654068');
-  src: url('../font/andes-font.eot?68654068#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?68654068') format('woff2'),
-       url('../font/andes-font.woff?68654068') format('woff'),
-       url('../font/andes-font.ttf?68654068') format('truetype'),
-       url('../font/andes-font.svg?68654068#andes-font') format('svg');
+  src: url('../font/andes-font.eot?41658401');
+  src: url('../font/andes-font.eot?41658401#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?41658401') format('woff2'),
+       url('../font/andes-font.woff?41658401') format('woff'),
+       url('../font/andes-font.ttf?41658401') format('truetype'),
+       url('../font/andes-font.svg?41658401#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?68654068#andes-font') format('svg');
+    src: url('../font/andes-font.svg?41658401#andes-font') format('svg');
   }
 }
 */
@@ -328,9 +328,7 @@
 .adi-check:before { content: '\e90e'; } /* '' */
 .adi-checkbox-blank:before { content: '\e90f'; } /* '' */
 .adi-checkbox-blank-circle:before { content: '\e910'; } /* '' */
-.adi-checkbox-blank-circle-1:before { content: '\e911'; } /* '' */
 .adi-checkbox-blank-circle-outline:before { content: '\e912'; } /* '' */
-.adi-checkbox-blank-circle-outline-1:before { content: '\e913'; } /* '' */
 .adi-chevron-up:before { content: '\e914'; } /* '' */
 .adi-city:before { content: '\e915'; } /* '' */
 .adi-clipboard:before { content: '\e916'; } /* '' */
@@ -393,7 +391,6 @@
 .adi-message-alert:before { content: '\e94f'; } /* '' */
 .adi-numeric-2-box-multiple-outline:before { content: '\e950'; } /* '' */
 .adi-open-in-app:before { content: '\e951'; } /* '' */
-.adi-opera:before { content: '\e952'; } /* '' */
 .adi-package:before { content: '\e953'; } /* '' */
 .adi-panda:before { content: '\e954'; } /* '' */
 .adi-pause:before { content: '\e955'; } /* '' */
@@ -678,6 +675,6 @@
 .adi-star-off-outline:before { content: '\ea6c'; } /* '' */
 .adi-star-off:before { content: '\ea6d'; } /* '' */
 .adi-database-search:before { content: '\ea6e'; } /* '' */
-.adi-lupa-mano-corazon:before { content: '\ea6f'; } /* '' */
 .adi-chevron-double-up:before { content: '\ea70'; } /* '' */
 .adi-chevron-double-down:before { content: '\ea71'; } /* '' */
+.adi-exportar-corazon:before { content: '\ea72'; } /* '' */

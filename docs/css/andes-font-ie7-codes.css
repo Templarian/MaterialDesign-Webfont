@@ -272,9 +272,7 @@
 .adi-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;&nbsp;'); }
 .adi-checkbox-blank { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;&nbsp;'); }
 .adi-checkbox-blank-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe910;&nbsp;'); }
-.adi-checkbox-blank-circle-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;&nbsp;'); }
 .adi-checkbox-blank-circle-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
-.adi-checkbox-blank-circle-outline-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;&nbsp;'); }
 .adi-chevron-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;&nbsp;'); }
 .adi-city { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;&nbsp;'); }
 .adi-clipboard { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;&nbsp;'); }
@@ -337,7 +335,6 @@
 .adi-message-alert { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94f;&nbsp;'); }
 .adi-numeric-2-box-multiple-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe950;&nbsp;'); }
 .adi-open-in-app { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;&nbsp;'); }
-.adi-opera { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;&nbsp;'); }
 .adi-package { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;&nbsp;'); }
 .adi-panda { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;&nbsp;'); }
 .adi-pause { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe955;&nbsp;'); }
@@ -622,6 +619,6 @@
 .adi-star-off-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6c;&nbsp;'); }
 .adi-star-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6d;&nbsp;'); }
 .adi-database-search { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6e;&nbsp;'); }
-.adi-lupa-mano-corazon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6f;&nbsp;'); }
 .adi-chevron-double-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea70;&nbsp;'); }
 .adi-chevron-double-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea71;&nbsp;'); }
+.adi-exportar-corazon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea72;&nbsp;'); }
