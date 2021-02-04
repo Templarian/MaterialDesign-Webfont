@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
 <defs>
 <font id="andes-font" horiz-adv-x="1000" >
 <font-face font-family="andes-font" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -551,6 +551,8 @@
 <glyph glyph-name="checkbox-blank" unicode="&#xe90f;" d="M791 725h-582q-35 0-60-24t-24-60v-582q0-35 24-60t60-24h582q35 0 60 24t24 60v582q0 35-24 60t-60 24z" horiz-adv-x="1000" />
 
 <glyph glyph-name="checkbox-blank-circle" unicode="&#xe910;" d="M500 766q-82 0-159-31t-136-90-90-136-31-159 31-159 90-136 136-90 159-31 159 31 136 90 90 136 31 159-31 159-90 136-136 90-159 31z" horiz-adv-x="1000" />
+
+<glyph glyph-name="avion" unicode="&#xe911;" d="M976 150v100l-400 250v274c0 42-34 76-76 76s-76-34-76-76v-276l-398-248v-100l400 126v-276l-100-76v-74l176 50 176-50v76l-100 76v272l398-124z" horiz-adv-x="1000" />
 
 <glyph glyph-name="checkbox-blank-circle-outline" unicode="&#xe912;" d="M500 16q-90 0-167 45t-122 122-45 167 45 167 122 122 167 45 167-45 122-122 45-167-45-167-122-122-167-45z m0 750q-82 0-159-31t-136-90-90-136-31-159 31-159 90-136 136-90 159-31 159 31 136 90 90 136 31 159-31 159-90 136-136 90-159 31z" horiz-adv-x="1000" />
 
