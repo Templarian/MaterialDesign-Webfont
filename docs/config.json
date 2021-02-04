@@ -8729,6 +8729,20 @@
       ]
     },
     {
+      "uid": "2c6be35abdde8eccb39a21b490d1067d",
+      "css": "avion",
+      "code": 59665,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M976 700V600L576 350V76C576 34 542 0 500 0S424 34 424 76V352L26 600V700L426 574V850L326 926V1000L502 950 678 1000V924L578 848V576L976 700Z",
+        "width": 1000
+      },
+      "search": [
+        "avion"
+      ]
+    },
+    {
       "uid": "a9e6d79d4b2242b15d4331f108a94768",
       "css": "checkbox-blank-circle-1",
       "code": 59665,

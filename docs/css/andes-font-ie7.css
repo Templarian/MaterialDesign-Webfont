@@ -283,6 +283,7 @@
 .adi-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;&nbsp;'); }
 .adi-checkbox-blank { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;&nbsp;'); }
 .adi-checkbox-blank-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe910;&nbsp;'); }
+.adi-avion { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;&nbsp;'); }
 .adi-checkbox-blank-circle-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
 .adi-chevron-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;&nbsp;'); }
 .adi-city { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;&nbsp;'); }

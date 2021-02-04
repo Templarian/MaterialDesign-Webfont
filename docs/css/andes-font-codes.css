@@ -272,6 +272,7 @@
 .adi-check:before { content: '\e90e'; } /* '' */
 .adi-checkbox-blank:before { content: '\e90f'; } /* '' */
 .adi-checkbox-blank-circle:before { content: '\e910'; } /* '' */
+.adi-avion:before { content: '\e911'; } /* '' */
 .adi-checkbox-blank-circle-outline:before { content: '\e912'; } /* '' */
 .adi-chevron-up:before { content: '\e914'; } /* '' */
 .adi-city:before { content: '\e915'; } /* '' */
