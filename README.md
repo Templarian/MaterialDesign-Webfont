@@ -31,6 +31,6 @@ $adi-font-path: '~@andes/icons/fonts/';
 
 5. `npm run build`
 
-6. commit changes.
+6. commit and push changes.
 
-7. npm publish.
+7. npm publish (logueado con cuenta autenticada en npm).
