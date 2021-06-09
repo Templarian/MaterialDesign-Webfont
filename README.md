@@ -21,6 +21,8 @@ $adi-font-path: '~@andes/icons/fonts/';
 
 ## Add new icon
 
+0. Design your icon & optimize your art [using this guide](https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images)
+
 1. Install docker
 
 2. `npm run server`: Start fontello server and open a web page with font config loaded.

@@ -1889,14 +1889,14 @@
 .adi-avion:before {
   content: "\e911"; }
 
-.adi-checkbox-blank-circle-1:before {
-  content: "\e911"; }
-
-.adi-checkbox-blank-circle-outline-1:before {
+.adi-mascara-bolsa:before {
   content: "\e913"; }
 
-.adi-opera:before {
+.adi-ventilador-arm:before {
   content: "\e952"; }
+
+.adi-casco:before {
+  content: "\ea6f"; }
 
 .adi-blank:before {
   content: "\F68C";
