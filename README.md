@@ -1,25 +1,25 @@
 # Webfont - Andes Desing Icons
 
-Webfont distribution for the [Andes Design Icons](https://www.andes.gob.ar).
+Webfont de [Andes Design Icons](https://www.andes.gob.ar).
 
 ```
 npm install @andes/icons
 ```
 
-## Usage
+## Uso
 
-Add in style.scss:
+Agregar en style.scss:
 
-```
+```scss
 $adi-font-path: '~@andes/icons/fonts/';
 @import '~@andes/icons/scss/andes-icons';
 ```
 
-```
+```html
 <i class="adi adi-rup-semantic-plan">
 ```
 
-## Add new icon
+## Agregar nuevo ícono
 
 0. Diseñar los íconos [siguiendo esta guía](https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images)
 
