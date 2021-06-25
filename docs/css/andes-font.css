@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?2127540');
-  src: url('../font/andes-font.eot?2127540#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?2127540') format('woff2'),
-       url('../font/andes-font.woff?2127540') format('woff'),
-       url('../font/andes-font.ttf?2127540') format('truetype'),
-       url('../font/andes-font.svg?2127540#andes-font') format('svg');
+  src: url('../font/andes-font.eot?41702309');
+  src: url('../font/andes-font.eot?41702309#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?41702309') format('woff2'),
+       url('../font/andes-font.woff?41702309') format('woff'),
+       url('../font/andes-font.ttf?41702309') format('truetype'),
+       url('../font/andes-font.svg?41702309#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?2127540#andes-font') format('svg');
+    src: url('../font/andes-font.svg?41702309#andes-font') format('svg');
   }
 }
 */
@@ -330,7 +330,6 @@
 .adi-checkbox-blank-circle:before { content: '\e910'; } /* '' */
 .adi-avion:before { content: '\e911'; } /* '' */
 .adi-checkbox-blank-circle-outline:before { content: '\e912'; } /* '' */
-.adi-mascara-bolsa:before { content: '\e913'; } /* '' */
 .adi-chevron-up:before { content: '\e914'; } /* '' */
 .adi-city:before { content: '\e915'; } /* '' */
 .adi-clipboard:before { content: '\e916'; } /* '' */
@@ -393,7 +392,6 @@
 .adi-message-alert:before { content: '\e94f'; } /* '' */
 .adi-numeric-2-box-multiple-outline:before { content: '\e950'; } /* '' */
 .adi-open-in-app:before { content: '\e951'; } /* '' */
-.adi-ventilador-arm:before { content: '\e952'; } /* '' */
 .adi-package:before { content: '\e953'; } /* '' */
 .adi-panda:before { content: '\e954'; } /* '' */
 .adi-pause:before { content: '\e955'; } /* '' */
@@ -682,3 +680,8 @@
 .adi-chevron-double-up:before { content: '\ea70'; } /* '' */
 .adi-chevron-double-down:before { content: '\ea71'; } /* '' */
 .adi-exportar-corazon:before { content: '\ea72'; } /* '' */
+.adi-respirador-cnbf:before { content: '\ea73'; } /* '' */
+.adi-respirador-mr:before { content: '\ea74'; } /* '' */
+.adi-respirador-ambu:before { content: '\ea76'; } /* '' */
+.adi-respirador-arm:before { content: '\ea77'; } /* '' */
+.adi-respirador-cnaf:before { content: '\ea78'; } /* '' */
