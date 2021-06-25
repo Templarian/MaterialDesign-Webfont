@@ -21,18 +21,24 @@ $adi-font-path: '~@andes/icons/fonts/';
 
 ## Add new icon
 
-0. Design your icon & optimize your art [using this guide](https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images)
+0. Diseñar los íconos [siguiendo esta guía](https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images)
 
-1. Install docker
+1. Instalar docker
 
-2. `npm run server`: Start fontello server and open a web page with font config loaded.
+2. `npm run server`: Correr Fontello en el navegador (se abre automáticamente).
 
-3. add icons, change settings, etc.
+3. Agregar íconos, cambiar configuraciones, etc.
 
-4. Donwload config.json and replace it.
+4. Descargar el archivo config.json y reemplazarlo en la raíz de proyecto.
 
-5. `npm run build`
+5. Incrementar la versión `package.json`. Por ejemplo: `"version": "1.1.17"`.
 
-6. commit and push changes.
+6. `git tag [NUEVA VERSION]`: Crear un tag con la versión, tiene que ser la misma que en `package.json`. Por ejemplo: `git tag 1.1.17`
 
-7. npm publish (logueado con cuenta autenticada en npm).
+7. Hacer `commit` y `push` de los cambios.
+
+8. `npm run build`: Regenerar todo el paquete de íconos.
+
+9. `npm login` (usando las credenciales de Andes)
+
+10. `npm publish`
