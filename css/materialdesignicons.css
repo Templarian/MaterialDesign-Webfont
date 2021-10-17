@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=6.2.95");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.2.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.2.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.2.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.2.95") format("truetype");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=6.3.95");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.3.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.3.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.3.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.3.95") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -446,6 +446,14 @@
   content: "\F0CE3";
 }
 
+.mdi-account-tie-hat::before {
+  content: "\F1898";
+}
+
+.mdi-account-tie-hat-outline::before {
+  content: "\F1899";
+}
+
 .mdi-account-tie-outline::before {
   content: "\F10CA";
 }
@@ -472,6 +480,14 @@
 
 .mdi-account-voice-off::before {
   content: "\F0ED4";
+}
+
+.mdi-account-wrench::before {
+  content: "\F189A";
+}
+
+.mdi-account-wrench-outline::before {
+  content: "\F189B";
 }
 
 .mdi-adjust::before {
@@ -2810,6 +2826,14 @@
   content: "\F0076";
 }
 
+.mdi-basket-check::before {
+  content: "\F18E5";
+}
+
+.mdi-basket-check-outline::before {
+  content: "\F18E6";
+}
+
 .mdi-basket-fill::before {
   content: "\F0077";
 }
@@ -3456,6 +3480,10 @@
 
 .mdi-bicycle-basket::before {
   content: "\F1235";
+}
+
+.mdi-bicycle-cargo::before {
+  content: "\F189C";
 }
 
 .mdi-bicycle-electric::before {
@@ -4598,6 +4626,10 @@
   content: "\F16E1";
 }
 
+.mdi-calendar-collapse-horizontal::before {
+  content: "\F189D";
+}
+
 .mdi-calendar-cursor::before {
   content: "\F157B";
 }
@@ -4608,6 +4640,10 @@
 
 .mdi-calendar-end::before {
   content: "\F166C";
+}
+
+.mdi-calendar-expand-horizontal::before {
+  content: "\F189E";
 }
 
 .mdi-calendar-export::before {
@@ -5298,6 +5334,10 @@
   content: "\F08CE";
 }
 
+.mdi-cards-club-outline::before {
+  content: "\F189F";
+}
+
 .mdi-cards-diamond::before {
   content: "\F08CF";
 }
@@ -5310,16 +5350,92 @@
   content: "\F08D0";
 }
 
+.mdi-cards-heart-outline::before {
+  content: "\F18A0";
+}
+
 .mdi-cards-outline::before {
   content: "\F0639";
+}
+
+.mdi-cards-playing::before {
+  content: "\F18A1";
+}
+
+.mdi-cards-playing-club::before {
+  content: "\F18A2";
+}
+
+.mdi-cards-playing-club-multiple::before {
+  content: "\F18A3";
+}
+
+.mdi-cards-playing-club-multiple-outline::before {
+  content: "\F18A4";
+}
+
+.mdi-cards-playing-club-outline::before {
+  content: "\F18A5";
+}
+
+.mdi-cards-playing-diamond::before {
+  content: "\F18A6";
+}
+
+.mdi-cards-playing-diamond-multiple::before {
+  content: "\F18A7";
+}
+
+.mdi-cards-playing-diamond-multiple-outline::before {
+  content: "\F18A8";
+}
+
+.mdi-cards-playing-diamond-outline::before {
+  content: "\F18A9";
+}
+
+.mdi-cards-playing-heart::before {
+  content: "\F18AA";
+}
+
+.mdi-cards-playing-heart-multiple::before {
+  content: "\F18AB";
+}
+
+.mdi-cards-playing-heart-multiple-outline::before {
+  content: "\F18AC";
+}
+
+.mdi-cards-playing-heart-outline::before {
+  content: "\F18AD";
 }
 
 .mdi-cards-playing-outline::before {
   content: "\F063A";
 }
 
+.mdi-cards-playing-spade::before {
+  content: "\F18AE";
+}
+
+.mdi-cards-playing-spade-multiple::before {
+  content: "\F18AF";
+}
+
+.mdi-cards-playing-spade-multiple-outline::before {
+  content: "\F18B0";
+}
+
+.mdi-cards-playing-spade-outline::before {
+  content: "\F18B1";
+}
+
 .mdi-cards-spade::before {
   content: "\F08D1";
+}
+
+.mdi-cards-spade-outline::before {
+  content: "\F18B2";
 }
 
 .mdi-cards-variant::before {
@@ -5348,6 +5464,10 @@
 
 .mdi-cart-check::before {
   content: "\F15EA";
+}
+
+.mdi-cart-heart::before {
+  content: "\F18E0";
 }
 
 .mdi-cart-minus::before {
@@ -5488,6 +5608,14 @@
 
 .mdi-ceiling-light::before {
   content: "\F0769";
+}
+
+.mdi-ceiling-light-multiple::before {
+  content: "\F18DD";
+}
+
+.mdi-ceiling-light-multiple-outline::before {
+  content: "\F18DE";
 }
 
 .mdi-ceiling-light-outline::before {
@@ -6474,6 +6602,14 @@
   content: "\F014D";
 }
 
+.mdi-clipboard-text-clock::before {
+  content: "\F18F9";
+}
+
+.mdi-clipboard-text-clock-outline::before {
+  content: "\F18FA";
+}
+
 .mdi-clipboard-text-multiple::before {
   content: "\F126B";
 }
@@ -7230,6 +7366,10 @@
   content: "\F1492";
 }
 
+.mdi-compare-remove::before {
+  content: "\F18B3";
+}
+
 .mdi-compare-vertical::before {
   content: "\F1493";
 }
@@ -7344,6 +7484,14 @@
 
 .mdi-content-save-all-outline::before {
   content: "\F0F44";
+}
+
+.mdi-content-save-check::before {
+  content: "\F18EA";
+}
+
+.mdi-content-save-check-outline::before {
+  content: "\F18EB";
 }
 
 .mdi-content-save-cog::before {
@@ -7600,6 +7748,14 @@
 
 .mdi-credit-card-edit-outline::before {
   content: "\F17D8";
+}
+
+.mdi-credit-card-lock::before {
+  content: "\F18E7";
+}
+
+.mdi-credit-card-lock-outline::before {
+  content: "\F18E8";
 }
 
 .mdi-credit-card-marker::before {
@@ -8724,6 +8880,10 @@
 
 .mdi-dolly::before {
   content: "\F0E9E";
+}
+
+.mdi-dolphin::before {
+  content: "\F18B4";
 }
 
 .mdi-domain::before {
@@ -10382,6 +10542,14 @@
   content: "\F0232";
 }
 
+.mdi-filter-check::before {
+  content: "\F18EC";
+}
+
+.mdi-filter-check-outline::before {
+  content: "\F18ED";
+}
+
 .mdi-filter-menu::before {
   content: "\F10E5";
 }
@@ -10546,6 +10714,14 @@
   content: "\F0EF6";
 }
 
+.mdi-fit-to-screen::before {
+  content: "\F18F4";
+}
+
+.mdi-fit-to-screen-outline::before {
+  content: "\F18F5";
+}
+
 .mdi-flag::before {
   content: "\F023B";
 }
@@ -10560,6 +10736,14 @@
 
 .mdi-flag-minus-outline::before {
   content: "\F10B2";
+}
+
+.mdi-flag-off::before {
+  content: "\F18EE";
+}
+
+.mdi-flag-off-outline::before {
+  content: "\F18EF";
 }
 
 .mdi-flag-outline::before {
@@ -11634,6 +11818,10 @@
   content: "\F0287";
 }
 
+.mdi-format-underline-wavy::before {
+  content: "\F18E9";
+}
+
 .mdi-format-vertical-align-bottom::before {
   content: "\F0621";
 }
@@ -11812,6 +12000,10 @@
 
 .mdi-fuel::before {
   content: "\F07CA";
+}
+
+.mdi-fuel-cell::before {
+  content: "\F18B5";
 }
 
 .mdi-fullscreen::before {
@@ -12636,6 +12828,14 @@
 
 .mdi-hand-coin-outline::before {
   content: "\F1890";
+}
+
+.mdi-hand-extended::before {
+  content: "\F18B6";
+}
+
+.mdi-hand-extended-outline::before {
+  content: "\F18B7";
 }
 
 .mdi-hand-front-left::before {
@@ -15114,6 +15314,14 @@
   content: "\F034E";
 }
 
+.mdi-map-marker-account::before {
+  content: "\F18E3";
+}
+
+.mdi-map-marker-account-outline::before {
+  content: "\F18E4";
+}
+
 .mdi-map-marker-alert::before {
   content: "\F0F05";
 }
@@ -16540,6 +16748,14 @@
 
 .mdi-navigation-outline::before {
   content: "\F1607";
+}
+
+.mdi-navigation-variant::before {
+  content: "\F18F0";
+}
+
+.mdi-navigation-variant-outline::before {
+  content: "\F18F1";
 }
 
 .mdi-near-me::before {
@@ -18622,6 +18838,14 @@
   content: "\F11C1";
 }
 
+.mdi-printer-3d-nozzle-heat::before {
+  content: "\F18B8";
+}
+
+.mdi-printer-3d-nozzle-heat-outline::before {
+  content: "\F18B9";
+}
+
 .mdi-printer-3d-nozzle-outline::before {
   content: "\F0E5C";
 }
@@ -19112,6 +19336,10 @@
 
 .mdi-refresh::before {
   content: "\F0450";
+}
+
+.mdi-refresh-auto::before {
+  content: "\F18F2";
 }
 
 .mdi-refresh-circle::before {
@@ -20378,12 +20606,20 @@
   content: "\F1514";
 }
 
+.mdi-shark::before {
+  content: "\F18BA";
+}
+
 .mdi-shark-fin::before {
   content: "\F1673";
 }
 
 .mdi-shark-fin-outline::before {
   content: "\F1674";
+}
+
+.mdi-shark-off::before {
+  content: "\F18BB";
 }
 
 .mdi-sheep::before {
@@ -20452,6 +20688,14 @@
 
 .mdi-shield-cross-outline::before {
   content: "\F0CCA";
+}
+
+.mdi-shield-crown::before {
+  content: "\F18BC";
+}
+
+.mdi-shield-crown-outline::before {
+  content: "\F18BD";
 }
 
 .mdi-shield-edit::before {
@@ -20566,6 +20810,14 @@
   content: "\F105E";
 }
 
+.mdi-shield-sword::before {
+  content: "\F18BE";
+}
+
+.mdi-shield-sword-outline::before {
+  content: "\F18BF";
+}
+
 .mdi-shield-sync::before {
   content: "\F11A2";
 }
@@ -20664,6 +20916,10 @@
 
 .mdi-shuriken::before {
   content: "\F137F";
+}
+
+.mdi-sickle::before {
+  content: "\F18C0";
 }
 
 .mdi-sigma::before {
@@ -21040,6 +21296,14 @@
 
 .mdi-smart-card::before {
   content: "\F10BD";
+}
+
+.mdi-smart-card-off::before {
+  content: "\F18F7";
+}
+
+.mdi-smart-card-off-outline::before {
+  content: "\F18F8";
 }
 
 .mdi-smart-card-outline::before {
@@ -21894,8 +22158,68 @@
   content: "\F04DD";
 }
 
+.mdi-store-alert::before {
+  content: "\F18C1";
+}
+
+.mdi-store-alert-outline::before {
+  content: "\F18C2";
+}
+
+.mdi-store-check::before {
+  content: "\F18C3";
+}
+
+.mdi-store-check-outline::before {
+  content: "\F18C4";
+}
+
+.mdi-store-clock::before {
+  content: "\F18C5";
+}
+
+.mdi-store-clock-outline::before {
+  content: "\F18C6";
+}
+
+.mdi-store-cog::before {
+  content: "\F18C7";
+}
+
+.mdi-store-cog-outline::before {
+  content: "\F18C8";
+}
+
+.mdi-store-edit::before {
+  content: "\F18C9";
+}
+
+.mdi-store-edit-outline::before {
+  content: "\F18CA";
+}
+
+.mdi-store-marker::before {
+  content: "\F18CB";
+}
+
+.mdi-store-marker-outline::before {
+  content: "\F18CC";
+}
+
 .mdi-store-minus::before {
   content: "\F165E";
+}
+
+.mdi-store-minus-outline::before {
+  content: "\F18CD";
+}
+
+.mdi-store-off::before {
+  content: "\F18CE";
+}
+
+.mdi-store-off-outline::before {
+  content: "\F18CF";
 }
 
 .mdi-store-outline::before {
@@ -21906,8 +22230,32 @@
   content: "\F165F";
 }
 
+.mdi-store-plus-outline::before {
+  content: "\F18D0";
+}
+
 .mdi-store-remove::before {
   content: "\F1660";
+}
+
+.mdi-store-remove-outline::before {
+  content: "\F18D1";
+}
+
+.mdi-store-search::before {
+  content: "\F18D2";
+}
+
+.mdi-store-search-outline::before {
+  content: "\F18D3";
+}
+
+.mdi-store-settings::before {
+  content: "\F18D4";
+}
+
+.mdi-store-settings-outline::before {
+  content: "\F18D5";
 }
 
 .mdi-storefront::before {
@@ -21980,6 +22328,14 @@
 
 .mdi-sun-snowflake::before {
   content: "\F1796";
+}
+
+.mdi-sun-thermometer::before {
+  content: "\F18D6";
+}
+
+.mdi-sun-thermometer-outline::before {
+  content: "\F18D7";
 }
 
 .mdi-sun-wireless::before {
@@ -22526,6 +22882,10 @@
   content: "\F0500";
 }
 
+.mdi-teddy-bear::before {
+  content: "\F18FB";
+}
+
 .mdi-telescope::before {
   content: "\F0B4E";
 }
@@ -22840,6 +23200,10 @@
 
 .mdi-tilde::before {
   content: "\F0725";
+}
+
+.mdi-tilde-off::before {
+  content: "\F18F3";
 }
 
 .mdi-timelapse::before {
@@ -23434,6 +23798,10 @@
   content: "\F053D";
 }
 
+.mdi-truck-cargo-container::before {
+  content: "\F18D8";
+}
+
 .mdi-truck-check::before {
   content: "\F0CD4";
 }
@@ -23866,8 +24234,24 @@
   content: "\F1857";
 }
 
+.mdi-vector-square-edit::before {
+  content: "\F18D9";
+}
+
+.mdi-vector-square-minus::before {
+  content: "\F18DA";
+}
+
 .mdi-vector-square-open::before {
   content: "\F1858";
+}
+
+.mdi-vector-square-plus::before {
+  content: "\F18DB";
+}
+
+.mdi-vector-square-remove::before {
+  content: "\F18DC";
 }
 
 .mdi-vector-triangle::before {
@@ -24188,6 +24572,14 @@
 
 .mdi-virus::before {
   content: "\F13B6";
+}
+
+.mdi-virus-off::before {
+  content: "\F18E1";
+}
+
+.mdi-virus-off-outline::before {
+  content: "\F18E2";
 }
 
 .mdi-virus-outline::before {
@@ -24568,6 +24960,10 @@
 
 .mdi-weather-cloudy-arrow-right::before {
   content: "\F0E6E";
+}
+
+.mdi-weather-cloudy-clock::before {
+  content: "\F18F6";
 }
 
 .mdi-weather-fog::before {
@@ -25048,6 +25444,10 @@
 
 .mdi-wiper-wash::before {
   content: "\F0DA6";
+}
+
+.mdi-wiper-wash-alert::before {
+  content: "\F18DF";
 }
 
 .mdi-wizard-hat::before {
