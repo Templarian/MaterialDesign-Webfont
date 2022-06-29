@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=6.7.96");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.7.96") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.7.96") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.7.96") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.7.96") format("truetype");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=6.8.96");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.8.96") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.8.96") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.8.96") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.8.96") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -500,6 +500,10 @@
 
 .mdi-account-tie-voice-outline::before {
   content: "\F1309";
+}
+
+.mdi-account-tie-woman::before {
+  content: "\F1A8C";
 }
 
 .mdi-account-voice::before {
@@ -2538,8 +2542,28 @@
   content: "\F0066";
 }
 
+.mdi-attachment-check::before {
+  content: "\F1AC1";
+}
+
 .mdi-attachment-lock::before {
   content: "\F19C4";
+}
+
+.mdi-attachment-minus::before {
+  content: "\F1AC2";
+}
+
+.mdi-attachment-off::before {
+  content: "\F1AC3";
+}
+
+.mdi-attachment-plus::before {
+  content: "\F1AC4";
+}
+
+.mdi-attachment-remove::before {
+  content: "\F1AC5";
 }
 
 .mdi-audio-input-rca::before {
@@ -4406,6 +4430,22 @@
   content: "\F0CF1";
 }
 
+.mdi-briefcase-arrow-left-right::before {
+  content: "\F1A8D";
+}
+
+.mdi-briefcase-arrow-left-right-outline::before {
+  content: "\F1A8E";
+}
+
+.mdi-briefcase-arrow-up-down::before {
+  content: "\F1A8F";
+}
+
+.mdi-briefcase-arrow-up-down-outline::before {
+  content: "\F1A90";
+}
+
 .mdi-briefcase-check::before {
   content: "\F00D7";
 }
@@ -5790,6 +5830,10 @@
   content: "\F14EE";
 }
 
+.mdi-cash-clock::before {
+  content: "\F1A91";
+}
+
 .mdi-cash-fast::before {
   content: "\F185C";
 }
@@ -5828,6 +5872,10 @@
 
 .mdi-cash-remove::before {
   content: "\F1262";
+}
+
+.mdi-cash-sync::before {
+  content: "\F1A92";
 }
 
 .mdi-cassette::before {
@@ -9558,6 +9606,10 @@
   content: "\F07C5";
 }
 
+.mdi-ear-hearing-loop::before {
+  content: "\F1AEE";
+}
+
 .mdi-ear-hearing-off::before {
   content: "\F0A45";
 }
@@ -10530,6 +10582,22 @@
   content: "\F0A4C";
 }
 
+.mdi-file-arrow-left-right::before {
+  content: "\F1A93";
+}
+
+.mdi-file-arrow-left-right-outline::before {
+  content: "\F1A94";
+}
+
+.mdi-file-arrow-up-down::before {
+  content: "\F1A95";
+}
+
+.mdi-file-arrow-up-down-outline::before {
+  content: "\F1A96";
+}
+
 .mdi-file-cabinet::before {
   content: "\F0AB6";
 }
@@ -10630,12 +10698,36 @@
   content: "\F0219";
 }
 
+.mdi-file-document-alert::before {
+  content: "\F1A97";
+}
+
+.mdi-file-document-alert-outline::before {
+  content: "\F1A98";
+}
+
+.mdi-file-document-check::before {
+  content: "\F1A99";
+}
+
+.mdi-file-document-check-outline::before {
+  content: "\F1A9A";
+}
+
 .mdi-file-document-edit::before {
   content: "\F0DC8";
 }
 
 .mdi-file-document-edit-outline::before {
   content: "\F0DC9";
+}
+
+.mdi-file-document-minus::before {
+  content: "\F1A9B";
+}
+
+.mdi-file-document-minus-outline::before {
+  content: "\F1A9C";
 }
 
 .mdi-file-document-multiple::before {
@@ -10648,6 +10740,22 @@
 
 .mdi-file-document-outline::before {
   content: "\F09EE";
+}
+
+.mdi-file-document-plus::before {
+  content: "\F1A9D";
+}
+
+.mdi-file-document-plus-outline::before {
+  content: "\F1A9E";
+}
+
+.mdi-file-document-remove::before {
+  content: "\F1A9F";
+}
+
+.mdi-file-document-remove-outline::before {
+  content: "\F1AA0";
 }
 
 .mdi-file-download::before {
@@ -10804,6 +10912,14 @@
 
 .mdi-file-marker-outline::before {
   content: "\F1775";
+}
+
+.mdi-file-minus::before {
+  content: "\F1AA1";
+}
+
+.mdi-file-minus-outline::before {
+  content: "\F1AA2";
 }
 
 .mdi-file-move::before {
@@ -11098,6 +11214,14 @@
   content: "\F18ED";
 }
 
+.mdi-filter-cog::before {
+  content: "\F1AA3";
+}
+
+.mdi-filter-cog-outline::before {
+  content: "\F1AA4";
+}
+
 .mdi-filter-menu::before {
   content: "\F10E5";
 }
@@ -11148,6 +11272,14 @@
 
 .mdi-filter-remove-outline::before {
   content: "\F0235";
+}
+
+.mdi-filter-settings::before {
+  content: "\F1AA5";
+}
+
+.mdi-filter-settings-outline::before {
+  content: "\F1AA6";
 }
 
 .mdi-filter-variant::before {
@@ -11768,6 +11900,14 @@
 
 .mdi-folder-lock-open::before {
   content: "\F0251";
+}
+
+.mdi-folder-lock-open-outline::before {
+  content: "\F1AA7";
+}
+
+.mdi-folder-lock-outline::before {
+  content: "\F1AA8";
 }
 
 .mdi-folder-marker::before {
@@ -12530,8 +12670,32 @@
   content: "\F028C";
 }
 
+.mdi-forum-minus::before {
+  content: "\F1AA9";
+}
+
+.mdi-forum-minus-outline::before {
+  content: "\F1AAA";
+}
+
 .mdi-forum-outline::before {
   content: "\F0822";
+}
+
+.mdi-forum-plus::before {
+  content: "\F1AAB";
+}
+
+.mdi-forum-plus-outline::before {
+  content: "\F1AAC";
+}
+
+.mdi-forum-remove::before {
+  content: "\F1AAD";
+}
+
+.mdi-forum-remove-outline::before {
+  content: "\F1AAE";
 }
 
 .mdi-forward::before {
@@ -13942,6 +14106,10 @@
   content: "\F1A45";
 }
 
+.mdi-heating-coil::before {
+  content: "\F1AAF";
+}
+
 .mdi-helicopter::before {
   content: "\F0AC2";
 }
@@ -14662,6 +14830,14 @@
   content: "\F0E49";
 }
 
+.mdi-image-lock::before {
+  content: "\F1AB0";
+}
+
+.mdi-image-lock-outline::before {
+  content: "\F1AB1";
+}
+
 .mdi-image-marker::before {
   content: "\F177B";
 }
@@ -15296,6 +15472,30 @@
 
 .mdi-lan-pending::before {
   content: "\F031A";
+}
+
+.mdi-land-fields::before {
+  content: "\F1AB2";
+}
+
+.mdi-land-plots::before {
+  content: "\F1AB3";
+}
+
+.mdi-land-plots-circle::before {
+  content: "\F1AB4";
+}
+
+.mdi-land-plots-circle-variant::before {
+  content: "\F1AB5";
+}
+
+.mdi-land-rows-horizontal::before {
+  content: "\F1AB6";
+}
+
+.mdi-land-rows-vertical::before {
+  content: "\F1AB7";
 }
 
 .mdi-landslide::before {
@@ -16468,6 +16668,10 @@
 
 .mdi-medical-bag::before {
   content: "\F06EF";
+}
+
+.mdi-medical-cotton-swab::before {
+  content: "\F1AB8";
 }
 
 .mdi-meditation::before {
@@ -17774,6 +17978,10 @@
   content: "\F0C9D";
 }
 
+.mdi-network-pos::before {
+  content: "\F1ACB";
+}
+
 .mdi-network-strength-1::before {
   content: "\F08F4";
 }
@@ -18926,8 +19134,28 @@
   content: "\F03E2";
 }
 
+.mdi-paperclip-check::before {
+  content: "\F1AC6";
+}
+
 .mdi-paperclip-lock::before {
   content: "\F19DA";
+}
+
+.mdi-paperclip-minus::before {
+  content: "\F1AC7";
+}
+
+.mdi-paperclip-off::before {
+  content: "\F1AC8";
+}
+
+.mdi-paperclip-plus::before {
+  content: "\F1AC9";
+}
+
+.mdi-paperclip-remove::before {
+  content: "\F1ACA";
 }
 
 .mdi-parachute::before {
@@ -21098,6 +21326,14 @@
   content: "\F0BC0";
 }
 
+.mdi-rolodex::before {
+  content: "\F1AB9";
+}
+
+.mdi-rolodex-outline::before {
+  content: "\F1ABA";
+}
+
 .mdi-roman-numeral-1::before {
   content: "\F1088";
 }
@@ -21284,6 +21520,10 @@
 
 .mdi-sail-boat::before {
   content: "\F0EC8";
+}
+
+.mdi-sail-boat-sink::before {
+  content: "\F1AEF";
 }
 
 .mdi-sale::before {
@@ -22906,6 +23146,10 @@
   content: "\F0CCE";
 }
 
+.mdi-sort-variant-off::before {
+  content: "\F1ABB";
+}
+
 .mdi-sort-variant-remove::before {
   content: "\F1147";
 }
@@ -24238,6 +24482,26 @@
   content: "\F13FF";
 }
 
+.mdi-tally-mark-1::before {
+  content: "\F1ABC";
+}
+
+.mdi-tally-mark-2::before {
+  content: "\F1ABD";
+}
+
+.mdi-tally-mark-3::before {
+  content: "\F1ABE";
+}
+
+.mdi-tally-mark-4::before {
+  content: "\F1ABF";
+}
+
+.mdi-tally-mark-5::before {
+  content: "\F1AC0";
+}
+
 .mdi-tangram::before {
   content: "\F04F8";
 }
@@ -24722,12 +24986,84 @@
   content: "\F051D";
 }
 
+.mdi-timer-alert::before {
+  content: "\F1ACC";
+}
+
+.mdi-timer-alert-outline::before {
+  content: "\F1ACD";
+}
+
+.mdi-timer-cancel::before {
+  content: "\F1ACE";
+}
+
+.mdi-timer-cancel-outline::before {
+  content: "\F1ACF";
+}
+
+.mdi-timer-check::before {
+  content: "\F1AD0";
+}
+
+.mdi-timer-check-outline::before {
+  content: "\F1AD1";
+}
+
 .mdi-timer-cog::before {
   content: "\F1925";
 }
 
 .mdi-timer-cog-outline::before {
   content: "\F1926";
+}
+
+.mdi-timer-edit::before {
+  content: "\F1AD2";
+}
+
+.mdi-timer-edit-outline::before {
+  content: "\F1AD3";
+}
+
+.mdi-timer-lock::before {
+  content: "\F1AD4";
+}
+
+.mdi-timer-lock-open::before {
+  content: "\F1AD5";
+}
+
+.mdi-timer-lock-open-outline::before {
+  content: "\F1AD6";
+}
+
+.mdi-timer-lock-outline::before {
+  content: "\F1AD7";
+}
+
+.mdi-timer-marker::before {
+  content: "\F1AD8";
+}
+
+.mdi-timer-marker-outline::before {
+  content: "\F1AD9";
+}
+
+.mdi-timer-minus::before {
+  content: "\F1ADA";
+}
+
+.mdi-timer-minus-outline::before {
+  content: "\F1ADB";
+}
+
+.mdi-timer-music::before {
+  content: "\F1ADC";
+}
+
+.mdi-timer-music-outline::before {
+  content: "\F1ADD";
 }
 
 .mdi-timer-off::before {
@@ -24740,6 +25076,46 @@
 
 .mdi-timer-outline::before {
   content: "\F051B";
+}
+
+.mdi-timer-pause::before {
+  content: "\F1ADE";
+}
+
+.mdi-timer-pause-outline::before {
+  content: "\F1ADF";
+}
+
+.mdi-timer-play::before {
+  content: "\F1AE0";
+}
+
+.mdi-timer-play-outline::before {
+  content: "\F1AE1";
+}
+
+.mdi-timer-plus::before {
+  content: "\F1AE2";
+}
+
+.mdi-timer-plus-outline::before {
+  content: "\F1AE3";
+}
+
+.mdi-timer-refresh::before {
+  content: "\F1AE4";
+}
+
+.mdi-timer-refresh-outline::before {
+  content: "\F1AE5";
+}
+
+.mdi-timer-remove::before {
+  content: "\F1AE6";
+}
+
+.mdi-timer-remove-outline::before {
+  content: "\F1AE7";
 }
 
 .mdi-timer-sand::before {
@@ -24768,6 +25144,30 @@
 
 .mdi-timer-settings-outline::before {
   content: "\F1924";
+}
+
+.mdi-timer-star::before {
+  content: "\F1AE8";
+}
+
+.mdi-timer-star-outline::before {
+  content: "\F1AE9";
+}
+
+.mdi-timer-stop::before {
+  content: "\F1AEA";
+}
+
+.mdi-timer-stop-outline::before {
+  content: "\F1AEB";
+}
+
+.mdi-timer-sync::before {
+  content: "\F1AEC";
+}
+
+.mdi-timer-sync-outline::before {
+  content: "\F1AED";
 }
 
 .mdi-timetable::before {
