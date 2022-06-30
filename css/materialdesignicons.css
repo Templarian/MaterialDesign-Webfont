@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=6.8.96");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.8.96") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.8.96") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.8.96") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.8.96") format("truetype");
+  src: url("../fonts/materialdesignicons-webfont.eot?v=6.9.96");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.9.96") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.9.96") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.9.96") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.9.96") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -116,6 +116,14 @@
 
 .mdi-account-arrow-up-outline::before {
   content: "\F186A";
+}
+
+.mdi-account-badge::before {
+  content: "\F1B0A";
+}
+
+.mdi-account-badge-outline::before {
+  content: "\F1B0B";
 }
 
 .mdi-account-box::before {
@@ -356,6 +364,14 @@
 
 .mdi-account-network::before {
   content: "\F0011";
+}
+
+.mdi-account-network-off::before {
+  content: "\F1AF1";
+}
+
+.mdi-account-network-off-outline::before {
+  content: "\F1AF2";
 }
 
 .mdi-account-network-outline::before {
@@ -2718,6 +2734,10 @@
   content: "\F13E0";
 }
 
+.mdi-baby-buggy-off::before {
+  content: "\F1AF3";
+}
+
 .mdi-baby-carriage::before {
   content: "\F068F";
 }
@@ -2824,6 +2844,14 @@
 
 .mdi-bag-personal-outline::before {
   content: "\F0E13";
+}
+
+.mdi-bag-personal-tag::before {
+  content: "\F1B0C";
+}
+
+.mdi-bag-personal-tag-outline::before {
+  content: "\F1B0D";
 }
 
 .mdi-bag-suitcase::before {
@@ -4278,6 +4306,10 @@
   content: "\F00CE";
 }
 
+.mdi-border-radius::before {
+  content: "\F1AF4";
+}
+
 .mdi-border-right::before {
   content: "\F00CF";
 }
@@ -4646,6 +4678,30 @@
   content: "\F0A30";
 }
 
+.mdi-bug-pause::before {
+  content: "\F1AF5";
+}
+
+.mdi-bug-pause-outline::before {
+  content: "\F1AF6";
+}
+
+.mdi-bug-play::before {
+  content: "\F1AF7";
+}
+
+.mdi-bug-play-outline::before {
+  content: "\F1AF8";
+}
+
+.mdi-bug-stop::before {
+  content: "\F1AF9";
+}
+
+.mdi-bug-stop-outline::before {
+  content: "\F1AFA";
+}
+
 .mdi-bugle::before {
   content: "\F0DB4";
 }
@@ -4764,6 +4820,14 @@
 
 .mdi-butterfly-outline::before {
   content: "\F158A";
+}
+
+.mdi-button-cursor::before {
+  content: "\F1B4F";
+}
+
+.mdi-button-pointer::before {
+  content: "\F1B50";
 }
 
 .mdi-cabin-a-frame::before {
@@ -4976,6 +5040,10 @@
 
 .mdi-calendar-star::before {
   content: "\F09D3";
+}
+
+.mdi-calendar-star-outline::before {
+  content: "\F1B53";
 }
 
 .mdi-calendar-start::before {
@@ -6362,6 +6430,10 @@
   content: "\F0856";
 }
 
+.mdi-checkbox-intermediate-variant::before {
+  content: "\F1B54";
+}
+
 .mdi-checkbox-marked::before {
   content: "\F0132";
 }
@@ -6636,6 +6708,10 @@
 
 .mdi-church::before {
   content: "\F0144";
+}
+
+.mdi-church-outline::before {
+  content: "\F1B02";
 }
 
 .mdi-cigar::before {
@@ -7914,6 +7990,14 @@
   content: "\F0CFC";
 }
 
+.mdi-content-save-minus::before {
+  content: "\F1B43";
+}
+
+.mdi-content-save-minus-outline::before {
+  content: "\F1B44";
+}
+
 .mdi-content-save-move::before {
   content: "\F0E27";
 }
@@ -7932,6 +8016,14 @@
 
 .mdi-content-save-outline::before {
   content: "\F0818";
+}
+
+.mdi-content-save-plus::before {
+  content: "\F1B41";
+}
+
+.mdi-content-save-plus-outline::before {
+  content: "\F1B42";
 }
 
 .mdi-content-save-settings::before {
@@ -8990,6 +9082,14 @@
   content: "\F095F";
 }
 
+.mdi-desk-lamp-off::before {
+  content: "\F1B1F";
+}
+
+.mdi-desk-lamp-on::before {
+  content: "\F1B20";
+}
+
 .mdi-deskphone::before {
   content: "\F01C3";
 }
@@ -9708,6 +9808,14 @@
 
 .mdi-eject::before {
   content: "\F01EA";
+}
+
+.mdi-eject-circle::before {
+  content: "\F1B23";
+}
+
+.mdi-eject-circle-outline::before {
+  content: "\F1B24";
 }
 
 .mdi-eject-outline::before {
@@ -10510,6 +10618,10 @@
   content: "\F0D06";
 }
 
+.mdi-fast-forward-45::before {
+  content: "\F1B12";
+}
+
 .mdi-fast-forward-5::before {
   content: "\F11F8";
 }
@@ -10520,6 +10632,14 @@
 
 .mdi-fast-forward-outline::before {
   content: "\F06D2";
+}
+
+.mdi-faucet::before {
+  content: "\F1B29";
+}
+
+.mdi-faucet-variant::before {
+  content: "\F1B2A";
 }
 
 .mdi-fax::before {
@@ -11182,6 +11302,10 @@
   content: "\F103E";
 }
 
+.mdi-file-xml-box::before {
+  content: "\F1B4B";
+}
+
 .mdi-film::before {
   content: "\F022F";
 }
@@ -11490,12 +11614,24 @@
   content: "\F0243";
 }
 
+.mdi-flash-off-outline::before {
+  content: "\F1B45";
+}
+
 .mdi-flash-outline::before {
   content: "\F06D5";
 }
 
 .mdi-flash-red-eye::before {
   content: "\F067B";
+}
+
+.mdi-flash-triangle::before {
+  content: "\F1B1D";
+}
+
+.mdi-flash-triangle-outline::before {
+  content: "\F1B1E";
 }
 
 .mdi-flashlight::before {
@@ -11916,6 +12052,14 @@
 
 .mdi-folder-marker-outline::before {
   content: "\F126E";
+}
+
+.mdi-folder-minus::before {
+  content: "\F1B49";
+}
+
+.mdi-folder-minus-outline::before {
+  content: "\F1B4A";
 }
 
 .mdi-folder-move::before {
@@ -12438,8 +12582,16 @@
   content: "\F1956";
 }
 
+.mdi-format-letter-spacing-variant::before {
+  content: "\F1AFB";
+}
+
 .mdi-format-letter-starts-with::before {
   content: "\F0FBA";
+}
+
+.mdi-format-line-height::before {
+  content: "\F1AFC";
 }
 
 .mdi-format-line-spacing::before {
@@ -12512,6 +12664,10 @@
 
 .mdi-format-paragraph::before {
   content: "\F027D";
+}
+
+.mdi-format-paragraph-spacing::before {
+  content: "\F1AFD";
 }
 
 .mdi-format-pilcrow::before {
@@ -13068,6 +13224,10 @@
 
 .mdi-gate-arrow-right::before {
   content: "\F1169";
+}
+
+.mdi-gate-buffer::before {
+  content: "\F1AFE";
 }
 
 .mdi-gate-nand::before {
@@ -14774,6 +14934,14 @@
   content: "\F02EE";
 }
 
+.mdi-image-check::before {
+  content: "\F1B25";
+}
+
+.mdi-image-check-outline::before {
+  content: "\F1B26";
+}
+
 .mdi-image-edit::before {
   content: "\F11E3";
 }
@@ -14850,6 +15018,10 @@
   content: "\F1419";
 }
 
+.mdi-image-minus-outline::before {
+  content: "\F1B47";
+}
+
 .mdi-image-move::before {
   content: "\F09F8";
 }
@@ -14878,6 +15050,10 @@
   content: "\F087C";
 }
 
+.mdi-image-plus-outline::before {
+  content: "\F1B46";
+}
+
 .mdi-image-refresh::before {
   content: "\F19FE";
 }
@@ -14888,6 +15064,10 @@
 
 .mdi-image-remove::before {
   content: "\F1418";
+}
+
+.mdi-image-remove-outline::before {
+  content: "\F1B48";
 }
 
 .mdi-image-search::before {
@@ -16674,6 +16854,14 @@
   content: "\F1AB8";
 }
 
+.mdi-medication::before {
+  content: "\F1B14";
+}
+
+.mdi-medication-outline::before {
+  content: "\F1B15";
+}
+
 .mdi-meditation::before {
   content: "\F117B";
 }
@@ -17472,6 +17660,10 @@
 
 .mdi-motorbike-electric::before {
   content: "\F15BA";
+}
+
+.mdi-motorbike-off::before {
+  content: "\F1B16";
 }
 
 .mdi-mouse::before {
@@ -18858,6 +19050,10 @@
   content: "\F03D3";
 }
 
+.mdi-package-check::before {
+  content: "\F1B51";
+}
+
 .mdi-package-down::before {
   content: "\F03D4";
 }
@@ -18872,6 +19068,10 @@
 
 .mdi-package-variant-closed::before {
   content: "\F03D7";
+}
+
+.mdi-package-variant-closed-check::before {
+  content: "\F1B52";
 }
 
 .mdi-package-variant-closed-minus::before {
@@ -19494,6 +19694,14 @@
   content: "\F03F7";
 }
 
+.mdi-phone-incoming-outgoing::before {
+  content: "\F1B3F";
+}
+
+.mdi-phone-incoming-outgoing-outline::before {
+  content: "\F1B40";
+}
+
 .mdi-phone-incoming-outline::before {
   content: "\F1193";
 }
@@ -19706,6 +19914,10 @@
   content: "\F0402";
 }
 
+.mdi-pill-multiple::before {
+  content: "\F1B4C";
+}
+
 .mdi-pill-off::before {
   content: "\F1A5C";
 }
@@ -19792,6 +20004,14 @@
 
 .mdi-pizza::before {
   content: "\F0409";
+}
+
+.mdi-plane-car::before {
+  content: "\F1AFF";
+}
+
+.mdi-plane-train::before {
+  content: "\F1B00";
 }
 
 .mdi-play::before {
@@ -20238,8 +20458,20 @@
   content: "\F18B9";
 }
 
+.mdi-printer-3d-nozzle-off::before {
+  content: "\F1B19";
+}
+
+.mdi-printer-3d-nozzle-off-outline::before {
+  content: "\F1B1A";
+}
+
 .mdi-printer-3d-nozzle-outline::before {
   content: "\F0E5C";
+}
+
+.mdi-printer-3d-off::before {
+  content: "\F1B0E";
 }
 
 .mdi-printer-alert::before {
@@ -20400,6 +20632,10 @@
 
 .mdi-pump::before {
   content: "\F1402";
+}
+
+.mdi-pump-off::before {
+  content: "\F1B22";
 }
 
 .mdi-pumpkin::before {
@@ -21116,6 +21352,10 @@
 
 .mdi-rewind-30::before {
   content: "\F0D96";
+}
+
+.mdi-rewind-45::before {
+  content: "\F1B13";
 }
 
 .mdi-rewind-5::before {
@@ -22486,6 +22726,14 @@
   content: "\F0FDD";
 }
 
+.mdi-sign-language::before {
+  content: "\F1B4D";
+}
+
+.mdi-sign-language-outline::before {
+  content: "\F1B4E";
+}
+
 .mdi-sign-pole::before {
   content: "\F14F8";
 }
@@ -23274,6 +23522,10 @@
   content: "\F09A2";
 }
 
+.mdi-speaker-message::before {
+  content: "\F1B11";
+}
+
 .mdi-speaker-multiple::before {
   content: "\F0D38";
 }
@@ -23464,6 +23716,10 @@
 
 .mdi-stadium::before {
   content: "\F0FF9";
+}
+
+.mdi-stadium-outline::before {
+  content: "\F1B03";
 }
 
 .mdi-stadium-variant::before {
@@ -23938,6 +24194,14 @@
   content: "\F0786";
 }
 
+.mdi-sun-angle::before {
+  content: "\F1B27";
+}
+
+.mdi-sun-angle-outline::before {
+  content: "\F1B28";
+}
+
 .mdi-sun-clock::before {
   content: "\F1A77";
 }
@@ -24092,6 +24356,14 @@
 
 .mdi-symfony::before {
   content: "\F0AE6";
+}
+
+.mdi-synagogue::before {
+  content: "\F1B04";
+}
+
+.mdi-synagogue-outline::before {
+  content: "\F1B05";
 }
 
 .mdi-sync::before {
@@ -24288,6 +24560,10 @@
 
 .mdi-table-plus::before {
   content: "\F0A75";
+}
+
+.mdi-table-question::before {
+  content: "\F1B21";
 }
 
 .mdi-table-refresh::before {
@@ -24598,6 +24874,14 @@
   content: "\F1110";
 }
 
+.mdi-television-speaker::before {
+  content: "\F1B1B";
+}
+
+.mdi-television-speaker-off::before {
+  content: "\F1B1C";
+}
+
 .mdi-television-stop::before {
   content: "\F0F8A";
 }
@@ -24612,6 +24896,22 @@
 
 .mdi-temperature-kelvin::before {
   content: "\F0506";
+}
+
+.mdi-temple-buddhist::before {
+  content: "\F1B06";
+}
+
+.mdi-temple-buddhist-outline::before {
+  content: "\F1B07";
+}
+
+.mdi-temple-hindu::before {
+  content: "\F1B08";
+}
+
+.mdi-temple-hindu-outline::before {
+  content: "\F1B09";
 }
 
 .mdi-tennis::before {
@@ -24774,6 +25074,10 @@
   content: "\F0E01";
 }
 
+.mdi-thermometer-auto::before {
+  content: "\F1B0F";
+}
+
 .mdi-thermometer-bluetooth::before {
   content: "\F1895";
 }
@@ -24814,6 +25118,14 @@
   content: "\F0E05";
 }
 
+.mdi-thermometer-probe::before {
+  content: "\F1B2B";
+}
+
+.mdi-thermometer-probe-off::before {
+  content: "\F1B2C";
+}
+
 .mdi-thermometer-water::before {
   content: "\F1A80";
 }
@@ -24822,8 +25134,16 @@
   content: "\F0393";
 }
 
+.mdi-thermostat-auto::before {
+  content: "\F1B17";
+}
+
 .mdi-thermostat-box::before {
   content: "\F0891";
+}
+
+.mdi-thermostat-box-auto::before {
+  content: "\F1B18";
 }
 
 .mdi-thought-bubble::before {
@@ -25406,6 +25726,10 @@
   content: "\F0914";
 }
 
+.mdi-track-light-off::before {
+  content: "\F1B01";
+}
+
 .mdi-trackpad::before {
   content: "\F07F8";
 }
@@ -25446,6 +25770,74 @@
   content: "\F0BD8";
 }
 
+.mdi-train-car-autorack::before {
+  content: "\F1B2D";
+}
+
+.mdi-train-car-box::before {
+  content: "\F1B2E";
+}
+
+.mdi-train-car-box-full::before {
+  content: "\F1B2F";
+}
+
+.mdi-train-car-box-open::before {
+  content: "\F1B30";
+}
+
+.mdi-train-car-caboose::before {
+  content: "\F1B31";
+}
+
+.mdi-train-car-centerbeam::before {
+  content: "\F1B32";
+}
+
+.mdi-train-car-centerbeam-full::before {
+  content: "\F1B33";
+}
+
+.mdi-train-car-container::before {
+  content: "\F1B34";
+}
+
+.mdi-train-car-flatbed::before {
+  content: "\F1B35";
+}
+
+.mdi-train-car-flatbed-car::before {
+  content: "\F1B36";
+}
+
+.mdi-train-car-flatbed-tank::before {
+  content: "\F1B37";
+}
+
+.mdi-train-car-gondola::before {
+  content: "\F1B38";
+}
+
+.mdi-train-car-gondola-full::before {
+  content: "\F1B39";
+}
+
+.mdi-train-car-hopper::before {
+  content: "\F1B3A";
+}
+
+.mdi-train-car-hopper-covered::before {
+  content: "\F1B3B";
+}
+
+.mdi-train-car-hopper-full::before {
+  content: "\F1B3C";
+}
+
+.mdi-train-car-intermodal::before {
+  content: "\F1B3D";
+}
+
 .mdi-train-car-passenger::before {
   content: "\F1733";
 }
@@ -25460,6 +25852,10 @@
 
 .mdi-train-car-passenger-variant::before {
   content: "\F1736";
+}
+
+.mdi-train-car-tank::before {
+  content: "\F1B3E";
 }
 
 .mdi-train-variant::before {
@@ -26556,6 +26952,10 @@
 
 .mdi-volleyball::before {
   content: "\F09B4";
+}
+
+.mdi-volume-equal::before {
+  content: "\F1B10";
 }
 
 .mdi-volume-high::before {
