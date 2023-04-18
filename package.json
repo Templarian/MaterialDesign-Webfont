@@ -1,6 +1,6 @@
 {
     "name": "@andes/icons",
-    "version": "1.1.18",
+    "version": "1.1.19",
     "description": "Andes WebFont Icons, aimed for health applications",
     "style": "css/andes-icons.css",
     "scripts": {

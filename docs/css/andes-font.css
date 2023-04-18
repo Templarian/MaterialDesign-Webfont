@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?41702309');
-  src: url('../font/andes-font.eot?41702309#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?41702309') format('woff2'),
-       url('../font/andes-font.woff?41702309') format('woff'),
-       url('../font/andes-font.ttf?41702309') format('truetype'),
-       url('../font/andes-font.svg?41702309#andes-font') format('svg');
+  src: url('../font/andes-font.eot?83816042');
+  src: url('../font/andes-font.eot?83816042#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?83816042') format('woff2'),
+       url('../font/andes-font.woff?83816042') format('woff'),
+       url('../font/andes-font.ttf?83816042') format('truetype'),
+       url('../font/andes-font.svg?83816042#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?41702309#andes-font') format('svg');
+    src: url('../font/andes-font.svg?83816042#andes-font') format('svg');
   }
 }
 */
@@ -330,6 +330,7 @@
 .adi-checkbox-blank-circle:before { content: '\e910'; } /* '' */
 .adi-avion:before { content: '\e911'; } /* '' */
 .adi-checkbox-blank-circle-outline:before { content: '\e912'; } /* '' */
+.adi-file-cancel-outline:before { content: '\e913'; } /* '' */
 .adi-chevron-up:before { content: '\e914'; } /* '' */
 .adi-city:before { content: '\e915'; } /* '' */
 .adi-clipboard:before { content: '\e916'; } /* '' */

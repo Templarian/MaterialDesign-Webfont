@@ -1907,6 +1907,9 @@
 .adi-respirador-cnbf:before {
   content: "\ea73"; }
 
+.adi-file-cancel-outline:before {
+  content: "\e913"; }
+
 .adi-blank:before {
   content: "\F68C";
   visibility: hidden; }

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
 <defs>
 <font id="andes-font" horiz-adv-x="1000" >
 <font-face font-family="andes-font" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -555,6 +555,8 @@
 <glyph glyph-name="avion" unicode="&#xe911;" d="M976 150v100l-400 250v274c0 42-34 76-76 76s-76-34-76-76v-276l-398-248v-100l400 126v-276l-100-76v-74l176 50 176-50v76l-100 76v272l398-124z" horiz-adv-x="1000" />
 
 <glyph glyph-name="checkbox-blank-circle-outline" unicode="&#xe912;" d="M500 16q-90 0-167 45t-122 122-45 167 45 167 122 122 167 45 167-45 122-122 45-167-45-167-122-122-167-45z m0 750q-82 0-159-31t-136-90-90-136-31-159 31-159 90-136 136-90 159-31 159 31 136 90 90 136 31 159-31 159-90 136-136 90-159 31z" horiz-adv-x="1000" />
+
+<glyph glyph-name="file-cancel-outline" unicode="&#xe913;" d="M583 767l250-250v-500a83 83 0 0 0-83-84h-500a83 83 0 0 0-83 84v666a83 83 0 0 0 83 84h333m167-750v458h-208v208h-292v-666h500m-271 416c104 0 188-83 188-187 0-104-84-188-188-188-104 0-187 84-187 188 0 104 83 187 187 187m0-62c-23 0-45-6-62-18l170-170c11 18 17 40 17 63a125 125 0 0 1-125 125m-125-125a125 125 0 0 1 125-125c24 0 45 6 63 17l-170 170c-12-17-18-39-18-62z" horiz-adv-x="1000" />
 
 <glyph glyph-name="chevron-up" unicode="&#xe914;" d="M309 207l191 192 191-192 59 59-250 250-250-250z" horiz-adv-x="1000" />
 
