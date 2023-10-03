@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'andes-font';
-  src: url('../font/andes-font.eot?5691436');
-  src: url('../font/andes-font.eot?5691436#iefix') format('embedded-opentype'),
-       url('../font/andes-font.woff2?5691436') format('woff2'),
-       url('../font/andes-font.woff?5691436') format('woff'),
-       url('../font/andes-font.ttf?5691436') format('truetype'),
-       url('../font/andes-font.svg?5691436#andes-font') format('svg');
+  src: url('../font/andes-font.eot?87669123');
+  src: url('../font/andes-font.eot?87669123#iefix') format('embedded-opentype'),
+       url('../font/andes-font.woff2?87669123') format('woff2'),
+       url('../font/andes-font.woff?87669123') format('woff'),
+       url('../font/andes-font.ttf?87669123') format('truetype'),
+       url('../font/andes-font.svg?87669123#andes-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'andes-font';
-    src: url('../font/andes-font.svg?5691436#andes-font') format('svg');
+    src: url('../font/andes-font.svg?87669123#andes-font') format('svg');
   }
 }
 */
@@ -393,6 +393,7 @@
 .adi-message-alert:before { content: '\e94f'; } /* '' */
 .adi-numeric-2-box-multiple-outline:before { content: '\e950'; } /* '' */
 .adi-open-in-app:before { content: '\e951'; } /* '' */
+.adi-jpg-outiline:before { content: '\e952'; } /* '' */
 .adi-package:before { content: '\e953'; } /* '' */
 .adi-panda:before { content: '\e954'; } /* '' */
 .adi-pause:before { content: '\e955'; } /* '' */
@@ -683,6 +684,7 @@
 .adi-exportar-corazon:before { content: '\ea72'; } /* '' */
 .adi-respirador-cnbf:before { content: '\ea73'; } /* '' */
 .adi-respirador-mr:before { content: '\ea74'; } /* '' */
+.adi-jpg:before { content: '\ea75'; } /* '' */
 .adi-respirador-ambu:before { content: '\ea76'; } /* '' */
 .adi-respirador-arm:before { content: '\ea77'; } /* '' */
 .adi-respirador-cnaf:before { content: '\ea78'; } /* '' */
@@ -703,6 +705,11 @@
 .adi-qr:before { content: '\ea87'; } /* '' */
 .adi-rama:before { content: '\ea88'; } /* '' */
 .adi-union:before { content: '\ea89'; } /* '' */
-.adi-sip-plus:before { content: '\ea8a'; } /* '' */
+.adi-sipplus:before { content: '\ea8a'; } /* '' */
 .adi-vacuna-check:before { content: '\ea8b'; } /* '' */
 .adi-vacuna-cruz:before { content: '\ea8c'; } /* '' */
+.adi-mp4-outline:before { content: '\ea8d'; } /* '' */
+.adi-mp4:before { content: '\ea8e'; } /* '' */
+.adi-pdf-outline:before { content: '\ea8f'; } /* '' */
+.adi-pdf:before { content: '\ea90'; } /* '' */
+.adi-sipplus-circulo:before { content: '\ea91'; } /* '' */

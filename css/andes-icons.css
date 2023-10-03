@@ -1946,9 +1946,6 @@
 .adi-vacuna-check:before {
   content: "\ea8b"; }
 
-.adi-sip-plus:before {
-  content: "\ea8a"; }
-
 .adi-rama:before {
   content: "\ea88"; }
 
@@ -1958,9 +1955,6 @@
 .adi-edificio-otro:before {
   content: "\ea86"; }
 
-.adi-notas-mas:before {
-  content: "\ea84"; }
-
 .adi-nota-lapiz:before {
   content: "\ea83"; }
 
@@ -1969,6 +1963,33 @@
 
 .adi-union:before {
   content: "\ea89"; }
+
+.adi-jpg:before {
+  content: "\ea75"; }
+
+.adi-mp4:before {
+  content: "\ea8e"; }
+
+.adi-pdf-outline:before {
+  content: "\ea8f"; }
+
+.adi-pdf:before {
+  content: "\ea90"; }
+
+.adi-jpg-outiline:before {
+  content: "\e952"; }
+
+.adi-mp4-outline:before {
+  content: "\ea8d"; }
+
+.adi-notas-mas:before {
+  content: "\ea84"; }
+
+.adi-sipplus:before {
+  content: "\ea8a"; }
+
+.adi-sipplus-circulo:before {
+  content: "\ea91"; }
 
 .adi-blank:before {
   content: "\F68C";

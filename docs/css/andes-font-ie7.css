@@ -348,6 +348,7 @@
 .adi-message-alert { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94f;&nbsp;'); }
 .adi-numeric-2-box-multiple-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe950;&nbsp;'); }
 .adi-open-in-app { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;&nbsp;'); }
+.adi-jpg-outiline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;&nbsp;'); }
 .adi-package { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;&nbsp;'); }
 .adi-panda { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;&nbsp;'); }
 .adi-pause { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe955;&nbsp;'); }
@@ -638,6 +639,7 @@
 .adi-exportar-corazon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea72;&nbsp;'); }
 .adi-respirador-cnbf { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea73;&nbsp;'); }
 .adi-respirador-mr { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea74;&nbsp;'); }
+.adi-jpg { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea75;&nbsp;'); }
 .adi-respirador-ambu { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea76;&nbsp;'); }
 .adi-respirador-arm { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea77;&nbsp;'); }
 .adi-respirador-cnaf { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea78;&nbsp;'); }
@@ -658,6 +660,11 @@
 .adi-qr { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea87;&nbsp;'); }
 .adi-rama { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea88;&nbsp;'); }
 .adi-union { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea89;&nbsp;'); }
-.adi-sip-plus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8a;&nbsp;'); }
+.adi-sipplus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8a;&nbsp;'); }
 .adi-vacuna-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8b;&nbsp;'); }
 .adi-vacuna-cruz { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8c;&nbsp;'); }
+.adi-mp4-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8d;&nbsp;'); }
+.adi-mp4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8e;&nbsp;'); }
+.adi-pdf-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8f;&nbsp;'); }
+.adi-pdf { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea90;&nbsp;'); }
+.adi-sipplus-circulo { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea91;&nbsp;'); }
