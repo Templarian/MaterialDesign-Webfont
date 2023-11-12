@@ -5,6 +5,7 @@
   src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=7.3.67") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=7.3.67") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=7.3.67") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=7.3.67") format("truetype");
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 .mdi:before,
