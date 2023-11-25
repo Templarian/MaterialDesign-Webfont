@@ -29529,15 +29529,16 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(45deg);
             transform: scaleX(-1) rotate(45deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
+  
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(45deg);
             -ms-transform: rotate(45deg);
             transform: scaleY(-1) rotate(45deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+            filter: FlipV;
         }
         */
 }
@@ -29554,15 +29555,15 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(90deg);
             transform: scaleX(-1) rotate(90deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(90deg);
             -ms-transform: rotate(90deg);
             transform: scaleY(-1) rotate(90deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+            filter: FlipV;
         }
         */
 }
@@ -29579,15 +29580,15 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(135deg);
             transform: scaleX(-1) rotate(135deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(135deg);
             -ms-transform: rotate(135deg);
             transform: scaleY(-1) rotate(135deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+             filter: FlipV;
         }
         */
 }
@@ -29604,15 +29605,15 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(180deg);
             transform: scaleX(-1) rotate(180deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(180deg);
             -ms-transform: rotate(180deg);
             transform: scaleY(-1) rotate(180deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+            filter: FlipV;
         }
         */
 }
@@ -29629,15 +29630,15 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(225deg);
             transform: scaleX(-1) rotate(225deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(225deg);
             -ms-transform: rotate(225deg);
             transform: scaleY(-1) rotate(225deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+            filter: FlipV;
         }
         */
 }
@@ -29654,15 +29655,15 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(270deg);
             transform: scaleX(-1) rotate(270deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(270deg);
             -ms-transform: rotate(270deg);
             transform: scaleY(-1) rotate(270deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+            filter: FlipV;
         }
         */
 }
@@ -29679,15 +29680,15 @@
         &.mdi-flip-h:before {
             -webkit-transform: scaleX(-1) rotate(315deg);
             transform: scaleX(-1) rotate(315deg);
-            filter: FlipH;
             -ms-filter: "FlipH";
+            filter: FlipH;
         }
         &.mdi-flip-v:before {
             -webkit-transform: scaleY(-1) rotate(315deg);
             -ms-transform: rotate(315deg);
             transform: scaleY(-1) rotate(315deg);
-            filter: FlipV;
             -ms-filter: "FlipV";
+            filter: FlipV;
         }
         */
 }
@@ -29701,15 +29702,15 @@
 .mdi-flip-h:before {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
-  filter: FlipH;
   -ms-filter: "FlipH";
+  filter: FlipH;
 }
 
 .mdi-flip-v:before {
   -webkit-transform: scaleY(-1);
   transform: scaleY(-1);
-  filter: FlipV;
   -ms-filter: "FlipV";
+  filter: FlipV;
 }
 
 .mdi-spin:before {
