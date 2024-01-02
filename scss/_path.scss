@@ -1,10 +1,18 @@
 @font-face {
+  @function mdi-version-string($v, $c) {
+    $version-string: "";
+    @if $v and $v != "0" {
+      $version-string: "#{$c}#{$v}";
+    }
+    @return $version-string;
+  }
+
   font-family: '#{$mdi-font-name}';
-  src: url('#{$mdi-font-path}/#{$mdi-filename}-webfont.eot?v=#{$mdi-version}');
-  src: url('#{$mdi-font-path}/#{$mdi-filename}-webfont.eot?#iefix&v=#{$mdi-version}') format('embedded-opentype'),
-    url('#{$mdi-font-path}/#{$mdi-filename}-webfont.woff2?v=#{$mdi-version}') format('woff2'),
-    url('#{$mdi-font-path}/#{$mdi-filename}-webfont.woff?v=#{$mdi-version}') format('woff'),
-    url('#{$mdi-font-path}/#{$mdi-filename}-webfont.ttf?v=#{$mdi-version}') format('truetype');
+  src: url('#{$mdi-font-path}/#{$mdi-filename}-webfont.eot#{mdi-version-string($mdi-version, "?v")}');
+  src: url('#{$mdi-font-path}/#{$mdi-filename}-webfont.eot?#iefix#{mdi-version-string($mdi-version, "&v=")}') format('embedded-opentype'),
+    url('#{$mdi-font-path}/#{$mdi-filename}-webfont.woff2#{mdi-version-string($mdi-version, "?v")}') format('woff2'),
+    url('#{$mdi-font-path}/#{$mdi-filename}-webfont.woff#{mdi-version-string($mdi-version, "?v")}') format('woff'),
+    url('#{$mdi-font-path}/#{$mdi-filename}-webfont.ttf#{mdi-version-string($mdi-version, "?v")}') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
